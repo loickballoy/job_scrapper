@@ -55,7 +55,9 @@ REGIONS = [
     ("Remote (Europe)", "🌍",
      r"remote.{0,30}(?:europe|emea|\beu\b|european|eea)|(?:europe|emea|\beu\b|european|eea).{0,30}remote|"
      r"anywhere in europe"),
-     ("France", "fr", r"france|paris|lyon|ville|fr|FR"),
+     ("France", "🇫🇷",
+      r"paris(?!,?\s*(?:tx|texas|ky|kentucky|tn|tennessee|on\b|ontario|il|illinois|id|idaho|"
+      r"me|maine|mo|missouri)\b)|\bparis,?\s*france\b"),
 ]
 
 # Régions réellement affichées. Retire-en / ajoute-en selon ta recherche.
