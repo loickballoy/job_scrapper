@@ -1,0 +1,13 @@
+services:
+  gradjobs:
+    build: .
+    volumes:
+      - ./data:/app/data
+      - ./README.md:/app/README.md
+    # Un run par jour suffit largement (les offres graduate ne tournent pas en minutes).
+    entrypoint: >
+      sh -c "while true; do
+        python3 -m gradjobs run;
+        echo '--- prochain run dans 24h ---';
+        sleep 86400;
+      done"

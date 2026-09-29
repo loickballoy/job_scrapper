@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# Cache local (listes d'entreprises téléchargées, état des slugs invalides).
+# Les listes d'entreprises sont sous CC BY-NC 4.0 : on les télécharge à l'exécution,
+# on ne les redistribue pas dans ce dépôt.
+data/cache/
