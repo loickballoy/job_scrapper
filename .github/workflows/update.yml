@@ -1,0 +1,28 @@
+name: Update job list
+on:
+  schedule:
+    - cron: "0 7 * * *"   # tous les jours à 7h UTC
+  workflow_dispatch: {}     # + déclenchement manuel depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m gradjobs run
+      # cli.py rend déjà le run atomique : code 2 et rien n'est écrit si trop de boards
+      # échouent, donc si on arrive ici, README.md et data/jobs.json sont à jour et fiables.
+      - name: Commit si changement
+        run: |
+          git config user.name "gradjobs-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md data/jobs.json
+          git diff --cached --quiet || git commit -m "Update job list ($(date -u +%Y-%m-%d))"
+          git push
