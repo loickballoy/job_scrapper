@@ -904,7 +904,7 @@
   },
   "ashby:eye-security:060db520-64e6-47b3-8522-2f2526e78c44": {
    "ats": "ashby",
-   "closed_on": null,
+   "closed_on": "2026-09-29",
    "company": "Eye Security",
    "employment_type": "FullTime",
    "first_seen": "2026-09-29",
@@ -921,7 +921,7 @@
    "posted": "2026-07-30",
    "region": "Netherlands",
    "slug": "eye-security",
-   "status": "open",
+   "status": "closed",
    "title": "Junior Cyber Security Consultant (m/f/x)",
    "updated": "2026-07-30T08:47:46.847+00:00",
    "url": "https://jobs.ashbyhq.com/eye-security/060db520-64e6-47b3-8522-2f2526e78c44"
@@ -1272,6 +1272,31 @@
    "title": "Field Deployment Engineer",
    "updated": "2026-08-04T16:43:25.741+00:00",
    "url": "https://jobs.ashbyhq.com/harmattan-ai/10a69b06-3fde-4eb5-993d-c4ec957642f3"
+  },
+  "ashby:harmattan-ai:34738901-8da0-46c1-b152-062b82d2f795": {
+   "ats": "ashby",
+   "closed_on": null,
+   "company": "Harmattan Ai",
+   "employment_type": "FullTime",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "ashby:harmattan-ai:34738901-8da0-46c1-b152-062b82d2f795",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Paris",
+    "Paris, France"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-29",
+   "region": "France",
+   "slug": "harmattan-ai",
+   "status": "open",
+   "title": "Signal Processing Engineer (Radar)",
+   "updated": "2026-09-29T08:46:33.628+00:00",
+   "url": "https://jobs.ashbyhq.com/harmattan-ai/34738901-8da0-46c1-b152-062b82d2f795"
   },
   "ashby:harmattan-ai:361b01cd-1e9a-4827-9bcc-36b8aa403aa3": {
    "ats": "ashby",
@@ -2040,7 +2065,7 @@
   },
   "ashby:mintmcp:83584770-dd7c-499d-973f-36829bed51ad": {
    "ats": "ashby",
-   "closed_on": null,
+   "closed_on": "2026-09-29",
    "company": "Mintmcp",
    "employment_type": "FullTime",
    "first_seen": "2026-09-29",
@@ -2059,7 +2084,7 @@
    "posted": "2026-09-28",
    "region": "France",
    "slug": "mintmcp",
-   "status": "open",
+   "status": "closed",
    "title": "Software Engineer",
    "updated": "2026-09-28T14:24:21.245+00:00",
    "url": "https://jobs.ashbyhq.com/mintmcp/83584770-dd7c-499d-973f-36829bed51ad"
@@ -3766,7 +3791,7 @@
   },
   "greenhouse:alayacare:8653380002": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-09-29",
    "company": "AlayaCare",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -3781,7 +3806,7 @@
    "posted": "2026-07-28",
    "region": "Canada",
    "slug": "alayacare",
-   "status": "open",
+   "status": "closed",
    "title": "Junior Fullstack Developer (Python)",
    "updated": "2026-08-26T10:33:17-04:00",
    "url": "https://alayacare.com/open-positions?gh_jid=8653380002"
@@ -3812,7 +3837,7 @@
   },
   "greenhouse:alayacare:8811313002": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-09-29",
    "company": "AlayaCare",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -3829,7 +3854,7 @@
    "posted": "2026-09-15",
    "region": "Canada",
    "slug": "alayacare",
-   "status": "open",
+   "status": "closed",
    "title": "Fullstack Developer (Python) - Platform Team",
    "updated": "2026-09-15T11:59:27-04:00",
    "url": "https://alayacare.com/open-positions?gh_jid=8811313002"
@@ -4601,6 +4626,28 @@
    "updated": "2026-09-09T21:25:36-04:00",
    "url": "https://boards.greenhouse.io/chime/jobs/8782503002?gh_jid=8782503002"
   },
+  "greenhouse:clinchoice:4989609101": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "ClinChoice",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:clinchoice:4989609101",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "Mississauga, Ontario , Canada"
+   ],
+   "min_years": 0,
+   "posted": "2026-09-29",
+   "region": "Canada",
+   "slug": "clinchoice",
+   "status": "open",
+   "title": "Junior Statistical Programmer Analyst _Permanent Role_(CANADA)",
+   "updated": "2026-09-29T09:15:43-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/clinchoice/jobs/4989609101"
+  },
   "greenhouse:clutch:6173901004": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -4958,6 +5005,28 @@
    "title": "Software Engineer - Research Technology",
    "updated": "2026-09-07T04:57:06-04:00",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/8176064"
+  },
+  "greenhouse:elwoodtechnologies:6209718004": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Elwood Technologies",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:elwoodtechnologies:6209718004",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "London"
+   ],
+   "min_years": null,
+   "posted": "2026-09-29",
+   "region": "United Kingdom",
+   "slug": "elwoodtechnologies",
+   "status": "open",
+   "title": "Graduate/Junior Software Engineer",
+   "updated": "2026-09-29T04:41:58-04:00",
+   "url": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6209718004"
   },
   "greenhouse:energyhub:8652307002": {
    "ats": "greenhouse",
@@ -5573,7 +5642,7 @@
    "slug": "imc",
    "status": "open",
    "title": "Graduate Software Engineer (2027)",
-   "updated": "2026-09-28T17:49:10-04:00",
+   "updated": "2026-09-29T11:19:49-04:00",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4667814101"
   },
   "greenhouse:imc:4945420101": {
@@ -5595,7 +5664,7 @@
    "slug": "imc",
    "status": "open",
    "title": "C++ Software Engineer, Early Careers",
-   "updated": "2026-09-28T17:49:10-04:00",
+   "updated": "2026-09-29T11:19:49-04:00",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4945420101"
   },
   "greenhouse:intrinsicrobotics:6186649004": {
@@ -5718,7 +5787,7 @@
   },
   "greenhouse:justworks:7957539": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-09-29",
    "company": "Justworks",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -5733,7 +5802,7 @@
    "posted": "2026-08-27",
    "region": "Canada",
    "slug": "justworks",
-   "status": "open",
+   "status": "closed",
    "title": "Associate Software Engineer, Expenses",
    "updated": "2026-09-04T10:38:42-04:00",
    "url": "https://boards.greenhouse.io/justworks/jobs/7957539?gh_jid=7957539"
@@ -6519,7 +6588,7 @@
    "slug": "optiverus",
    "status": "open",
    "title": "Graduate Software Engineer",
-   "updated": "2026-09-28T10:24:11-04:00",
+   "updated": "2026-09-29T05:43:06-04:00",
    "url": "https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002"
   },
   "greenhouse:optiverus:8561859002": {
@@ -6716,7 +6785,7 @@
   },
   "greenhouse:redwoodmaterials:6003203004": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-09-29",
    "company": "Redwood Materials",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -6733,14 +6802,14 @@
    "posted": "2026-07-09",
    "region": "France",
    "slug": "redwoodmaterials",
-   "status": "open",
+   "status": "closed",
    "title": "Embedded Software Engineer – Power Electronics, Energy Storage",
    "updated": "2026-09-29T03:46:49-04:00",
    "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6003203004?gh_jid=6003203004"
   },
   "greenhouse:redwoodmaterials:6139226004": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-09-29",
    "company": "Redwood Materials",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -6757,7 +6826,7 @@
    "posted": "2026-08-07",
    "region": "France",
    "slug": "redwoodmaterials",
-   "status": "open",
+   "status": "closed",
    "title": "Software Validation Engineer, Energy Storage",
    "updated": "2026-09-29T03:17:00-04:00",
    "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139226004?gh_jid=6139226004"
@@ -6831,7 +6900,7 @@
    "slug": "roku",
    "status": "open",
    "title": "Software Engineer, Agentic AI",
-   "updated": "2026-09-28T20:06:12-04:00",
+   "updated": "2026-09-29T12:10:11-04:00",
    "url": "https://www.weareroku.com/jobs/8096018?gh_jid=8096018"
   },
   "greenhouse:saltxc:5219899007": {
@@ -6857,6 +6926,731 @@
    "title": "Software Engineer",
    "updated": "2026-09-02T09:55:16-04:00",
    "url": "https://job-boards.greenhouse.io/saltxc/jobs/5219899007"
+  },
+  "greenhouse:scaleai:4730862005": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Scale AI",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:scaleai:4730862005",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "London, UK"
+   ],
+   "min_years": null,
+   "posted": "2026-09-14",
+   "region": "United Kingdom",
+   "slug": "scaleai",
+   "status": "open",
+   "title": "Software Engineer - New Grad",
+   "updated": "2026-09-14T09:11:20-04:00",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005"
+  },
+  "greenhouse:simplifynext:5236654007": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "SimplifyNext",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:simplifynext:5236654007",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Singapore"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-14",
+   "region": "Singapore",
+   "slug": "simplifynext",
+   "status": "open",
+   "title": "Full Stack Developer",
+   "updated": "2026-09-23T03:33:54-04:00",
+   "url": "https://job-boards.greenhouse.io/simplifynext/jobs/5236654007"
+  },
+  "greenhouse:smartlyio:6192724004": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Smartly",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:smartlyio:6192724004",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Helsinki, Uusimaa, Finland"
+   ],
+   "min_years": null,
+   "posted": "2026-09-15",
+   "region": "Nordics",
+   "slug": "smartlyio",
+   "status": "open",
+   "title": "Smartly Launchpad 2027 (Software Engineer)",
+   "updated": "2026-09-29T13:06:33-04:00",
+   "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6192724004"
+  },
+  "greenhouse:solarisbank:8596685002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Solaris",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:solarisbank:8596685002",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Berlin"
+   ],
+   "min_years": 2,
+   "posted": "2026-07-07",
+   "region": "Germany",
+   "slug": "solarisbank",
+   "status": "open",
+   "title": "Cyber Security Engineer (Vulnerability Management & SecOperations)",
+   "updated": "2026-09-15T06:13:24-04:00",
+   "url": "https://job-boards.greenhouse.io/solarisbank/jobs/8596685002"
+  },
+  "greenhouse:squarepointcapital:6380892": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Squarepoint Capital",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:squarepointcapital:6380892",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "New York, London, Singapore"
+   ],
+   "min_years": null,
+   "posted": "2026-07-23",
+   "region": "United Kingdom",
+   "slug": "squarepointcapital",
+   "status": "open",
+   "title": "Junior SRE",
+   "updated": "2026-08-06T07:00:40-04:00",
+   "url": "https://www.squarepoint-capital.com/open-opportunities?id=6380892&gh_jid=6380892"
+  },
+  "greenhouse:stripe:8076626": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Stripe",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:stripe:8076626",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Dublin, Ireland"
+   ],
+   "min_years": 2,
+   "posted": "2026-07-23",
+   "region": "Ireland",
+   "slug": "stripe",
+   "status": "open",
+   "title": "Software Engineer, Stripe Tax",
+   "updated": "2026-09-25T16:44:50-04:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8076626"
+  },
+  "greenhouse:stripe:8130881": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Stripe",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:stripe:8130881",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "Dublin"
+   ],
+   "min_years": null,
+   "posted": "2026-08-31",
+   "region": "Ireland",
+   "slug": "stripe",
+   "status": "open",
+   "title": "Software Engineer, New Grad",
+   "updated": "2026-09-25T16:44:55-04:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130881"
+  },
+  "greenhouse:stripe:8130930": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Stripe",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:stripe:8130930",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "London"
+   ],
+   "min_years": null,
+   "posted": "2026-08-31",
+   "region": "United Kingdom",
+   "slug": "stripe",
+   "status": "open",
+   "title": "Software Engineer, New Grad",
+   "updated": "2026-09-25T16:44:55-04:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130930"
+  },
+  "greenhouse:stripe:8157838": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Stripe",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:stripe:8157838",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "Toronto"
+   ],
+   "min_years": null,
+   "posted": "2026-08-31",
+   "region": "Canada",
+   "slug": "stripe",
+   "status": "open",
+   "title": "Software Engineer, New Grad",
+   "updated": "2026-09-25T16:44:58-04:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8157838"
+  },
+  "greenhouse:stripe:8160776": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Stripe",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:stripe:8160776",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "Singapore"
+   ],
+   "min_years": null,
+   "posted": "2026-09-02",
+   "region": "Singapore",
+   "slug": "stripe",
+   "status": "open",
+   "title": "Software Engineer, New Grad",
+   "updated": "2026-09-25T16:44:59-04:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8160776"
+  },
+  "greenhouse:stripe:8212517": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Stripe",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:stripe:8212517",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "Toronto"
+   ],
+   "min_years": null,
+   "posted": "2026-09-17",
+   "region": "Canada",
+   "slug": "stripe",
+   "status": "open",
+   "title": "Software Engineer, Early Career — Immediate Start",
+   "updated": "2026-09-25T16:44:58-04:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8212517"
+  },
+  "greenhouse:teampicnic:8185415": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Picnic",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🗣️ Dutch",
+    "🔎"
+   ],
+   "key": "greenhouse:teampicnic:8185415",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Amsterdam, North Holland, Netherlands"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-08",
+   "region": "Netherlands",
+   "slug": "teampicnic",
+   "status": "open",
+   "title": "Software Engineer (Java) - Warehouse Automation",
+   "updated": "2026-09-25T04:39:51-04:00",
+   "url": "https://jobs.picnic.app/nl/vacancies?gh_jid=8185415"
+  },
+  "greenhouse:teampicnic:8195273": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Picnic",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🗣️ Dutch",
+    "✈️",
+    "🔎"
+   ],
+   "key": "greenhouse:teampicnic:8195273",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Amsterdam, North Holland, Netherlands"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-11",
+   "region": "Netherlands",
+   "slug": "teampicnic",
+   "status": "open",
+   "title": "Software Engineer - Master Data Platform (Salesforce)",
+   "updated": "2026-09-11T08:07:48-04:00",
+   "url": "https://jobs.picnic.app/nl/vacancies?gh_jid=8195273"
+  },
+  "greenhouse:telnyx54:7989641003": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Telnyx",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:telnyx54:7989641003",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "United States; Brazil; Canada"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-09",
+   "region": "Canada",
+   "slug": "telnyx54",
+   "status": "open",
+   "title": "Software Engineer, AI - Python",
+   "updated": "2026-09-11T12:46:09-04:00",
+   "url": "https://job-boards.greenhouse.io/telnyx54/jobs/7989641003"
+  },
+  "greenhouse:toast:8038744": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Toast",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:toast:8038744",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Dublin, Ireland"
+   ],
+   "min_years": 2,
+   "posted": "2026-07-08",
+   "region": "Ireland",
+   "slug": "toast",
+   "status": "open",
+   "title": "Android Software Engineer",
+   "updated": "2026-09-09T18:27:44-04:00",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8038744"
+  },
+  "greenhouse:tripactions:8174884": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Navan",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:tripactions:8174884",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Berlin, Germany"
+   ],
+   "min_years": 1,
+   "posted": "2026-09-04",
+   "region": "Germany",
+   "slug": "tripactions",
+   "status": "open",
+   "title": "Backend Software Engineer",
+   "updated": "2026-09-23T09:40:06-04:00",
+   "url": "https://navan.com/careers/openings?gh_jid=8174884"
+  },
+  "greenhouse:tripadvisor:8239945": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Tripadvisor",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:tripadvisor:8239945",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "London, UK"
+   ],
+   "min_years": 0,
+   "posted": "2026-09-29",
+   "region": "United Kingdom",
+   "slug": "tripadvisor",
+   "status": "open",
+   "title": "Software Engineer I",
+   "updated": "2026-09-29T12:11:08-04:00",
+   "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8239945"
+  },
+  "greenhouse:wayve:8842721002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Wayve",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:wayve:8842721002",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "London"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-24",
+   "region": "United Kingdom",
+   "slug": "wayve",
+   "status": "open",
+   "title": "Platform Engineer, SDO",
+   "updated": "2026-09-24T12:36:31-04:00",
+   "url": "https://wayve.firststage.co/jobs?gh_jid=8842721002"
+  },
+  "greenhouse:wehrtyou:8046074": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Hudson River Trading",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:wehrtyou:8046074",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States"
+   ],
+   "min_years": 2,
+   "posted": "2026-07-06",
+   "region": "United Kingdom",
+   "slug": "wehrtyou",
+   "status": "open",
+   "title": "Junior Trading Systems Engineer",
+   "updated": "2026-09-18T13:46:42-04:00",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074"
+  },
+  "greenhouse:winton:4986765101": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Winton",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:winton:4986765101",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "London, United Kingdom"
+   ],
+   "min_years": null,
+   "posted": "2026-09-25",
+   "region": "United Kingdom",
+   "slug": "winton",
+   "status": "open",
+   "title": "Quantitative Developer, Graduate",
+   "updated": "2026-09-25T04:25:34-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101"
+  },
+  "greenhouse:worldquant:4701096006": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "WorldQuant",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:worldquant:4701096006",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Singapore"
+   ],
+   "min_years": 2,
+   "posted": "2026-08-02",
+   "region": "Singapore",
+   "slug": "worldquant",
+   "status": "open",
+   "title": "C++ Software Engineer - Data Platform",
+   "updated": "2026-08-12T21:38:39-04:00",
+   "url": "https://job-boards.greenhouse.io/worldquant/jobs/4701096006"
+  },
+  "greenhouse:wpp:8551651002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "WPP",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:wpp:8551651002",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Copenhagen, Capital, Denmark"
+   ],
+   "min_years": 2,
+   "posted": "2026-07-30",
+   "region": "Nordics",
+   "slug": "wpp",
+   "status": "open",
+   "title": "Data Engineer",
+   "updated": "2026-09-15T16:25:40-04:00",
+   "url": "https://job-boards.greenhouse.io/wpp/jobs/8551651002"
+  },
+  "greenhouse:wpp:8642402002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "WPP",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:wpp:8642402002",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Copenhagen, Denmark"
+   ],
+   "min_years": 2,
+   "posted": "2026-07-27",
+   "region": "Nordics",
+   "slug": "wpp",
+   "status": "open",
+   "title": "Data Engineer",
+   "updated": "2026-08-28T10:50:13-04:00",
+   "url": "https://job-boards.greenhouse.io/wpp/jobs/8642402002"
+  },
+  "greenhouse:wpp:8785096002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "WPP",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [],
+   "key": "greenhouse:wpp:8785096002",
+   "last_seen": "2026-09-29",
+   "level_via": "title",
+   "locations": [
+    "Copenhagen"
+   ],
+   "min_years": null,
+   "posted": "2026-09-16",
+   "region": "Nordics",
+   "slug": "wpp",
+   "status": "open",
+   "title": "Junior Data Engineer",
+   "updated": "2026-09-16T09:53:32-04:00",
+   "url": "https://job-boards.greenhouse.io/wpp/jobs/8785096002"
+  },
+  "greenhouse:wppmedia:5396729008": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "WPP Media",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:wppmedia:5396729008",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Stockholm, Sweden"
+   ],
+   "min_years": 0,
+   "posted": "2026-08-20",
+   "region": "Nordics",
+   "slug": "wppmedia",
+   "status": "open",
+   "title": "Data Engineer",
+   "updated": "2026-09-21T14:32:42-04:00",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5396729008"
+  },
+  "greenhouse:xtxmarketstechnologies:7864136003": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "XTX Markets",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:xtxmarketstechnologies:7864136003",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "London, England, United Kingdom"
+   ],
+   "min_years": 1,
+   "posted": "2026-08-13",
+   "region": "United Kingdom",
+   "slug": "xtxmarketstechnologies",
+   "status": "open",
+   "title": "Security Engineer",
+   "updated": "2026-08-13T08:36:56-04:00",
+   "url": "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7864136003"
+  },
+  "greenhouse:yext:8160649": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Yext",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:yext:8160649",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "London, UK"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-04",
+   "region": "United Kingdom",
+   "slug": "yext",
+   "status": "open",
+   "title": "Software Engineer",
+   "updated": "2026-09-29T10:07:13-04:00",
+   "url": "https://job-boards.greenhouse.io/yext/jobs/8160649"
+  },
+  "greenhouse:zetaglobal:6189408004": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Zeta Global",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:zetaglobal:6189408004",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Copenhagen, Denmark"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-16",
+   "region": "Nordics",
+   "slug": "zetaglobal",
+   "status": "open",
+   "title": "Data Engineer",
+   "updated": "2026-09-29T10:29:45-04:00",
+   "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6189408004"
+  },
+  "greenhouse:zetaglobal:6210511004": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Zeta Global",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:zetaglobal:6210511004",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "London, UK"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-29",
+   "region": "United Kingdom",
+   "slug": "zetaglobal",
+   "status": "open",
+   "title": "Data Engineer",
+   "updated": "2026-09-29T10:39:20-04:00",
+   "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6210511004"
+  },
+  "greenhouse:zetaglobal:6210648004": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Zeta Global",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:zetaglobal:6210648004",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "Berlin, Germany"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-29",
+   "region": "Germany",
+   "slug": "zetaglobal",
+   "status": "open",
+   "title": "Data Engineer",
+   "updated": "2026-09-29T10:39:47-04:00",
+   "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6210648004"
+  },
+  "greenhouse:zonecompanysoftwareconsultingllc:5415714008": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Zone & Co",
+   "employment_type": "",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:zonecompanysoftwareconsultingllc:5415714008",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "United Kingdom"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-04",
+   "region": "United Kingdom",
+   "slug": "zonecompanysoftwareconsultingllc",
+   "status": "open",
+   "title": "AI Software Engineer",
+   "updated": "2026-09-17T14:34:18-04:00",
+   "url": "https://job-boards.greenhouse.io/zonecompanysoftwareconsultingllc/jobs/5415714008"
   },
   "lever:altaml:abed5ba5-8cbe-46b1-beae-25fe30bc4c91": {
    "ats": "lever",
@@ -7361,6 +8155,30 @@
    "updated": "1784733036164",
    "url": "https://jobs.lever.co/mendix/f3e656f5-cb47-4c35-9e7a-00bce29c6a2d"
   },
+  "lever:octoenergy:0903dae1-3885-4fa0-b5c9-f336d75d64d9": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Octoenergy",
+   "employment_type": "Full-time",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:octoenergy:0903dae1-3885-4fa0-b5c9-f336d75d64d9",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "London (GB)"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-29",
+   "region": "United Kingdom",
+   "slug": "octoenergy",
+   "status": "open",
+   "title": "Backend Developer",
+   "updated": "1790672302097",
+   "url": "https://jobs.lever.co/octoenergy/0903dae1-3885-4fa0-b5c9-f336d75d64d9"
+  },
   "lever:octoenergy:0fdb0472-525f-43aa-baa4-cd3229bece54": {
    "ats": "lever",
    "closed_on": null,
@@ -7693,6 +8511,30 @@
    "title": "Software Engineer, Commercial Software",
    "updated": "1789479960675",
    "url": "https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f"
+  },
+  "lever:wisdomtree-2:50dada65-9d2e-44af-9fbe-c015dd7316b9": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Wisdomtree 2",
+   "employment_type": "Full Time",
+   "first_seen": "2026-09-29",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:wisdomtree-2:50dada65-9d2e-44af-9fbe-c015dd7316b9",
+   "last_seen": "2026-09-29",
+   "level_via": "description",
+   "locations": [
+    "London"
+   ],
+   "min_years": 1,
+   "posted": "2026-09-29",
+   "region": "United Kingdom",
+   "slug": "wisdomtree-2",
+   "status": "open",
+   "title": "Desktop Support Engineer",
+   "updated": "1790676655836",
+   "url": "https://jobs.lever.co/wisdomtree-2/50dada65-9d2e-44af-9fbe-c015dd7316b9"
   },
   "lever:woven-by-toyota:e1cec56f-71b8-42d5-9ffe-7572b193b54a": {
    "ats": "lever",
