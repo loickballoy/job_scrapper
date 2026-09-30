@@ -2,7 +2,7 @@
 
 Graduate, junior and entry-level software / embedded / systems roles in **Switzerland, Netherlands, Canada, United Kingdom, Singapore, Hong Kong, Taiwan, Germany, Ireland, Nordics, Remote (Europe), France**, collected automatically from company job boards.
 
-**Last updated:** 2026-09-30 &nbsp;|&nbsp; **376** open roles at **249** companies &nbsp;|&nbsp; **376** added in the last 7 days
+**Last updated:** 2026-09-30 &nbsp;|&nbsp; **380** open roles at **250** companies &nbsp;|&nbsp; **380** added in the last 7 days
 
 ## Legend
 
@@ -17,7 +17,7 @@ Graduate, junior and entry-level software / embedded / systems roles in **Switze
 
 Flags are keyword heuristics computed from the posting text: always read the original posting.
 
-[🇨🇭 Switzerland (4)](#switzerland) · [🇳🇱 Netherlands (16)](#netherlands) · [🇨🇦 Canada (68)](#canada) · [🇬🇧 United Kingdom (58)](#united-kingdom) · [🇸🇬 Singapore (24)](#singapore) · [🇭🇰 Hong Kong (27)](#hong-kong) · [🇹🇼 Taiwan (5)](#taiwan) · [🇩🇪 Germany (16)](#germany) · [🇮🇪 Ireland (5)](#ireland) · [🇸🇪 Nordics (10)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (159)](#france)
+[🇨🇭 Switzerland (4)](#switzerland) · [🇳🇱 Netherlands (16)](#netherlands) · [🇨🇦 Canada (68)](#canada) · [🇬🇧 United Kingdom (59)](#united-kingdom) · [🇸🇬 Singapore (24)](#singapore) · [🇭🇰 Hong Kong (28)](#hong-kong) · [🇹🇼 Taiwan (6)](#taiwan) · [🇩🇪 Germany (16)](#germany) · [🇮🇪 Ireland (6)](#ireland) · [🇸🇪 Nordics (10)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (160)](#france)
 
 ## 🇨🇭 Switzerland
 
@@ -126,6 +126,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
+| Flatiron Health | Software Engineer | London office | 🔎 | [Apply](https://flatiron.com/careers/open-positions/job?gh_jid=8238069) | 0d |
 | Jobgether | Python Automation Test Engineer | UK | 🔎 | [Apply](https://jobs.lever.co/jobgether/b1faccc4-475c-4816-9e7d-28cee0e32817) | 0d |
 | Elwood Technologies | Graduate/Junior Software Engineer | London |  | [Apply](https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6209718004) | 1d |
 | Octoenergy | Backend Developer | London (GB) | 🔎 | [Apply](https://jobs.lever.co/octoenergy/0903dae1-3885-4fa0-b5c9-f336d75d64d9) | 1d |
@@ -234,6 +235,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Binance | Junior Software Engineer（AI&amp;LLM) | Asia<br>Hong Kong<br>Taiwan, Taipei |  | [Apply](https://jobs.lever.co/binance/88fe7933-859b-47e7-a1a0-29c5e14de573) | 1mo |
 | Eclipse Trading | Graduate Python Software Developer \| 2027 Intake | Hong Kong |  | [Apply](https://job-boards.greenhouse.io/eclipsetrading/jobs/8729457002) | 1mo |
 | Lalamove | Workplace Automation Engineer | Hong Kong SAR | 🔎 | [Apply](https://jobs.lever.co/lalamove/7f067783-edaa-4672-9eb1-cd489c44ab22) | 1mo |
+| WPP Media | Associate, Data Engineering | Hong Kong, Hong Kong | 🔎 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5385788008) | 1mo |
 | Jump Trading | Python Software Engineer | Shanghai or Hong Kong | 🔎 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8104832) | 1mo |
 | Marshall Wace - Graduate &amp; Associate roles | Software/Infrastructure Graduate - 2027 - Hong Kong | Hong Kong |  | [Apply](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646984002) | 2mo |
 | Binance | Binance Accelerator Program - Full Stack Engineer (Backend Oriented) Fully Remote | Asia<br>Taiwan, Taipei<br>New Zealand, Auckland<br>+6 more | 🔎 | [Apply](https://jobs.lever.co/binance/dc0c742c-847c-4b86-88df-ddac253399a8) | 2mo |
@@ -255,6 +257,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Binance | AI Agent Engineer | Asia<br>Taiwan, Taipei | 🔎 | [Apply](https://jobs.lever.co/binance/3a2ca7e0-e2c9-4248-b8fe-0de5d05dee1c) | 1mo |
 | Etched | Manufacturing Test Engineer (Taiwan) | Taoyuan<br>Taoyuan, Taiwan | 🗣️ Mandarin 🔎 | [Apply](https://jobs.ashbyhq.com/etched/e593a2f6-8f0b-4328-9fd9-b0ff85cf0827) | 2mo |
 | Binance | Binance Accelerator Program - Software Engineer (Cryptography) | Asia<br>Taiwan, Taipei | 🔎 | [Apply](https://jobs.lever.co/binance/46a73996-5e3c-4746-928a-148b754cac5c) | 2mo |
+| Stripe | Firmware Engineer | Taipei City | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8040825) | 2mo |
 
 ## 🇩🇪 Germany
 
@@ -282,6 +285,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
 | Jobgether | Python Automation Test Engineer | Ireland | 🔎 | [Apply](https://jobs.lever.co/jobgether/206eceee-e53c-44b1-860c-1b9da7fca42f) | 0d |
+| Toast | Android Software Engineer | Dublin, Ireland | 🔎 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8242560) | 0d |
 | Dotmatics | Software Development Engineer in Test \| Luma | Remote - Ireland | 🔎 | [Apply](https://www.dotmatics.com/jobs/apply?gh_jid=4737964005) | 5d |
 | Stripe | Software Engineer, New Grad | Dublin |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130881) | 1mo |
 | Stripe | Software Engineer, Stripe Tax | Dublin, Ireland | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8076626) | 2mo |
@@ -312,6 +316,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
+| Harmattan Ai | RF Electronics Engineer (Radar) | Paris<br>Paris, France | 🔎 | [Apply](https://jobs.ashbyhq.com/harmattan-ai/96d3169b-40a2-4832-87a9-2b44ed53f911) | 0d |
 | Ema | IT Engineer, US | San Francisco \| United States (Remote)<br>United States | 🔎 | [Apply](https://jobs.ashbyhq.com/ema/b38c0fdf-26d6-4505-91d5-25da7962997b) | 1d |
 | Harmattan Ai | Signal Processing Engineer (Radar) | Paris<br>Paris, France | 🔎 | [Apply](https://jobs.ashbyhq.com/harmattan-ai/34738901-8da0-46c1-b152-062b82d2f795) | 1d |
 | Glean | Machine Learning Engineer, Search Quality | San Francisco, CA | 🔎 | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4738120005) | 5d |
@@ -400,7 +405,6 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Greptile | Frontend Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02) | 1mo |
 | Greptile | Generalist Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/greptile/43c301c3-9416-4cf7-ac0b-5c30e6c6ac4b) | 1mo |
 | Greptile | Infrastructure Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/greptile/6be58456-a668-4f66-9a08-394dd9eb4842) | 1mo |
-| Harmattan Ai | RF Electronics Engineer (Radar) | Paris<br>Paris, France | 🔎 | [Apply](https://jobs.ashbyhq.com/harmattan-ai/ff99458a-d965-47b5-8257-b72a5fce06ee) | 1mo |
 | Highlightai | Early Career Product Engineer | San Francisco office<br>San Francisco, United States | ✈️ | [Apply](https://jobs.ashbyhq.com/highlightai/dd8526be-514c-46a5-98be-b068b10b4cbb) | 1mo |
 | Arbitalhealth | Full Stack Engineer | San Francisco OR Remote | 🛂 🔎 | [Apply](https://jobs.lever.co/arbitalhealth/609c9994-ccdc-4a2e-b34d-c25cfdccb0c6) | 1mo |
 | Koahlabs | Software Engineer, Early Career | San Francisco<br>San Francisco, United States |  | [Apply](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808) | 1mo |
@@ -467,6 +471,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | DoorDash USA | Software Engineer, Full Stack - Developer Insights | San Francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA | 🔎 | 🔒 | 14d |
 | Ditto | Software Engineer, Android | Remote (Atlanta, Washington DC, San Francisco, | 🇺🇸 🔎 | 🔒 | 15d |
 | DoorDash USA | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA |  | 🔒 | 26d |
+| Harmattan Ai | RF Electronics Engineer (Radar) | Paris<br>Paris, France | 🔎 | 🔒 | 1mo |
 | Arbitalhealth | QA Automation Engineer | San Francisco, California | 🛂 🔎 | 🔒 | 1mo |
 | Redwood Materials | Software Validation Engineer, Energy Storage | San Francisco, California, United States | 🔎 | 🔒 | 1mo |
 | Redwood Materials | Embedded Software Engineer – Power Electronics, Energy Storage | San Francisco, California, United States | 🔎 | 🔒 | 2mo |

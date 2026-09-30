@@ -1349,6 +1349,31 @@
    "updated": "2026-08-31T16:20:19.793+00:00",
    "url": "https://jobs.ashbyhq.com/harmattan-ai/361b01cd-1e9a-4827-9bcc-36b8aa403aa3"
   },
+  "ashby:harmattan-ai:96d3169b-40a2-4832-87a9-2b44ed53f911": {
+   "ats": "ashby",
+   "closed_on": null,
+   "company": "Harmattan Ai",
+   "employment_type": "FullTime",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "ashby:harmattan-ai:96d3169b-40a2-4832-87a9-2b44ed53f911",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Paris",
+    "Paris, France"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-30",
+   "region": "France",
+   "slug": "harmattan-ai",
+   "status": "open",
+   "title": "RF Electronics Engineer (Radar)",
+   "updated": "2026-09-30T12:03:41.250+00:00",
+   "url": "https://jobs.ashbyhq.com/harmattan-ai/96d3169b-40a2-4832-87a9-2b44ed53f911"
+  },
   "ashby:harmattan-ai:c5975afd-c1a8-4fdb-803b-e0fcb19a31b7": {
    "ats": "ashby",
    "closed_on": null,
@@ -1374,7 +1399,7 @@
   },
   "ashby:harmattan-ai:ff99458a-d965-47b5-8257-b72a5fce06ee": {
    "ats": "ashby",
-   "closed_on": null,
+   "closed_on": "2026-09-30",
    "company": "Harmattan Ai",
    "employment_type": "FullTime",
    "first_seen": "2026-09-29",
@@ -1392,7 +1417,7 @@
    "posted": "2026-08-21",
    "region": "France",
    "slug": "harmattan-ai",
-   "status": "open",
+   "status": "closed",
    "title": "RF Electronics Engineer (Radar)",
    "updated": "2026-08-21T14:09:13.650+00:00",
    "url": "https://jobs.ashbyhq.com/harmattan-ai/ff99458a-d965-47b5-8257-b72a5fce06ee"
@@ -4719,7 +4744,7 @@
    "slug": "clinchoice",
    "status": "open",
    "title": "Junior Statistical Programmer Analyst _Permanent Role_(CANADA)",
-   "updated": "2026-09-29T09:15:43-04:00",
+   "updated": "2026-09-30T09:36:23-04:00",
    "url": "https://job-boards.eu.greenhouse.io/clinchoice/jobs/4989609101"
   },
   "greenhouse:clutch:6173901004": {
@@ -5005,7 +5030,7 @@
    "slug": "dotmatics",
    "status": "open",
    "title": "Software Development Engineer in Test | Luma",
-   "updated": "2026-09-25T09:44:53-04:00",
+   "updated": "2026-09-30T07:44:17-04:00",
    "url": "https://www.dotmatics.com/jobs/apply?gh_jid=4724715005"
   },
   "greenhouse:dotmatics:4737964005": {
@@ -5029,7 +5054,7 @@
    "slug": "dotmatics",
    "status": "open",
    "title": "Software Development Engineer in Test | Luma",
-   "updated": "2026-09-25T09:46:02-04:00",
+   "updated": "2026-09-30T07:44:17-04:00",
    "url": "https://www.dotmatics.com/jobs/apply?gh_jid=4737964005"
   },
   "greenhouse:drweng:8064537": {
@@ -5289,6 +5314,30 @@
    "updated": "2026-09-01T17:18:37-04:00",
    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349905008"
   },
+  "greenhouse:flatironhealth:8238069": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Flatiron Health",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:flatironhealth:8238069",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "London office"
+   ],
+   "min_years": 1,
+   "posted": "2026-09-30",
+   "region": "United Kingdom",
+   "slug": "flatironhealth",
+   "status": "open",
+   "title": "Software Engineer",
+   "updated": "2026-09-30T08:30:48-04:00",
+   "url": "https://flatiron.com/careers/open-positions/job?gh_jid=8238069"
+  },
   "greenhouse:flexport:8166038": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -5428,7 +5477,7 @@
    "slug": "geotab",
    "status": "open",
    "title": "Software Developer",
-   "updated": "2026-09-28T13:52:37-04:00",
+   "updated": "2026-09-30T09:16:50-04:00",
    "url": "https://job-boards.greenhouse.io/geotab/jobs/5386820008"
   },
   "greenhouse:gingerlabsinc:5410136008": {
@@ -7112,7 +7161,7 @@
    "slug": "roku",
    "status": "open",
    "title": "Software Engineer, Agentic AI",
-   "updated": "2026-09-30T04:06:35-04:00",
+   "updated": "2026-09-30T08:06:19-04:00",
    "url": "https://www.weareroku.com/jobs/8096018?gh_jid=8096018"
   },
   "greenhouse:saltxc:5219899007": {
@@ -7254,6 +7303,30 @@
    "title": "Junior SRE",
    "updated": "2026-08-06T07:00:40-04:00",
    "url": "https://www.squarepoint-capital.com/open-opportunities?id=6380892&gh_jid=6380892"
+  },
+  "greenhouse:stripe:8040825": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Stripe",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:stripe:8040825",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Taipei City"
+   ],
+   "min_years": 2,
+   "posted": "2026-07-22",
+   "region": "Taiwan",
+   "slug": "stripe",
+   "status": "open",
+   "title": "Firmware Engineer",
+   "updated": "2026-09-29T21:27:02-04:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8040825"
   },
   "greenhouse:stripe:8076626": {
    "ats": "greenhouse",
@@ -7400,7 +7473,7 @@
     "🔎"
    ],
    "key": "greenhouse:teampicnic:8185415",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "Amsterdam, North Holland, Netherlands"
@@ -7426,7 +7499,7 @@
     "🔎"
    ],
    "key": "greenhouse:teampicnic:8195273",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "Amsterdam, North Holland, Netherlands"
@@ -7450,7 +7523,7 @@
     "🔎"
    ],
    "key": "greenhouse:telnyx54:7989641003",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "United States; Brazil; Canada"
@@ -7474,7 +7547,7 @@
     "🔎"
    ],
    "key": "greenhouse:toast:8038744",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "Dublin, Ireland"
@@ -7488,6 +7561,30 @@
    "updated": "2026-09-09T18:27:44-04:00",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8038744"
   },
+  "greenhouse:toast:8242560": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Toast",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:toast:8242560",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Dublin, Ireland"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-30",
+   "region": "Ireland",
+   "slug": "toast",
+   "status": "open",
+   "title": "Android Software Engineer",
+   "updated": "2026-09-30T05:55:31-04:00",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8242560"
+  },
   "greenhouse:tripactions:8174884": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -7498,7 +7595,7 @@
     "🔎"
    ],
    "key": "greenhouse:tripactions:8174884",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "Berlin, Germany"
@@ -7520,7 +7617,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:tripadvisor:8239945",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "title",
    "locations": [
     "London, UK"
@@ -7544,7 +7641,7 @@
     "🔎"
    ],
    "key": "greenhouse:wayve:8842721002",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "London"
@@ -7566,7 +7663,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:wehrtyou:8046074",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "title",
    "locations": [
     "Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States"
@@ -7588,7 +7685,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:winton:4986765101",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "title",
    "locations": [
     "London, United Kingdom"
@@ -7612,7 +7709,7 @@
     "🔎"
    ],
    "key": "greenhouse:worldquant:4701096006",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "Singapore"
@@ -7636,7 +7733,7 @@
     "🔎"
    ],
    "key": "greenhouse:wpp:8551651002",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "Copenhagen, Capital, Denmark"
@@ -7660,7 +7757,7 @@
     "🔎"
    ],
    "key": "greenhouse:wpp:8642402002",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "Copenhagen, Denmark"
@@ -7682,7 +7779,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:wpp:8785096002",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "title",
    "locations": [
     "Copenhagen"
@@ -7696,6 +7793,30 @@
    "updated": "2026-09-16T09:53:32-04:00",
    "url": "https://job-boards.greenhouse.io/wpp/jobs/8785096002"
   },
+  "greenhouse:wppmedia:5385788008": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "WPP Media",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:wppmedia:5385788008",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Hong Kong, Hong Kong"
+   ],
+   "min_years": 1,
+   "posted": "2026-08-11",
+   "region": "Hong Kong",
+   "slug": "wppmedia",
+   "status": "open",
+   "title": "Associate, Data Engineering",
+   "updated": "2026-09-23T06:29:39-04:00",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5385788008"
+  },
   "greenhouse:wppmedia:5396729008": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -7706,7 +7827,7 @@
     "🔎"
    ],
    "key": "greenhouse:wppmedia:5396729008",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "Stockholm, Sweden"
@@ -7730,7 +7851,7 @@
     "🔎"
    ],
    "key": "greenhouse:xtxmarketstechnologies:7864136003",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "London, England, United Kingdom"
@@ -7754,7 +7875,7 @@
     "🔎"
    ],
    "key": "greenhouse:yext:8160649",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "London, UK"
@@ -7778,7 +7899,7 @@
     "🔎"
    ],
    "key": "greenhouse:zetaglobal:6189408004",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "Copenhagen, Denmark"
@@ -7802,7 +7923,7 @@
     "🔎"
    ],
    "key": "greenhouse:zetaglobal:6210511004",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "London, UK"
@@ -7826,7 +7947,7 @@
     "🔎"
    ],
    "key": "greenhouse:zetaglobal:6210648004",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "Berlin, Germany"
@@ -7850,7 +7971,7 @@
     "🔎"
    ],
    "key": "greenhouse:zonecompanysoftwareconsultingllc:5415714008",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-09-30",
    "level_via": "description",
    "locations": [
     "United Kingdom"
