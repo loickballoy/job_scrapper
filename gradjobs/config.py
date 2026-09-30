@@ -72,7 +72,7 @@ REGIONS = [
 ]
 
 # Régions réellement affichées : France uniquement.
-ENABLED_REGIONS = {"France"}
+ENABLED_REGIONS = {"France", "Canada", "United Kingdom"}
 
 # --- Sources de découverte des entreprises ----------------------------------
 # Listes de slugs par ATS, construites à partir de l'index Common Crawl par le projet
