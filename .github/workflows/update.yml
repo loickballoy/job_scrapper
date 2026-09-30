@@ -1,7 +1,7 @@
 name: Update job list
 on:
   schedule:
-    - cron: "0 7 * * *"   # tous les jours à 7h UTC
+    - cron: "35 7 * * *"   # tous les jours à 7h UTC
   workflow_dispatch: {}     # + déclenchement manuel depuis l'onglet Actions
 
 permissions:
