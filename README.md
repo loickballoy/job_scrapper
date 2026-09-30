@@ -1,8 +1,8 @@
 # Graduate & Early-Career Electrical Systems Engineering Jobs
 
-Graduate, junior and entry-level electrical systems engineering roles in **France**, collected automatically from company job boards.
+Graduate, junior and entry-level electrical systems engineering roles in **Switzerland, Canada, United Kingdom, France**, collected automatically from company job boards.
 
-**Last updated:** 2026-09-30 &nbsp;|&nbsp; **1** open roles at **1** companies &nbsp;|&nbsp; **1** added in the last 7 days
+**Last updated:** 2026-09-30 &nbsp;|&nbsp; **5** open roles at **2** companies &nbsp;|&nbsp; **5** added in the last 7 days
 
 ## Legend
 
@@ -17,7 +17,24 @@ Graduate, junior and entry-level electrical systems engineering roles in **Franc
 
 Flags are keyword heuristics computed from the posting text: always read the original posting.
 
-[🇫🇷 France (1)](#france)
+[🇨🇭 Switzerland (0)](#switzerland) · [🇨🇦 Canada (0)](#canada) · [🇬🇧 United Kingdom (4)](#united-kingdom) · [🇫🇷 France (1)](#france)
+
+## 🇨🇭 Switzerland
+
+_No matching roles right now._
+
+## 🇨🇦 Canada
+
+_No matching roles right now._
+
+## 🇬🇧 United Kingdom
+
+| Company | Role | Location | Flags | Apply | Age |
+|---|---|---|---|---|---|
+| Soho House &amp; Co. | Kitchen Porter - Electric House, West London | Electric House - 191 Portobello Rd, London W11 2ED | 🔎 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4981698101) | 1d |
+| Soho House &amp; Co. | Runner - Electric House, West London | Electric House - 191 Portobello Rd, London W11 2ED; England, United Kingdom | 🔎 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4971337101) | 16d |
+| Soho House &amp; Co. | Barback - Electric House, West London | Electric House - 191 Portobello Rd, London W11 2ED | 🔎 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4931385101) | 1mo |
+| Soho House &amp; Co. | Waiter/ Waitress - Electric House X Speedboat Bar | Electric House - 191 Portobello Rd, London W11 2ED | 🔎 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4943026101) | 1mo |
 
 ## 🇫🇷 France
 

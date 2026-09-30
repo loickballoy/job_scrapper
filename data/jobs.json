@@ -1,5 +1,5 @@
 {
- "filters_version": "6d2a1e029aa2",
+ "filters_version": "2d42ece9fae2",
  "jobs": {
   "ashby:the-exploration-company:7f288d6c-fd70-47fe-abd0-bfb738a3b08f": {
    "ats": "ashby",
@@ -25,6 +25,102 @@
    "title": "AIT Electrical Engineer",
    "updated": "2026-08-14T08:03:09.083+00:00",
    "url": "https://jobs.ashbyhq.com/the-exploration-company/7f288d6c-fd70-47fe-abd0-bfb738a3b08f"
+  },
+  "greenhouse:sohohouseco:4931385101": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Soho House & Co.",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:sohohouseco:4931385101",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Electric House - 191 Portobello Rd, London W11 2ED"
+   ],
+   "min_years": 2,
+   "posted": "2026-08-19",
+   "region": "United Kingdom",
+   "slug": "sohohouseco",
+   "status": "open",
+   "title": "Barback - Electric House, West London",
+   "updated": "2026-09-24T09:25:41-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4931385101"
+  },
+  "greenhouse:sohohouseco:4943026101": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Soho House & Co.",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:sohohouseco:4943026101",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Electric House - 191 Portobello Rd, London W11 2ED"
+   ],
+   "min_years": 2,
+   "posted": "2026-08-06",
+   "region": "United Kingdom",
+   "slug": "sohohouseco",
+   "status": "open",
+   "title": "Waiter/ Waitress - Electric House X Speedboat Bar",
+   "updated": "2026-09-24T09:25:41-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4943026101"
+  },
+  "greenhouse:sohohouseco:4971337101": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Soho House & Co.",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:sohohouseco:4971337101",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Electric House - 191 Portobello Rd, London W11 2ED; England, United Kingdom"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-14",
+   "region": "United Kingdom",
+   "slug": "sohohouseco",
+   "status": "open",
+   "title": "Runner - Electric House, West London",
+   "updated": "2026-09-24T09:25:41-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4971337101"
+  },
+  "greenhouse:sohohouseco:4981698101": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Soho House & Co.",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:sohohouseco:4981698101",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Electric House - 191 Portobello Rd, London W11 2ED"
+   ],
+   "min_years": null,
+   "posted": "2026-09-29",
+   "region": "United Kingdom",
+   "slug": "sohohouseco",
+   "status": "open",
+   "title": "Kitchen Porter - Electric House, West London",
+   "updated": "2026-09-29T12:26:38-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4981698101"
   }
  },
  "updated": "2026-09-30"
