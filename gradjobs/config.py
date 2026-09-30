@@ -55,17 +55,24 @@ REGIONS = [
     ("Remote (Europe)", "🌍",
      r"remote.{0,30}(?:europe|emea|\beu\b|european|eea)|(?:europe|emea|\beu\b|european|eea).{0,30}remote|"
      r"anywhere in europe"),
-     ("France", "🇫🇷",
-      r"paris(?!,?\s*(?:tx|texas|ky|kentucky|tn|tennessee|on\b|ontario|il|illinois|id|idaho|"
-      r"me|maine|mo|missouri)\b)|\bparis,?\s*france\b"),
+    ("France", "🇫🇷",
+     r"france|(?-i:\bFR\b)|[îi]le[- ]de[- ]france|"
+     r"paris(?!,?\s*(?:tx|texas|ky|kentucky|tn|tennessee|on|ontario|il|illinois|id|idaho|"
+     r"me|maine|mo|missouri|ar|arkansas)\b)|"
+     r"lyon(?!s)|villeurbanne|marseille|toulouse|blagnac|colomiers|bordeaux|m[ée]rignac|nantes|"
+     r"saint-nazaire|lille|rennes|grenoble|strasbourg|montpellier|nice,?\s*(?:france|06)|"
+     r"sophia[- ]antipolis|valbonne|aix-en-provence|toulon|rouen|le havre|caen|cherbourg|"
+     r"brest(?!,?\s*belarus)|lorient|angers|tours,?\s*france|(?<!new )orl[ée]ans|dijon|"
+     r"besan[çc]on|belfort|mulhouse|metz|nancy,?\s*france|reims|clermont-ferrand|limoges|"
+     r"poitiers|pau\b|bayonne|perpignan|n[îi]mes|avignon|annecy|chamb[ée]ry|saint-[ée]tienne|"
+     r"le mans|la rochelle|saclay|massy|palaiseau|v[ée]lizy|guyancourt|saint-quentin-en-yvelines|"
+     r"versailles(?!,?\s*(?:ky|kentucky|in|indiana|oh|ohio)\b)|la d[ée]fense|courbevoie|puteaux|"
+     r"nanterre|rueil|boulogne-billancourt|issy-les-moulineaux|saint-denis|montrouge|levallois|"
+     r"cergy|[ée]vry|orly|roissy|le bourget|marne-la-vall[ée]e"),
 ]
 
-# Régions réellement affichées. Retire-en / ajoute-en selon ta recherche.
-# (France volontairement absente : tu cherches hors de France.)
-ENABLED_REGIONS = {
-    "Netherlands", "Switzerland", "United Kingdom", "Canada",
-    "Germany", "Ireland", "Nordics", "Singapore", "Remote (Europe)", "France"
-}
+# Régions réellement affichées : France uniquement.
+ENABLED_REGIONS = {"France"}
 
 # --- Sources de découverte des entreprises ----------------------------------
 # Listes de slugs par ATS, construites à partir de l'index Common Crawl par le projet

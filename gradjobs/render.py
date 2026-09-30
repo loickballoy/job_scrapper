@@ -28,7 +28,8 @@ FOOTER = """\
 3. **Filter.** Only postings that pass *all* of the following are kept:
    - located in one of the enabled regions;
    - not a senior/staff/lead/manager role, and not an internship (configurable);
-   - a software / firmware / embedded / systems / infrastructure / security role;
+   - an electrical-systems engineering role (power, HV/MV/LV, power electronics, control-command, EWIS...),
+     IT / software roles excluded; generic "Systems Engineer" titles are kept only if the description is electrical;
    - early-career: the title says so (graduate, new grad, junior, entry level, Engineer I...), **or** the
      description does (entry level, recent graduate, 0-N years);
    - the description does not require more than **{max_years} years** of experience.
@@ -99,10 +100,10 @@ def render_readme(jobs: Dict[str, dict], today: date) -> str:
     new_week = sum(1 for j in open_jobs if (today - date.fromisoformat(j["first_seen"])).days <= 7)
 
     lines: List[str] = []
-    lines.append("# Graduate & Early-Career Software Jobs")
+    lines.append("# Graduate & Early-Career Electrical Systems Engineering Jobs")
     lines.append("")
     names = ", ".join(n for n, _ in regions)
-    lines.append(f"Graduate, junior and entry-level software / embedded / systems roles in **{names}**, "
+    lines.append(f"Graduate, junior and entry-level electrical systems engineering roles in **{names}**, "
                  f"collected automatically from company job boards.")
     lines.append("")
     lines.append(f"**Last updated:** {today.isoformat()} &nbsp;|&nbsp; **{len(open_jobs)}** open roles at "

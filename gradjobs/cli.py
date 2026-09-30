@@ -78,6 +78,12 @@ def cmd_run(args) -> int:
     state = store.load_state(STATE_FILE)
     prev = store.load_jobs(JOBS_FILE)
     use_cache = not args.no_cache
+    fingerprint = store.filters_fingerprint()
+    if store.load_filters_version(JOBS_FILE) != fingerprint:
+        # Filtres modifiés : les décisions mémorisées (offres gardées ET rejetées) ne valent plus rien.
+        print(f"[run] filtres modifiés ({fingerprint}) : on repart de zéro, tout est réévalué")
+        prev = {}
+        state["rejected"] = {}
     targets = _targets(lists, ats_filter, args.limit, state, today, use_cache)
     print(f"[run] {len(targets)} boards à lire ({len(prev)} offres déjà connues)")
 
@@ -121,7 +127,7 @@ def cmd_run(args) -> int:
             state["invalid"].pop(key, None)
             state["rejected"].update(o.rejected)
     jobs = store.merge(prev, outcomes, today)
-    store.save_jobs(JOBS_FILE, jobs, today)
+    store.save_jobs(JOBS_FILE, jobs, today, fingerprint)
     store.save_state(STATE_FILE, state)
     README.write_text(render_readme(jobs, today), encoding="utf-8")
     opened = sum(1 for j in jobs.values() if j["status"] == "open")

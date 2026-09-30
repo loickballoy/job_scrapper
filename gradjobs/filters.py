@@ -28,7 +28,8 @@ def _rx(pattern: str, flags: int = re.I) -> "re.Pattern[str]":
 # Mots toujours seniors.
 STRONG_SENIOR_RX = _rx(
     rf"{B}(?:senior|sr\.?|(?<!technical )staff|principal|lead|head of|directors?|vp|vice president|"
-    rf"architects?|distinguished|fellow|chief|expert){E}"
+    rf"architects?|distinguished|fellow|chief|expert|"
+    rf"confirm[ée]e?s?|exp[ée]riment[ée]e?s?|responsable|chef|directeur|directrice|r[ée]f[ée]rent(?:e)?){E}"
 )
 # Mots seniors seulement en l'absence de marqueur débutant explicite dans le titre
 # ("Software Engineer 2 New Grad", "Founding Engineer - Early Careers" existent réellement).
@@ -42,7 +43,8 @@ INTERN_RX = _rx(
     r"(?<![A-Za-z])(?:interns?|internships?|werkstudent(?:in)?|working students?|praktik(?:um|ant(?:in)?)|"
     r"stagiaires?|stage|co-?op|apprentice(?:ship)?s?|alternance|placement year|industrial placement|"
     r"summer (?:analyst|student|associate)|(?:bachelor|master|diploma)(?:'s)? thesis|"
-    r"masterarbeit|abschlussarbeit)(?![A-Za-z])"
+    r"masterarbeit|abschlussarbeit|th[èe]se|doctorant(?:e)?|cifre|post-?doc|apprenti(?:e|ssage)?|"
+    r"contrat pro(?:fessionnalisation)?)(?![A-Za-z])"
 )
 
 EARLY_RX = _rx(
@@ -50,57 +52,100 @@ EARLY_RX = _rx(
     rf"entry[- ]?level|junior|jr\.?|early[- ]?careers?|"
     rf"campus|trainee|recent graduates?|rotational|grad(?:uate)? (?:programme?|scheme)|"
     rf"associate (?:software|systems?|firmware|embedded|backend|engineer|developer)|"
-    rf"(?:engineer|developer|sde|swe)\s*-?\s*(?:0|i|1)){E}"
+    rf"(?:engineer|developer|sde|swe|ing[ée]nieur(?:e)?)\s*-?\s*(?:0|i|1)|"
+    rf"jeunes?\s+dipl[ôo]m[ée](?:e)?s?|d[ée]butant(?:e)?s?|sortie d'[ée]cole|premier emploi){E}"
 )
 
 # --------------------------------------------------------------------------- rôle
 
-ROLE_INCLUDE_RX = _rx(
-    r"software|firmware|embedded|c\+\+|(?<![a-z])cpp(?![a-z])|back[- ]?end|front[- ]?end|full[- ]?stack|"
-    r"platform|infrastructure|devops|(?<![a-z])sre(?![a-z])|site reliability|developer|programmer|"
-    r"(?<![a-z])swe(?![a-z])|(?<![a-z])sde(?![a-z])|systems? (?:engineer|developer|software)|"
-    r"security engineer|cyber|compiler|kernel|(?<![a-z])drivers?(?![a-z])|low[- ]latency|"
-    r"performance engineer|machine learning engineer|(?<![a-z])ml engineer|data engineer|robotics|"
-    r"test engineer|qa engineer|automation engineer|verification engineer|(?<![a-z])rtos(?![a-z])|linux"
+# Signal "électrique" fort dans le titre : suffit à rendre le poste pertinent.
+ELEC_TITLE_RX = _rx(
+    r"[ée]lectri|[ée]lectro-?m[ée]c(?:h)?an|electrotechn|gate driver|[ée]lectrotechn|power (?:systems?|electronics?|distribution|grid|engineer)|"
+    r"[ée]lectronique de puissance|high[- ]voltage|medium[- ]voltage|low[- ]voltage|haute tension|"
+    r"moyenne tension|basse tension|(?<![a-z])ht[ab](?![a-z])|(?<![a-z])hv(?![a-z])|substation|"
+    r"poste (?:source|[ée]lectrique|htb|hta)|r[ée]seaux? (?:[ée]lectriques?|de distribution|de transport|hta|bt)|"
+    r"(?<![a-z])grid(?![a-z])|(?<![a-z])ewis(?![a-z])|harness|faisceaux?|c[âa]blage|wiring|"
+    r"automatism|automaticien|contr[ôo]le[- ]commande|control[- ]command|(?<![a-z])scada(?![a-z])|"
+    r"(?<![a-z])plc(?![a-z])|protection engineer|plan de protection|motori[sz]ation|traction|"
+    r"batter(?:y|ies|ie)|(?<![a-z])bms(?![a-z])|photovolta|(?<![a-z])pv(?![a-z])|[ée]olien|"
+    r"stockage d'[ée]nergie|energy storage|g[ée]nie [ée]lectrique"
 )
-# Un titre "… Engineer" sans mot technique est accepté seulement si le département est technique.
-ENGINEER_RX = _rx(r"engineer")
-TECH_DEPT_RX = _rx(
-    r"engineering|software|technology|r&d|platform|infrastructure|security|data|tech\b|development"
+# Titre générique "ingénieur système(s)" : gardé seulement si la description est clairement électrique.
+SYSTEMS_TITLE_RX = _rx(
+    r"systems? engineer|ing[ée]nieur(?:e)?(?:\(e\))?\s+(?:en\s+)?(?:ing[ée]nierie\s+)?syst[èe]mes?|"
+    r"ing[ée]nierie (?:des )?syst[èe]mes?|systems? engineering|(?:energy|[ée]nergie) (?:systems?\s+)?engineer|"
+    r"ing[ée]nieur(?:e)? (?:[ée]nergie|commissioning|mise en service)|commissioning engineer|"
+    r"charg[ée]e? d'(?:[ée]tudes|affaires)"
 )
+# Mots-clés électriques cherchés dans la DESCRIPTION pour valider un titre générique.
+ELEC_DESC_RX = _rx(
+    r"[ée]lectrique|electrical|electrotechn|[ée]lectrotechn|power electronics|[ée]lectronique de puissance|"
+    r"haute tension|high[- ]voltage|moyenne tension|medium[- ]voltage|basse tension|low[- ]voltage|"
+    r"(?<![a-z])ht[ab](?![a-z])|substation|poste source|transformateur|transformer|disjoncteur|circuit breaker|"
+    r"switchgear|tableau (?:[ée]lectrique|bt|g[ée]n[ée]ral)|plan de protection|s[ée]lectivit[ée]|"
+    r"court[- ]circuit|short[- ]circuit|load flow|power flow|[ée]coulement de charge|caneco|etap|"
+    r"powerfactory|eplan|see electrical|iec 6\d{3}|nf c 1[35]|onduleur|inverter|convertisseur|"
+    r"converter|c[âa]blage|wiring|harness|ewis|automate|(?<![a-z])plc(?![a-z])|scada|contr[ôo]le[- ]commande|"
+    r"batter(?:y|ie)|moteur [ée]lectrique|electric motor|g[ée]n[ée]ration [ée]lectrique|r[ée]seau [ée]lectrique|"
+    r"power grid|electrical grid"
+)
+# Informatique : toujours exclu, même avec un mot électrique ("Electric Vehicle Software Engineer").
+IT_EXCLUDE_RX = _rx(
+    r"software|logiciel|firmware|d[ée]veloppeu(?:r|se)|developer|devops|dev ops|cloud|"
+    r"data(?![- ]?cent(?:er|re))|donn[ée]es|full[- ]?stack|back[- ]?end|front[- ]?end|"
+    r"(?-i:(?<![A-Za-z])IT(?![A-Za-z]))|informatique|(?-i:(?<![A-Za-z])SI(?![A-Za-z]))|"
+    r"syst[èe]mes? d'information|information systems?|cyber|security engineer|s[ée]curit[ée] (?:informatique|des si)|"
+    r"network engineer|syst[èe]mes? et r[ée]seaux|systems? (?:and|&) networks?|administrat(?:eur|or)|r[ée]seaux? (?:informatiques?|et t[ée]l[ée]com|ip)|t[ée]l[ée]com|machine learning|"
+    r"(?<![a-z])ml(?![a-z])|(?-i:(?<![A-Za-z])(?:AI|IA)(?![A-Za-z]))|intelligence artificielle|"
+    r"(?<![a-z])sre(?![a-z])|site reliability|(?<![a-z])web|mobile|android|(?<![a-z])ios(?![a-z])|"
+    r"salesforce|(?<![a-z])sap(?![a-z])|(?<![a-z])erp(?![a-z])|(?<![a-z])crm(?![a-z])|"
+    r"(?<![a-z])qa(?![a-z])|test automation|platform engineer|infrastructure engineer|"
+    r"(?<![a-z])python|java|c\+\+|kubernetes|linux|database|base de donn[ée]es"
+)
+# Métiers hors cible (commercial, RH, techniciens...).
 ROLE_EXCLUDE_RX = _rx(
-    r"sales|marketing|recruit(?:er|ing|ment)|talent (?:acquisition|partner|sourc\w+)|legal|counsel|finance|"
-    r"accountant|accounting|human resources|"
-    r"(?<![a-z])hr(?![a-z])|customer (?:success|support)|account (?:executive|manager)|"
-    r"business (?:developer|development|analyst)|designer|copywriter|social media|paralegal|"
-    r"procurement|supply chain|mechanical|civil engineer|chemical|biomedical|construction|nurse|clinical|"
-    r"product manager|technical writer|content"
+    r"sales|commercial|vente|business developer|marketing|recruit(?:er|ing|ment)|recrut|"
+    r"talent (?:acquisition|partner|sourc\w+)|legal|juriste|counsel|finance|financier|"
+    r"accountant|accounting|comptab|human resources|ressources humaines|"
+    r"(?<![a-z])(?:hr|rh)(?![a-z])|customer (?:success|support)|account (?:executive|manager)|"
+    r"business (?:development|analyst)|designer|copywriter|social media|paralegal|"
+    r"procurement|achat|acheteu|supply chain|(?<!electro)(?<!electro-)mechanical|(?<!électro)(?<!electro)m[ée]canique|"
+    r"civil engineer|g[ée]nie civil|chemical|chimi|biomedical|nurse|infirmi|clinical|"
+    r"product manager|technical writer|r[ée]dacteur|content|"
+    r"technicien(?:ne)?|technician|[ée]lectricien(?:ne)?|electrician|monteur|installateur|installer|"
+    r"(?<!gate )driver|chauffeur|op[ée]rateur|operator"
 )
+
 
 # --------------------------------------------------------------------------- description
 
 _NUM = r"\d{1,2}|one|two|three|four|five|six|seven|eight|nine|ten"
 _NUMWORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5,
              "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10}
-RANGE_RX = _rx(rf"{B}({_NUM})\s*(?:-|–|—|to)\s*({_NUM})\s*\+?\s*(?:years?|yrs?){E}")
-SINGLE_RX = _rx(rf"{B}({_NUM})\s*\+?\s*(?:years?|yrs?){E}")
+_YEARS = r"(?:years?|yrs?|ans?|ann[ée]es?)"
+RANGE_RX = _rx(rf"{B}({_NUM})\s*(?:-|–|—|to|à)\s*({_NUM})\s*\+?\s*{_YEARS}{E}")
+SINGLE_RX = _rx(rf"{B}({_NUM})\s*\+?\s*{_YEARS}{E}")
 ZERO_RX = _rx(
     r"no (?:prior |previous |professional |industry |commercial )?experience|"
-    r"without (?:any )?(?:prior )?experience|(?<![0-9])(?:0|zero)\+?\s*(?:years?|yrs?)"
+    r"without (?:any )?(?:prior )?experience|(?<![0-9])(?:0|zero)\+?\s*(?:years?|yrs?|ans?)|"
+    r"sans exp[ée]rience|aucune exp[ée]rience"
 )
 EXPERIENCE_CTX_RX = _rx(
-    r"experience|exp\.|working (?:in|with|as)|worked|professional|industry|background|hands[- ]on|"
+    r"experience|exp[ée]rience|exp\.|working (?:in|with|as)|worked|professional|industry|background|hands[- ]on|"
     r"track record|proven|in a (?:similar|related|relevant)|in (?:software|engineering|development)"
 )
-UPPER_BOUND_RX = _rx(r"(?:up to|less than|fewer than|under|max(?:imum)?(?: of)?|within|no more than)\s*$")
-NOT_REQUIRED_RX = _rx(r"^.{0,60}?(?:preferred|desirable|a plus|nice to have|bonus|advantage|ideally|combined|collective)")
-OPTIONAL_BEFORE_RX = _rx(r"(?:ideally|preferably|optionally)\s*(?:\w+\s+){0,2}$")
+UPPER_BOUND_RX = _rx(r"(?:up to|less than|fewer than|under|max(?:imum)?(?: of)?|within|no more than|"
+                     r"moins de|jusqu'?[àa]|au plus)\s*$")
+NOT_REQUIRED_RX = _rx(r"^.{0,60}?(?:preferred|desirable|a plus|nice to have|bonus|advantage|ideally|combined|collective|"
+                       r"souhait|appr[ée]ci|un plus|id[ée]alement|atout|serait)")
+OPTIONAL_BEFORE_RX = _rx(r"(?:ideally|preferably|optionally|id[ée]alement|de pr[ée]f[ée]rence)\s*(?:\w+\s+){0,2}$")
 
 EARLY_PHRASES_RX = _rx(
     r"entry[- ]level|new[- ]grad(?:uate)?s?|recent(?:ly)? graduat(?:e|es|ed)|early[- ]career|"
     r"graduating (?:in|by|this)|final[- ]year|fresh graduates?|graduate (?:program|programme|scheme|role|position)|"
     r"no (?:prior|previous) (?:professional )?experience|(?<![0-9])0\s*[-–]\s*\d+\s*years|"
-    r"(?<![0-9])0\+?\s*years"
+    r"(?<![0-9])0\+?\s*years|jeunes? dipl[ôo]m[ée]|d[ée]butante?s?(?: accept[ée]e?s?)?|"
+    r"sortie d'[ée]cole|premi[èe]re exp[ée]rience|(?<![0-9])0\s*[àa-]\s*\d+\s*ans|sans exp[ée]rience"
 )
 
 # --- drapeaux (heuristiques, à titre indicatif) ---
@@ -116,7 +161,7 @@ CLEARANCE_RX = _rx(
     r"u\.?s\.? persons?"
 )
 RELOCATION_RX = _rx(r"relocation (?:support|assistance|package|budget|allowance|help|bonus)")
-_LANGS = ("german|dutch|french|swedish|norwegian|danish|finnish|italian|spanish|portuguese|"
+_LANGS = ("german|dutch|swedish|norwegian|danish|finnish|italian|spanish|portuguese|"
           "polish|mandarin|cantonese|japanese|korean|arabic")
 LANG_A_RX = _rx(
     rf"(?:fluent|native|proficien(?:t|cy)|business[- ]level|working knowledge|(?<![a-z])c1(?![a-z0-9])|"
@@ -278,14 +323,29 @@ def _title_head(title: str) -> str:
     return _HEAD_SPLIT_RX.split(title, maxsplit=1)[0]
 
 
+def role_kind(title: str) -> Optional[str]:
+    """'electrical' (titre clairement électrique) | 'systems' (générique, à confirmer sur la description) | None."""
+    head = _title_head(title)
+    # L'exclusion "métier" ne regarde que le début du titre (le nom d'équipe après le tiret ne compte pas),
+    # l'exclusion informatique regarde tout le titre.
+    if ROLE_EXCLUDE_RX.search(head) or IT_EXCLUDE_RX.search(title):
+        return None
+    if ELEC_TITLE_RX.search(title):
+        return "electrical"
+    if SYSTEMS_TITLE_RX.search(title):
+        return "systems"
+    return None
+
+
 def is_relevant_role(title: str, department: str = "") -> bool:
-    # L'exclusion ne regarde que le début du titre : le nom d'une équipe après le tiret
-    # ("... - Rights & Accounting") ne doit pas disqualifier un vrai poste d'ingénieur logiciel.
-    if ROLE_EXCLUDE_RX.search(_title_head(title)):
-        return False
-    if ROLE_INCLUDE_RX.search(title):
-        return True
-    return bool(ENGINEER_RX.search(title) and department and TECH_DEPT_RX.search(department))
+    return role_kind(title) is not None
+
+
+def electrical_description(text: str) -> bool:
+    """Au moins 3 mots-clés électriques distincts, et plus que de mots-clés informatiques."""
+    elec = {m.group(0).lower() for m in ELEC_DESC_RX.finditer(text)}
+    it = len(IT_EXCLUDE_RX.findall(text))
+    return len(elec) >= 3 and len(elec) * 2 > it
 
 
 @dataclass
@@ -293,6 +353,7 @@ class Prefilter:
     region: Optional[str] = None
     level: str = "neutral"
     reject: Optional[str] = None
+    kind: Optional[str] = None      # "electrical" | "systems"
 
 
 @dataclass
@@ -314,9 +375,10 @@ def prefilter(job) -> Prefilter:
         return Prefilter(region=region, level=level, reject="senior title")
     if level == "intern" and not config.INCLUDE_INTERNSHIPS:
         return Prefilter(region=region, level=level, reject="internship")
-    if not is_relevant_role(job.title, job.department):
+    kind = role_kind(job.title)
+    if kind is None:
         return Prefilter(region=region, level=level, reject="role")
-    return Prefilter(region=region, level=level)
+    return Prefilter(region=region, level=level, kind=kind)
 
 
 def finalize(job, pre: Prefilter, today: Optional[date] = None) -> Decision:
@@ -328,6 +390,9 @@ def finalize(job, pre: Prefilter, today: Optional[date] = None) -> Decision:
     text = clean_text(job.description)
     years = min_years_required(text)
     flags = compute_flags(text)
+
+    if pre.kind == "systems" and not electrical_description(text):
+        return Decision(False, "systems role, description not electrical", years=years, flags=flags)
 
     if years is not None and years > config.MAX_YEARS_REQUIRED:
         return Decision(False, f"requires {years}+ years", years=years, flags=flags)

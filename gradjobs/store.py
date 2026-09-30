@@ -16,10 +16,28 @@ def load_jobs(path: Path) -> Dict[str, dict]:
         return {}
 
 
-def save_jobs(path: Path, jobs: Dict[str, dict], today: date) -> None:
+def load_filters_version(path: Path) -> str:
+    """Empreinte des filtres qui ont produit data/jobs.json ("" si inconnue)."""
+    try:
+        return json.loads(path.read_text(encoding="utf-8")).get("filters_version", "")
+    except (OSError, ValueError):
+        return ""
+
+
+def filters_fingerprint() -> str:
+    """Hash de config.py + filters.py : change dès qu'on touche aux filtres."""
+    import hashlib
+    from . import filters
+    h = hashlib.sha256()
+    for mod in (config, filters):
+        h.update(Path(mod.__file__).read_bytes())
+    return h.hexdigest()[:12]
+
+
+def save_jobs(path: Path, jobs: Dict[str, dict], today: date, filters_version: str = "") -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     ordered = {k: jobs[k] for k in sorted(jobs)}
-    payload = {"updated": today.isoformat(), "jobs": ordered}
+    payload = {"updated": today.isoformat(), "filters_version": filters_version, "jobs": ordered}
     path.write_text(json.dumps(payload, indent=1, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
 
 
