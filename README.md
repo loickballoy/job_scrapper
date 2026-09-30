@@ -1,8 +1,8 @@
 # Graduate & Early-Career Software Jobs
 
-Graduate, junior and entry-level software / embedded / systems roles in **Switzerland, Netherlands, Canada, United Kingdom, Germany, Ireland, Nordics, Singapore, Remote (Europe), France**, collected automatically from company job boards.
+Graduate, junior and entry-level software / embedded / systems roles in **Switzerland, Netherlands, Canada, United Kingdom, Singapore, Hong Kong, Taiwan, Germany, Ireland, Nordics, Remote (Europe), France**, collected automatically from company job boards.
 
-**Last updated:** 2026-09-30 &nbsp;|&nbsp; **344** open roles at **238** companies &nbsp;|&nbsp; **344** added in the last 7 days
+**Last updated:** 2026-09-30 &nbsp;|&nbsp; **376** open roles at **249** companies &nbsp;|&nbsp; **376** added in the last 7 days
 
 ## Legend
 
@@ -17,7 +17,7 @@ Graduate, junior and entry-level software / embedded / systems roles in **Switze
 
 Flags are keyword heuristics computed from the posting text: always read the original posting.
 
-[🇨🇭 Switzerland (4)](#switzerland) · [🇳🇱 Netherlands (16)](#netherlands) · [🇨🇦 Canada (68)](#canada) · [🇬🇧 United Kingdom (58)](#united-kingdom) · [🇩🇪 Germany (16)](#germany) · [🇮🇪 Ireland (5)](#ireland) · [🇸🇪 Nordics (10)](#nordics) · [🇸🇬 Singapore (24)](#singapore) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (159)](#france)
+[🇨🇭 Switzerland (4)](#switzerland) · [🇳🇱 Netherlands (16)](#netherlands) · [🇨🇦 Canada (68)](#canada) · [🇬🇧 United Kingdom (58)](#united-kingdom) · [🇸🇬 Singapore (24)](#singapore) · [🇭🇰 Hong Kong (27)](#hong-kong) · [🇹🇼 Taiwan (5)](#taiwan) · [🇩🇪 Germany (16)](#germany) · [🇮🇪 Ireland (5)](#ireland) · [🇸🇪 Nordics (10)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (159)](#france)
 
 ## 🇨🇭 Switzerland
 
@@ -185,6 +185,77 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Alpha Financial Markets Consulting | Data Engineer (Databricks / Snowflake) | London | 🔎 | [Apply](https://job-boards.greenhouse.io/alphafmcroles/jobs/8626344002) | 2mo |
 | Hudson River Trading | Junior Trading Systems Engineer | Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States |  | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074) | 2mo |
 
+## 🇸🇬 Singapore
+
+| Company | Role | Location | Flags | Apply | Age |
+|---|---|---|---|---|---|
+| Lumilens | IC Layout Engineer – Optical Engine Silicon | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/lumilens/9173b39c-1f74-4410-b7c5-234620d151b4) | 6d |
+| Airwallex | Software Engineer, Ecosystem | SG - Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/airwallex/5641f83e-4946-48cc-a6e8-e42128b5e2f4) | 8d |
+| AppLovin | Full Stack Developer | Singapore | 🔎 | [Apply](https://boards.greenhouse.io/applovin/jobs/4714437006?gh_jid=4714437006) | 12d |
+| Goventi | Autonomous Vehicle Engineer (Electrical) | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/goventi/10672808-d9fa-4b8a-81c2-91aeac632a64) | 13d |
+| Motional | Software Engineer - Engineering Enablement | Singapore, Central, Singapore | 🔎 | [Apply](https://motional.com/open-positions/?gh_jid=7997992003#/7997992003) | 13d |
+| SimplifyNext | Full Stack Developer | Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/simplifynext/jobs/5236654007) | 16d |
+| Coinhako | Data Engineer (Data Platform) | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/coinhako/643cad9d-f6c2-4eb9-b34c-3e23d4869b63) | 20d |
+| DRW | Software Engineer - Research Technology | Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8176064) | 23d |
+| Sierra | Software Engineer, Agent (New Grad 2027) | Singapore<br>Singapore, Singapore |  | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) | 23d |
+| Stripe | Software Engineer, New Grad | Singapore |  | [Apply](https://stripe.com/jobs/search?gh_jid=8160776) | 28d |
+| New Era Technology | IT Software Developer – QA System Development | Tampines Industrial Crescent, Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8767855002) | 1mo |
+| Jump Trading | Quantitative Developer \| Trading Team | Singapore, Hong Kong | 🔎 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8105914) | 1mo |
+| Goventi | Systems Engineer | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/goventi/627b2388-20d5-4605-b58b-f8139e6b13bd) | 1mo |
+| Lumilens | Manufacturing &amp; Test Engineer (SMT / Test / Automation / FA / IE) | Bulim Square<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/lumilens/e042af40-4c44-4f4f-b9d9-b223e1e9e52a) | 1mo |
+| Pavebank | Junior Security Engineer | Singapore, Singapore |  | [Apply](https://jobs.ashbyhq.com/pavebank/7e3b6bf1-e719-4a8d-89d5-969d39ac4b09) | 1mo |
+| WorldQuant | C++ Software Engineer - Data Platform | Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4701096006) | 1mo |
+| Marshall Wace - Graduate &amp; Associate roles | Software/Infrastructure Graduate - 2027 - Singapore | Singapore |  | [Apply](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646976002) | 2mo |
+| Abnormal | Machine Learning Engineer I - Message Security Products | Remote - Singapore |  | [Apply](https://abnormal.ai/careers/jobs/7816935003?gh_jid=7816935003) | 2mo |
+| Generalrobotics | Robotics Engineer - Singapore: Field Robotics Specialist | Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/generalrobotics/85908300-5d92-4479-a4c2-576c42bc49b7) | 2mo |
+| Plaud | Machine Learning Engineer (Speech/Audio) - Singapore | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/plaud/57a36c66-11ae-4e86-9587-987bfaac7fd8) | 2mo |
+| Guardsquare | Compiler Engineer C++/LLVM (Singapore) | Singapore | 🛂 🔎 | [Apply](https://job-boards.greenhouse.io/guardsquare/jobs/8078823) | 2mo |
+| Guardsquare | Java Software Engineer (Singapore) | Singapore | 🛂 🔎 | [Apply](https://job-boards.greenhouse.io/guardsquare/jobs/8078846) | 2mo |
+| Coins | Wallet &amp; Crypto Security Engineer | Any<br>Taguig City, Metro Manila, Philippines<br>Hong Kong, SAR<br>+1 more | 🔎 | [Apply](https://jobs.lever.co/coins/8dbde7d6-b2e1-46f3-bd98-b7da70a97ffe) | 2mo |
+| Goventi | Control Engineer | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/goventi/a0632e91-825f-494e-9bcd-8387851c4468) | 2mo |
+
+## 🇭🇰 Hong Kong
+
+| Company | Role | Location | Flags | Apply | Age |
+|---|---|---|---|---|---|
+| Binance | Binance Accelerator Programm - Software Engineer (Full-stack / AI-oriented) | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/6d2c2e8e-1211-42c6-ab97-9a88879ea2b9) | 2d |
+| Binance | Binance Accelerator Programm - Software Engineer (KYB) | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/0e95f863-3dd6-4ffe-a01d-4a3c2b473aff) | 5d |
+| Qube Research &amp; Technologies | Quantitative Developer - Python | Hong Kong | 🔎 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8809530002) | 9d |
+| Nex | QA Engineer | Hong Kong | 🔎 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5425458008) | 14d |
+| Binance | Binance Accelerator Programm - Software Engineer (Convert) | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/a6651f27-4e58-4841-91ae-5c79e2296d36) | 21d |
+| Binance | Binance Accelerator Programm - Software Engineer (Stocks) | Taiwan, Taipei<br>Asia<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/f1aa0f91-9dac-4eba-bfd7-b39fc4f98cb2) | 21d |
+| Crypto | Digital Trust and Resilience Engineer (Security Governance) | Hong Kong | 🔎 | [Apply](https://jobs.lever.co/crypto/47509c3a-b034-470b-903a-b8e0441d5d28) | 21d |
+| Ekimetrics | Junior Software Engineer (6-month) – Hong Kong | Hong Kong | 🗣️ Cantonese | [Apply](https://jobs.lever.co/ekimetrics/d741727e-f25f-452a-8e40-e6d04c3395ea) | 21d |
+| Appnovation Technologies | Mobile Developer - Android (Cantonese Speaking) | Hong Kong | 🔎 | [Apply](https://job-boards.greenhouse.io/appnovation/jobs/8783637002) | 26d |
+| Binance | Binance Accelerator Programm - Software Engineer (Ledger) | Taiwan, Taipei<br>Asia<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/deb28ea3-d0de-4fa4-ba31-f6f9ead74838) | 27d |
+| Binance | Binance Accelerator Programm - Software Engineer (Reconciliation) | Taiwan, Taipei<br>Asia<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/aecc4a9f-a131-4eaa-8771-d482168c8ca8) | 27d |
+| Nahc | Cybersecurity and Information Security Analyst | Hong Kong | 🔎 | [Apply](https://jobs.lever.co/nahc/6a43ec81-8230-49fd-aa4d-daa51db33831) | 27d |
+| Eclipse Trading | Graduate Low Latency C++ Software Developer | Hong Kong |  | [Apply](https://job-boards.greenhouse.io/eclipsetrading/jobs/8735474002) | 1mo |
+| Binance | Junior Software Engineer（AI&amp;LLM) | Asia<br>Hong Kong<br>Taiwan, Taipei |  | [Apply](https://jobs.lever.co/binance/88fe7933-859b-47e7-a1a0-29c5e14de573) | 1mo |
+| Eclipse Trading | Graduate Python Software Developer \| 2027 Intake | Hong Kong |  | [Apply](https://job-boards.greenhouse.io/eclipsetrading/jobs/8729457002) | 1mo |
+| Lalamove | Workplace Automation Engineer | Hong Kong SAR | 🔎 | [Apply](https://jobs.lever.co/lalamove/7f067783-edaa-4672-9eb1-cd489c44ab22) | 1mo |
+| Jump Trading | Python Software Engineer | Shanghai or Hong Kong | 🔎 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8104832) | 1mo |
+| Marshall Wace - Graduate &amp; Associate roles | Software/Infrastructure Graduate - 2027 - Hong Kong | Hong Kong |  | [Apply](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646984002) | 2mo |
+| Binance | Binance Accelerator Program - Full Stack Engineer (Backend Oriented) Fully Remote | Asia<br>Taiwan, Taipei<br>New Zealand, Auckland<br>+6 more | 🔎 | [Apply](https://jobs.lever.co/binance/dc0c742c-847c-4b86-88df-ddac253399a8) | 2mo |
+| Binance | Binance Accelerator Program - AI Agent Engineer | Asia<br>Hong Kong<br>Taiwan, Taipei | 🔎 | [Apply](https://jobs.lever.co/binance/53f4727b-89a8-4b19-8b1a-65781808c5dd) | 2mo |
+| Binance | Binance Accelerator Program - Full Stack Engineer (AI) | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac) | 2mo |
+| Binance | Pioneer Talent Program - Full Stack Engineer (Back-end Oriented) | Asia<br>Hong Kong<br>Taiwan, Taipei<br>+3 more | 🔎 | [Apply](https://jobs.lever.co/binance/fdee019b-d17e-4655-99c4-b8d31d8e61c5) | 2mo |
+| Binance | Pioneer Talent Program - Full Stack Engineer (Front-end Oriented) | Asia<br>Hong Kong<br>Taiwan, Taipei<br>+3 more | 🔎 | [Apply](https://jobs.lever.co/binance/990a9661-c72f-4d91-a69d-c0ada1de40b0) | 2mo |
+| Lalamove | Software Engineer, Backend | Hong Kong SAR | 🔎 | [Apply](https://jobs.lever.co/lalamove/9a2de1d3-5994-4507-a988-1ec34e629e14) | 2mo |
+| Binance | Binance Accelerator Program - AI Agent Engineer | Asia<br>Hong Kong<br>Taiwan, Taipei | 🔎 | [Apply](https://jobs.lever.co/binance/439d6f0a-bf27-45b5-8cd2-0783d105bb7b) | 2mo |
+| Binance | Binance Accelerator Program -AI Agent Observability Engineer | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c) | 2mo |
+| Binance | Web/App Test Engineer | Hong Kong<br>Taiwan, Taipei<br>Asia | 🔎 | [Apply](https://jobs.lever.co/binance/da981b97-477a-4cd6-af88-797c6a7c0ea3) | 2mo |
+
+## 🇹🇼 Taiwan
+
+| Company | Role | Location | Flags | Apply | Age |
+|---|---|---|---|---|---|
+| Appier | IT Developer | Taipei, Taiwan | 🔎 | [Apply](https://job-boards.greenhouse.io/appier/jobs/8238768) | 0d |
+| Crypto | Digital Trust and Resilience Engineer (Security Governance) | Taipei | 🔎 | [Apply](https://jobs.lever.co/crypto/fb6b34a5-34ed-4c8e-b185-2cfdabde023b) | 21d |
+| Binance | AI Agent Engineer | Asia<br>Taiwan, Taipei | 🔎 | [Apply](https://jobs.lever.co/binance/3a2ca7e0-e2c9-4248-b8fe-0de5d05dee1c) | 1mo |
+| Etched | Manufacturing Test Engineer (Taiwan) | Taoyuan<br>Taoyuan, Taiwan | 🗣️ Mandarin 🔎 | [Apply](https://jobs.ashbyhq.com/etched/e593a2f6-8f0b-4328-9fd9-b0ff85cf0827) | 2mo |
+| Binance | Binance Accelerator Program - Software Engineer (Cryptography) | Asia<br>Taiwan, Taipei | 🔎 | [Apply](https://jobs.lever.co/binance/46a73996-5e3c-4746-928a-148b754cac5c) | 2mo |
+
 ## 🇩🇪 Germany
 
 | Company | Role | Location | Flags | Apply | Age |
@@ -230,35 +301,6 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Iceye | Manufacturing Engineer (Electronics) | Espoo<br>Espoo, Finland | ✈️ 🔎 | [Apply](https://jobs.ashbyhq.com/iceye/cd035996-66ce-478b-beb9-d42a69293946) | 1mo |
 | WPP | Data Engineer | Copenhagen, Capital, Denmark | 🔎 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8551651002) | 2mo |
 | WPP | Data Engineer | Copenhagen, Denmark | 🔎 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8642402002) | 2mo |
-
-## 🇸🇬 Singapore
-
-| Company | Role | Location | Flags | Apply | Age |
-|---|---|---|---|---|---|
-| Lumilens | IC Layout Engineer – Optical Engine Silicon | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/lumilens/9173b39c-1f74-4410-b7c5-234620d151b4) | 6d |
-| Airwallex | Software Engineer, Ecosystem | SG - Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/airwallex/5641f83e-4946-48cc-a6e8-e42128b5e2f4) | 8d |
-| AppLovin | Full Stack Developer | Singapore | 🔎 | [Apply](https://boards.greenhouse.io/applovin/jobs/4714437006?gh_jid=4714437006) | 12d |
-| Goventi | Autonomous Vehicle Engineer (Electrical) | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/goventi/10672808-d9fa-4b8a-81c2-91aeac632a64) | 13d |
-| Motional | Software Engineer - Engineering Enablement | Singapore, Central, Singapore | 🔎 | [Apply](https://motional.com/open-positions/?gh_jid=7997992003#/7997992003) | 13d |
-| SimplifyNext | Full Stack Developer | Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/simplifynext/jobs/5236654007) | 16d |
-| Coinhako | Data Engineer (Data Platform) | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/coinhako/643cad9d-f6c2-4eb9-b34c-3e23d4869b63) | 20d |
-| DRW | Software Engineer - Research Technology | Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8176064) | 23d |
-| Sierra | Software Engineer, Agent (New Grad 2027) | Singapore<br>Singapore, Singapore |  | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) | 23d |
-| Stripe | Software Engineer, New Grad | Singapore |  | [Apply](https://stripe.com/jobs/search?gh_jid=8160776) | 28d |
-| New Era Technology | IT Software Developer – QA System Development | Tampines Industrial Crescent, Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8767855002) | 1mo |
-| Jump Trading | Quantitative Developer \| Trading Team | Singapore, Hong Kong | 🔎 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8105914) | 1mo |
-| Goventi | Systems Engineer | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/goventi/627b2388-20d5-4605-b58b-f8139e6b13bd) | 1mo |
-| Lumilens | Manufacturing &amp; Test Engineer (SMT / Test / Automation / FA / IE) | Bulim Square<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/lumilens/e042af40-4c44-4f4f-b9d9-b223e1e9e52a) | 1mo |
-| Pavebank | Junior Security Engineer | Singapore, Singapore |  | [Apply](https://jobs.ashbyhq.com/pavebank/7e3b6bf1-e719-4a8d-89d5-969d39ac4b09) | 1mo |
-| WorldQuant | C++ Software Engineer - Data Platform | Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4701096006) | 1mo |
-| Marshall Wace - Graduate &amp; Associate roles | Software/Infrastructure Graduate - 2027 - Singapore | Singapore |  | [Apply](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646976002) | 2mo |
-| Abnormal | Machine Learning Engineer I - Message Security Products | Remote - Singapore |  | [Apply](https://abnormal.ai/careers/jobs/7816935003?gh_jid=7816935003) | 2mo |
-| Generalrobotics | Robotics Engineer - Singapore: Field Robotics Specialist | Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/generalrobotics/85908300-5d92-4479-a4c2-576c42bc49b7) | 2mo |
-| Plaud | Machine Learning Engineer (Speech/Audio) - Singapore | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/plaud/57a36c66-11ae-4e86-9587-987bfaac7fd8) | 2mo |
-| Guardsquare | Compiler Engineer C++/LLVM (Singapore) | Singapore | 🛂 🔎 | [Apply](https://job-boards.greenhouse.io/guardsquare/jobs/8078823) | 2mo |
-| Guardsquare | Java Software Engineer (Singapore) | Singapore | 🛂 🔎 | [Apply](https://job-boards.greenhouse.io/guardsquare/jobs/8078846) | 2mo |
-| Coins | Wallet &amp; Crypto Security Engineer | Any<br>Taguig City, Metro Manila, Philippines<br>Hong Kong, SAR<br>+1 more | 🔎 | [Apply](https://jobs.lever.co/coins/8dbde7d6-b2e1-46f3-bd98-b7da70a97ffe) | 2mo |
-| Goventi | Control Engineer | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/goventi/a0632e91-825f-494e-9bcd-8387851c4468) | 2mo |
 
 ## 🌍 Remote (Europe)
 

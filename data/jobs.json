@@ -902,6 +902,32 @@
    "updated": "2026-09-09T05:43:01.516+00:00",
    "url": "https://jobs.ashbyhq.com/embedding-vc/b49531ff-4850-4bab-8fbf-72a8ec299e60"
   },
+  "ashby:etched:e593a2f6-8f0b-4328-9fd9-b0ff85cf0827": {
+   "ats": "ashby",
+   "closed_on": null,
+   "company": "Etched",
+   "employment_type": "FullTime",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🗣️ Mandarin",
+    "🔎"
+   ],
+   "key": "ashby:etched:e593a2f6-8f0b-4328-9fd9-b0ff85cf0827",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Taoyuan",
+    "Taoyuan, Taiwan"
+   ],
+   "min_years": 2,
+   "posted": "2026-07-27",
+   "region": "Taiwan",
+   "slug": "etched",
+   "status": "open",
+   "title": "Manufacturing Test Engineer (Taiwan)",
+   "updated": "2026-07-27T13:50:38.169+00:00",
+   "url": "https://jobs.ashbyhq.com/etched/e593a2f6-8f0b-4328-9fd9-b0ff85cf0827"
+  },
   "ashby:eye-security:060db520-64e6-47b3-8522-2f2526e78c44": {
    "ats": "ashby",
    "closed_on": "2026-09-29",
@@ -3979,6 +4005,30 @@
    "updated": "2026-09-25T09:22:45-04:00",
    "url": "https://job-boards.greenhouse.io/appdirect/jobs/8643029002"
   },
+  "greenhouse:appier:8238768": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Appier",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:appier:8238768",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Taipei, Taiwan"
+   ],
+   "min_years": 1,
+   "posted": "2026-09-30",
+   "region": "Taiwan",
+   "slug": "appier",
+   "status": "open",
+   "title": "IT Developer",
+   "updated": "2026-09-30T03:14:38-04:00",
+   "url": "https://job-boards.greenhouse.io/appier/jobs/8238768"
+  },
   "greenhouse:applovin:4714437006": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -4002,6 +4052,30 @@
    "title": "Full Stack Developer",
    "updated": "2026-09-18T05:58:12-04:00",
    "url": "https://boards.greenhouse.io/applovin/jobs/4714437006?gh_jid=4714437006"
+  },
+  "greenhouse:appnovation:8783637002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Appnovation Technologies",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:appnovation:8783637002",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Hong Kong"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-04",
+   "region": "Hong Kong",
+   "slug": "appnovation",
+   "status": "open",
+   "title": "Mobile Developer - Android (Cantonese Speaking)",
+   "updated": "2026-09-16T09:40:36-04:00",
+   "url": "https://job-boards.greenhouse.io/appnovation/jobs/8783637002"
   },
   "greenhouse:asana:8078102": {
    "ats": "greenhouse",
@@ -5006,6 +5080,50 @@
    "updated": "2026-09-07T04:57:06-04:00",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/8176064"
   },
+  "greenhouse:eclipsetrading:8729457002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Eclipse Trading ",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [],
+   "key": "greenhouse:eclipsetrading:8729457002",
+   "last_seen": "2026-09-30",
+   "level_via": "title",
+   "locations": [
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-08-19",
+   "region": "Hong Kong",
+   "slug": "eclipsetrading",
+   "status": "open",
+   "title": "Graduate Python Software Developer | 2027 Intake",
+   "updated": "2026-08-24T02:03:50-04:00",
+   "url": "https://job-boards.greenhouse.io/eclipsetrading/jobs/8729457002"
+  },
+  "greenhouse:eclipsetrading:8735474002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Eclipse Trading ",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [],
+   "key": "greenhouse:eclipsetrading:8735474002",
+   "last_seen": "2026-09-30",
+   "level_via": "title",
+   "locations": [
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-08-21",
+   "region": "Hong Kong",
+   "slug": "eclipsetrading",
+   "status": "open",
+   "title": "Graduate Low Latency C++ Software Developer",
+   "updated": "2026-08-24T02:02:20-04:00",
+   "url": "https://job-boards.greenhouse.io/eclipsetrading/jobs/8735474002"
+  },
   "greenhouse:elwoodtechnologies:6209718004": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -5642,7 +5760,7 @@
    "slug": "imc",
    "status": "open",
    "title": "Graduate Software Engineer (2027)",
-   "updated": "2026-09-29T11:19:49-04:00",
+   "updated": "2026-09-30T06:15:59-04:00",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4667814101"
   },
   "greenhouse:imc:4945420101": {
@@ -5664,7 +5782,7 @@
    "slug": "imc",
    "status": "open",
    "title": "C++ Software Engineer, Early Careers",
-   "updated": "2026-09-29T11:19:49-04:00",
+   "updated": "2026-09-30T06:15:59-04:00",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4945420101"
   },
   "greenhouse:intrinsicrobotics:6186649004": {
@@ -5760,6 +5878,30 @@
    "title": "Campus Systems Engineer (Full-Time)",
    "updated": "2026-08-18T18:30:56-04:00",
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8008306"
+  },
+  "greenhouse:jumptrading:8104832": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Jump Trading",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:jumptrading:8104832",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Shanghai or Hong Kong"
+   ],
+   "min_years": 2,
+   "posted": "2026-08-04",
+   "region": "Hong Kong",
+   "slug": "jumptrading",
+   "status": "open",
+   "title": "Python Software Engineer",
+   "updated": "2026-09-09T03:38:11-04:00",
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8104832"
   },
   "greenhouse:jumptrading:8105914": {
    "ats": "greenhouse",
@@ -6372,6 +6514,28 @@
    "updated": "2026-09-10T07:00:49-04:00",
    "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646976002"
   },
+  "greenhouse:mw-tech-grad:8646984002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Marshall Wace - Graduate & Associate roles",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [],
+   "key": "greenhouse:mw-tech-grad:8646984002",
+   "last_seen": "2026-09-30",
+   "level_via": "title",
+   "locations": [
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-07-31",
+   "region": "Hong Kong",
+   "slug": "mw-tech-grad",
+   "status": "open",
+   "title": "Software/Infrastructure Graduate - 2027 - Hong Kong",
+   "updated": "2026-09-10T07:00:49-04:00",
+   "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646984002"
+  },
   "greenhouse:nebius:4965819101": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -6394,7 +6558,7 @@
    "slug": "nebius",
    "status": "open",
    "title": "Frontend Engineer - UI Infrastructure and Developer Tools (Early Talent)",
-   "updated": "2026-09-02T13:10:55-04:00",
+   "updated": "2026-09-30T05:04:06-04:00",
    "url": "https://careers.nebius.com/?gh_jid=4965819101"
   },
   "greenhouse:nebius:4967085101": {
@@ -6419,7 +6583,7 @@
    "slug": "nebius",
    "status": "open",
    "title": "Site Reliability Engineer (SRE) - Early Talent",
-   "updated": "2026-09-07T06:20:56-04:00",
+   "updated": "2026-09-30T05:04:06-04:00",
    "url": "https://careers.nebius.com/?gh_jid=4967085101"
   },
   "greenhouse:neweratech:8767855002": {
@@ -6445,6 +6609,30 @@
    "title": "IT Software Developer – QA System Development",
    "updated": "2026-09-10T13:27:44-04:00",
    "url": "https://job-boards.greenhouse.io/neweratech/jobs/8767855002"
+  },
+  "greenhouse:nex:5425458008": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Nex",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:nex:5425458008",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Hong Kong"
+   ],
+   "min_years": 1,
+   "posted": "2026-09-16",
+   "region": "Hong Kong",
+   "slug": "nex",
+   "status": "open",
+   "title": "QA Engineer",
+   "updated": "2026-09-25T01:00:57-04:00",
+   "url": "https://job-boards.greenhouse.io/nex/jobs/5425458008"
   },
   "greenhouse:nextdoor:8198165": {
    "ats": "greenhouse",
@@ -6734,6 +6922,30 @@
    "updated": "2026-09-22T17:14:42-04:00",
    "url": "https://point.com/hiring?gh_jid=8829278002"
   },
+  "greenhouse:quberesearchandtechnologies:8809530002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Qube Research & Technologies",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:quberesearchandtechnologies:8809530002",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Hong Kong"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-21",
+   "region": "Hong Kong",
+   "slug": "quberesearchandtechnologies",
+   "status": "open",
+   "title": "Quantitative Developer - Python",
+   "updated": "2026-09-21T05:19:54-04:00",
+   "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8809530002"
+  },
   "greenhouse:rapidfortinc:4414108009": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -6900,7 +7112,7 @@
    "slug": "roku",
    "status": "open",
    "title": "Software Engineer, Agentic AI",
-   "updated": "2026-09-29T20:06:21-04:00",
+   "updated": "2026-09-30T04:06:35-04:00",
    "url": "https://www.weareroku.com/jobs/8096018?gh_jid=8096018"
   },
   "greenhouse:saltxc:5219899007": {
@@ -7725,6 +7937,456 @@
    "updated": "1787156396672",
    "url": "https://jobs.lever.co/arbitalhealth/609c9994-ccdc-4a2e-b34d-c25cfdccb0c6"
   },
+  "lever:binance:0e95f863-3dd6-4ffe-a01d-4a3c2b473aff": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:0e95f863-3dd6-4ffe-a01d-4a3c2b473aff",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Taiwan, Taipei",
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-09-25",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Programm - Software Engineer (KYB)",
+   "updated": "1790300671971",
+   "url": "https://jobs.lever.co/binance/0e95f863-3dd6-4ffe-a01d-4a3c2b473aff"
+  },
+  "lever:binance:10e9173b-7cef-402b-9223-ac61599f005c": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:10e9173b-7cef-402b-9223-ac61599f005c",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Taiwan, Taipei",
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-07-07",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Program -AI Agent Observability Engineer",
+   "updated": "1783438202736",
+   "url": "https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c"
+  },
+  "lever:binance:3a2ca7e0-e2c9-4248-b8fe-0de5d05dee1c": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Full-time Onsite or Remote",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:3a2ca7e0-e2c9-4248-b8fe-0de5d05dee1c",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Taiwan, Taipei"
+   ],
+   "min_years": 1,
+   "posted": "2026-08-18",
+   "region": "Taiwan",
+   "slug": "binance",
+   "status": "open",
+   "title": "AI Agent Engineer",
+   "updated": "1787051161163",
+   "url": "https://jobs.lever.co/binance/3a2ca7e0-e2c9-4248-b8fe-0de5d05dee1c"
+  },
+  "lever:binance:439d6f0a-bf27-45b5-8cd2-0783d105bb7b": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:439d6f0a-bf27-45b5-8cd2-0783d105bb7b",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Hong Kong",
+    "Taiwan, Taipei"
+   ],
+   "min_years": null,
+   "posted": "2026-07-14",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Program - AI Agent Engineer",
+   "updated": "1783992404817",
+   "url": "https://jobs.lever.co/binance/439d6f0a-bf27-45b5-8cd2-0783d105bb7b"
+  },
+  "lever:binance:43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Taiwan, Taipei",
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-07-22",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Program - Full Stack Engineer (AI)",
+   "updated": "1784698160234",
+   "url": "https://jobs.lever.co/binance/43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac"
+  },
+  "lever:binance:46a73996-5e3c-4746-928a-148b754cac5c": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:46a73996-5e3c-4746-928a-148b754cac5c",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Taiwan, Taipei"
+   ],
+   "min_years": null,
+   "posted": "2026-07-24",
+   "region": "Taiwan",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Program - Software Engineer (Cryptography)",
+   "updated": "1784863073129",
+   "url": "https://jobs.lever.co/binance/46a73996-5e3c-4746-928a-148b754cac5c"
+  },
+  "lever:binance:53f4727b-89a8-4b19-8b1a-65781808c5dd": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:53f4727b-89a8-4b19-8b1a-65781808c5dd",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Hong Kong",
+    "Taiwan, Taipei"
+   ],
+   "min_years": null,
+   "posted": "2026-07-24",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Program - AI Agent Engineer",
+   "updated": "1784890417591",
+   "url": "https://jobs.lever.co/binance/53f4727b-89a8-4b19-8b1a-65781808c5dd"
+  },
+  "lever:binance:6d2c2e8e-1211-42c6-ab97-9a88879ea2b9": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:6d2c2e8e-1211-42c6-ab97-9a88879ea2b9",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Taiwan, Taipei",
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-09-28",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Programm - Software Engineer (Full-stack / AI-oriented)",
+   "updated": "1790574714127",
+   "url": "https://jobs.lever.co/binance/6d2c2e8e-1211-42c6-ab97-9a88879ea2b9"
+  },
+  "lever:binance:88fe7933-859b-47e7-a1a0-29c5e14de573": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [],
+   "key": "lever:binance:88fe7933-859b-47e7-a1a0-29c5e14de573",
+   "last_seen": "2026-09-30",
+   "level_via": "title",
+   "locations": [
+    "Asia",
+    "Hong Kong",
+    "Taiwan, Taipei"
+   ],
+   "min_years": null,
+   "posted": "2026-08-20",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Junior Software Engineer（AI&LLM)",
+   "updated": "1787219240845",
+   "url": "https://jobs.lever.co/binance/88fe7933-859b-47e7-a1a0-29c5e14de573"
+  },
+  "lever:binance:990a9661-c72f-4d91-a69d-c0ada1de40b0": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Pioneer Talent Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:990a9661-c72f-4d91-a69d-c0ada1de40b0",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Hong Kong",
+    "Taiwan, Taipei",
+    "Kuala Lumpur",
+    "Thailand, Bangkok",
+    "UAE, Dubai"
+   ],
+   "min_years": 1,
+   "posted": "2026-07-22",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Pioneer Talent Program - Full Stack Engineer (Front-end Oriented)",
+   "updated": "1784693160494",
+   "url": "https://jobs.lever.co/binance/990a9661-c72f-4d91-a69d-c0ada1de40b0"
+  },
+  "lever:binance:a6651f27-4e58-4841-91ae-5c79e2296d36": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:a6651f27-4e58-4841-91ae-5c79e2296d36",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Taiwan, Taipei",
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-09-09",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Programm - Software Engineer (Convert)",
+   "updated": "1788936417832",
+   "url": "https://jobs.lever.co/binance/a6651f27-4e58-4841-91ae-5c79e2296d36"
+  },
+  "lever:binance:aecc4a9f-a131-4eaa-8771-d482168c8ca8": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:aecc4a9f-a131-4eaa-8771-d482168c8ca8",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Taiwan, Taipei",
+    "Asia",
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-09-03",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Programm - Software Engineer (Reconciliation)",
+   "updated": "1788441106060",
+   "url": "https://jobs.lever.co/binance/aecc4a9f-a131-4eaa-8771-d482168c8ca8"
+  },
+  "lever:binance:da981b97-477a-4cd6-af88-797c6a7c0ea3": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Full-time: Remote",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:da981b97-477a-4cd6-af88-797c6a7c0ea3",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Hong Kong",
+    "Taiwan, Taipei",
+    "Asia"
+   ],
+   "min_years": 1,
+   "posted": "2026-07-06",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Web/App Test Engineer",
+   "updated": "1783310650234",
+   "url": "https://jobs.lever.co/binance/da981b97-477a-4cd6-af88-797c6a7c0ea3"
+  },
+  "lever:binance:dc0c742c-847c-4b86-88df-ddac253399a8": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:dc0c742c-847c-4b86-88df-ddac253399a8",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Taiwan, Taipei",
+    "New Zealand, Auckland",
+    "New Zealand, Wellington",
+    "Australia, Brisbane",
+    "Australia, Melbourne",
+    "Australia, Sydney",
+    "Kuala Lumpur",
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-07-28",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Program - Full Stack Engineer (Backend Oriented) Fully Remote",
+   "updated": "1785219151724",
+   "url": "https://jobs.lever.co/binance/dc0c742c-847c-4b86-88df-ddac253399a8"
+  },
+  "lever:binance:deb28ea3-d0de-4fa4-ba31-f6f9ead74838": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:deb28ea3-d0de-4fa4-ba31-f6f9ead74838",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Taiwan, Taipei",
+    "Asia",
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-09-03",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Programm - Software Engineer (Ledger)",
+   "updated": "1788441258176",
+   "url": "https://jobs.lever.co/binance/deb28ea3-d0de-4fa4-ba31-f6f9ead74838"
+  },
+  "lever:binance:f1aa0f91-9dac-4eba-bfd7-b39fc4f98cb2": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Binance Accelerator Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:f1aa0f91-9dac-4eba-bfd7-b39fc4f98cb2",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Taiwan, Taipei",
+    "Asia",
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-09-09",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Binance Accelerator Programm - Software Engineer (Stocks)",
+   "updated": "1788936500811",
+   "url": "https://jobs.lever.co/binance/f1aa0f91-9dac-4eba-bfd7-b39fc4f98cb2"
+  },
+  "lever:binance:fdee019b-d17e-4655-99c4-b8d31d8e61c5": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Binance",
+   "employment_type": "Pioneer Talent Program",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:binance:fdee019b-d17e-4655-99c4-b8d31d8e61c5",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Asia",
+    "Hong Kong",
+    "Taiwan, Taipei",
+    "Kuala Lumpur",
+    "Thailand, Bangkok",
+    "UAE, Dubai"
+   ],
+   "min_years": 1,
+   "posted": "2026-07-22",
+   "region": "Hong Kong",
+   "slug": "binance",
+   "status": "open",
+   "title": "Pioneer Talent Program - Full Stack Engineer (Back-end Oriented)",
+   "updated": "1784694849082",
+   "url": "https://jobs.lever.co/binance/fdee019b-d17e-4655-99c4-b8d31d8e61c5"
+  },
   "lever:bis:c67cbc4c-45c0-4e93-9c48-f9e5bd6e6779": {
    "ats": "lever",
    "closed_on": null,
@@ -7776,6 +8438,54 @@
    "updated": "1784622538706",
    "url": "https://jobs.lever.co/coins/8dbde7d6-b2e1-46f3-bd98-b7da70a97ffe"
   },
+  "lever:crypto:47509c3a-b034-470b-903a-b8e0441d5d28": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Crypto",
+   "employment_type": "Full-time",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:crypto:47509c3a-b034-470b-903a-b8e0441d5d28",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Hong Kong"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-09",
+   "region": "Hong Kong",
+   "slug": "crypto",
+   "status": "open",
+   "title": "Digital Trust and Resilience Engineer (Security Governance)",
+   "updated": "1788919060076",
+   "url": "https://jobs.lever.co/crypto/47509c3a-b034-470b-903a-b8e0441d5d28"
+  },
+  "lever:crypto:fb6b34a5-34ed-4c8e-b185-2cfdabde023b": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Crypto",
+   "employment_type": "Full-time",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:crypto:fb6b34a5-34ed-4c8e-b185-2cfdabde023b",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Taipei"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-09",
+   "region": "Taiwan",
+   "slug": "crypto",
+   "status": "open",
+   "title": "Digital Trust and Resilience Engineer (Security Governance)",
+   "updated": "1788927665798",
+   "url": "https://jobs.lever.co/crypto/fb6b34a5-34ed-4c8e-b185-2cfdabde023b"
+  },
   "lever:dailywire:af3a6f98-0446-4604-84d3-a49310d84edb": {
    "ats": "lever",
    "closed_on": null,
@@ -7799,6 +8509,30 @@
    "title": "Social Platform Specialist",
    "updated": "1786042844482",
    "url": "https://jobs.lever.co/dailywire/af3a6f98-0446-4604-84d3-a49310d84edb"
+  },
+  "lever:ekimetrics:d741727e-f25f-452a-8e40-e6d04c3395ea": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Ekimetrics",
+   "employment_type": "",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🗣️ Cantonese"
+   ],
+   "key": "lever:ekimetrics:d741727e-f25f-452a-8e40-e6d04c3395ea",
+   "last_seen": "2026-09-30",
+   "level_via": "title",
+   "locations": [
+    "Hong Kong"
+   ],
+   "min_years": null,
+   "posted": "2026-09-09",
+   "region": "Hong Kong",
+   "slug": "ekimetrics",
+   "status": "open",
+   "title": "Junior Software Engineer (6-month) – Hong Kong",
+   "updated": "1788922769227",
+   "url": "https://jobs.lever.co/ekimetrics/d741727e-f25f-452a-8e40-e6d04c3395ea"
   },
   "lever:electricmind:3a638fb3-5cc8-4248-875c-fed9804791aa": {
    "ats": "lever",
@@ -8274,6 +9008,54 @@
    "updated": "1789397147070",
    "url": "https://jobs.lever.co/kpler/23e9e7db-ca92-4663-8b60-eed96c3859f1"
   },
+  "lever:lalamove:7f067783-edaa-4672-9eb1-cd489c44ab22": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Lalamove",
+   "employment_type": "Full-time",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:lalamove:7f067783-edaa-4672-9eb1-cd489c44ab22",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Hong Kong SAR"
+   ],
+   "min_years": 2,
+   "posted": "2026-08-19",
+   "region": "Hong Kong",
+   "slug": "lalamove",
+   "status": "open",
+   "title": "Workplace Automation Engineer",
+   "updated": "1787112126309",
+   "url": "https://jobs.lever.co/lalamove/7f067783-edaa-4672-9eb1-cd489c44ab22"
+  },
+  "lever:lalamove:9a2de1d3-5994-4507-a988-1ec34e629e14": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Lalamove",
+   "employment_type": "Full-time",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:lalamove:9a2de1d3-5994-4507-a988-1ec34e629e14",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Hong Kong SAR"
+   ],
+   "min_years": 2,
+   "posted": "2026-07-15",
+   "region": "Hong Kong",
+   "slug": "lalamove",
+   "status": "open",
+   "title": "Software Engineer, Backend",
+   "updated": "1784103071019",
+   "url": "https://jobs.lever.co/lalamove/9a2de1d3-5994-4507-a988-1ec34e629e14"
+  },
   "lever:loftorbital:fcc29575-a827-4cc2-b7d0-a81672ebebf4": {
    "ats": "lever",
    "closed_on": null,
@@ -8320,6 +9102,30 @@
    "title": "Junior Front-end Developer",
    "updated": "1784733036164",
    "url": "https://jobs.lever.co/mendix/f3e656f5-cb47-4c35-9e7a-00bce29c6a2d"
+  },
+  "lever:nahc:6a43ec81-8230-49fd-aa4d-daa51db33831": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Nahc",
+   "employment_type": "Full-time",
+   "first_seen": "2026-09-30",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:nahc:6a43ec81-8230-49fd-aa4d-daa51db33831",
+   "last_seen": "2026-09-30",
+   "level_via": "description",
+   "locations": [
+    "Hong Kong"
+   ],
+   "min_years": 2,
+   "posted": "2026-09-03",
+   "region": "Hong Kong",
+   "slug": "nahc",
+   "status": "open",
+   "title": "Cybersecurity and Information Security Analyst",
+   "updated": "1788417699334",
+   "url": "https://jobs.lever.co/nahc/6a43ec81-8230-49fd-aa4d-daa51db33831"
   },
   "lever:octoenergy:0903dae1-3885-4fa0-b5c9-f336d75d64d9": {
    "ats": "lever",
