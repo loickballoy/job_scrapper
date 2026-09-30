@@ -40,6 +40,11 @@ REGIONS = [
      r"edinburgh|glasgow|cambridge(?!,?\s*(?:ma|mass|massachusetts|on|ontario)\b)|"
      r"oxford(?!,?\s*(?:ms|oh|mississippi|ohio)\b)|bristol|birmingham(?!,?\s*(?:al|alabama)\b)|"
      r"leeds|sheffield|nottingham|cardiff|belfast|liverpool|southampton|milton keynes|leicester"),
+    ("Singapore", "🇸🇬", r"singapore"),
+    ("Hong Kong", "🇭🇰",
+     r"hong kong|hk\b|hongkong"),
+    ("Taiwan", "🇹🇼",
+     r"taiwan|taipei|taichung|kaohsiung|tainan|hsinchu"),
     ("Germany", "🇩🇪",
      r"germany|deutschland|berlin|munich|münchen|munchen|hamburg|frankfurt|cologne|köln|koln|"
      r"stuttgart|düsseldorf|dusseldorf|dresden|karlsruhe|leipzig|nuremberg|nürnberg|hannover|"
@@ -51,7 +56,6 @@ REGIONS = [
      r"sweden|sverige|stockholm|gothenburg|göteborg|goteborg|malmö|malmo|uppsala|norway|norge|oslo|"
      r"bergen|trondheim|stavanger|denmark|danmark|copenhagen|københavn|aarhus|odense|finland|suomi|"
      r"helsinki|espoo|tampere|oulu|iceland|reykjavik"),
-    ("Singapore", "🇸🇬", r"singapore"),
     ("Remote (Europe)", "🌍",
      r"remote.{0,30}(?:europe|emea|\beu\b|european|eea)|(?:europe|emea|\beu\b|european|eea).{0,30}remote|"
      r"anywhere in europe"),
@@ -63,8 +67,8 @@ REGIONS = [
 # Régions réellement affichées. Retire-en / ajoute-en selon ta recherche.
 # (France volontairement absente : tu cherches hors de France.)
 ENABLED_REGIONS = {
-    "Netherlands", "Switzerland", "United Kingdom", "Canada",
-    "Germany", "Ireland", "Nordics", "Singapore", "Remote (Europe)", "France"
+    "Netherlands", "Switzerland", "United Kingdom", "Canada",  "Singapore",
+    "Hong Kong", "Taiwan", "Germany", "Ireland", "Nordics", "Remote (Europe)", "France"
 }
 
 # --- Sources de découverte des entreprises ----------------------------------
