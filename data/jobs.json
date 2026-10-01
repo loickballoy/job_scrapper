@@ -804,7 +804,7 @@
   },
   "ashby:ema:85fe8e2a-c480-4a3b-8f31-ef231ad21f8c": {
    "ats": "ashby",
-   "closed_on": null,
+   "closed_on": "2026-10-01",
    "company": "Ema",
    "employment_type": "FullTime",
    "first_seen": "2026-09-29",
@@ -822,7 +822,7 @@
    "posted": "2026-09-22",
    "region": "Canada",
    "slug": "ema",
-   "status": "open",
+   "status": "closed",
    "title": "Software Engineer, Machine Learning",
    "updated": "2026-09-22T18:55:11.079+00:00",
    "url": "https://jobs.ashbyhq.com/ema/85fe8e2a-c480-4a3b-8f31-ef231ad21f8c"
@@ -1988,7 +1988,7 @@
   },
   "ashby:manex:297cf573-77f7-4833-85b2-35470fec6f4e": {
    "ats": "ashby",
-   "closed_on": null,
+   "closed_on": "2026-10-01",
    "company": "Manex",
    "employment_type": "FullTime",
    "first_seen": "2026-09-29",
@@ -2007,7 +2007,7 @@
    "posted": "2026-07-20",
    "region": "Germany",
    "slug": "manex",
-   "status": "open",
+   "status": "closed",
    "title": "Software Engineer (f/m/d)",
    "updated": "2026-07-20T10:10:06.985+00:00",
    "url": "https://jobs.ashbyhq.com/manex/297cf573-77f7-4833-85b2-35470fec6f4e"
@@ -4292,7 +4292,7 @@
    "slug": "axon",
    "status": "open",
    "title": "Graduate Site Reliability Engineer (Australia)",
-   "updated": "2026-09-30T10:53:43-04:00",
+   "updated": "2026-10-01T10:37:24-04:00",
    "url": "https://job-boards.greenhouse.io/axon/jobs/8001665003"
   },
   "greenhouse:babelstreet:8120325": {
@@ -4653,7 +4653,7 @@
   },
   "greenhouse:chime:8606649002": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-01",
    "company": "Chime Financial, Inc",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -4670,7 +4670,7 @@
    "posted": "2026-07-30",
    "region": "France",
    "slug": "chime",
-   "status": "open",
+   "status": "closed",
    "title": "Full-Stack Engineer, Human Agent Tooling",
    "updated": "2026-09-09T17:08:40-04:00",
    "url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002"
@@ -4725,7 +4725,7 @@
   },
   "greenhouse:chime:8782503002": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-01",
    "company": "Chime Financial, Inc",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -4742,7 +4742,7 @@
    "posted": "2026-09-03",
    "region": "France",
    "slug": "chime",
-   "status": "open",
+   "status": "closed",
    "title": "Software Engineer, Growth",
    "updated": "2026-09-09T21:25:36-04:00",
    "url": "https://boards.greenhouse.io/chime/jobs/8782503002?gh_jid=8782503002"
@@ -7183,7 +7183,7 @@
    "slug": "roku",
    "status": "open",
    "title": "Software Engineer, Agentic AI",
-   "updated": "2026-10-01T00:06:09-04:00",
+   "updated": "2026-10-01T04:07:28-04:00",
    "url": "https://www.weareroku.com/jobs/8096018?gh_jid=8096018"
   },
   "greenhouse:saltxc:5219899007": {
@@ -7232,6 +7232,28 @@
    "updated": "2026-09-14T09:11:20-04:00",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005"
   },
+  "greenhouse:shifttechnology:8010298003": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Shift Technology",
+   "employment_type": "",
+   "first_seen": "2026-10-01",
+   "flags": [],
+   "key": "greenhouse:shifttechnology:8010298003",
+   "last_seen": "2026-10-01",
+   "level_via": "title",
+   "locations": [
+    "France - Paris"
+   ],
+   "min_years": null,
+   "posted": "2026-10-01",
+   "region": "France",
+   "slug": "shifttechnology",
+   "status": "open",
+   "title": "Junior Backend Developer, C# .Net - Paris",
+   "updated": "2026-10-01T06:20:36-04:00",
+   "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/8010298003"
+  },
   "greenhouse:simplifynext:5236654007": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -7242,7 +7264,7 @@
     "🔎"
    ],
    "key": "greenhouse:simplifynext:5236654007",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "description",
    "locations": [
     "Singapore"
@@ -7253,7 +7275,7 @@
    "slug": "simplifynext",
    "status": "open",
    "title": "Full Stack Developer",
-   "updated": "2026-09-23T03:33:54-04:00",
+   "updated": "2026-09-30T21:57:19-04:00",
    "url": "https://job-boards.greenhouse.io/simplifynext/jobs/5236654007"
   },
   "greenhouse:smartlyio:6192724004": {
@@ -7266,7 +7288,7 @@
     "🔎"
    ],
    "key": "greenhouse:smartlyio:6192724004",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "description",
    "locations": [
     "Helsinki, Uusimaa, Finland"
@@ -7290,7 +7312,7 @@
     "🔎"
    ],
    "key": "greenhouse:solarisbank:8596685002",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "description",
    "locations": [
     "Berlin"
@@ -7301,7 +7323,7 @@
    "slug": "solarisbank",
    "status": "open",
    "title": "Cyber Security Engineer (Vulnerability Management & SecOperations)",
-   "updated": "2026-09-15T06:13:24-04:00",
+   "updated": "2026-10-01T03:01:04-04:00",
    "url": "https://job-boards.greenhouse.io/solarisbank/jobs/8596685002"
   },
   "greenhouse:squarepointcapital:6380892": {
@@ -7312,7 +7334,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:squarepointcapital:6380892",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "title",
    "locations": [
     "New York, London, Singapore"
@@ -7326,6 +7348,30 @@
    "updated": "2026-08-06T07:00:40-04:00",
    "url": "https://www.squarepoint-capital.com/open-opportunities?id=6380892&gh_jid=6380892"
   },
+  "greenhouse:stepstone:8059417": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "StepStone Group",
+   "employment_type": "",
+   "first_seen": "2026-10-01",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:stepstone:8059417",
+   "last_seen": "2026-10-01",
+   "level_via": "description",
+   "locations": [
+    "London"
+   ],
+   "min_years": 2,
+   "posted": "2026-10-01",
+   "region": "United Kingdom",
+   "slug": "stepstone",
+   "status": "open",
+   "title": "Analyst, Infrastructure Private Equity Investments",
+   "updated": "2026-10-01T06:21:22-04:00",
+   "url": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=8059417"
+  },
   "greenhouse:stripe:8040825": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -7336,7 +7382,7 @@
     "🔎"
    ],
    "key": "greenhouse:stripe:8040825",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "description",
    "locations": [
     "Taipei City"
@@ -7360,7 +7406,7 @@
     "🔎"
    ],
    "key": "greenhouse:stripe:8076626",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "description",
    "locations": [
     "Dublin, Ireland"
@@ -7382,7 +7428,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:stripe:8130881",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "title",
    "locations": [
     "Dublin"
@@ -7404,7 +7450,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:stripe:8130930",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "title",
    "locations": [
     "London"
@@ -7426,7 +7472,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:stripe:8157838",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "title",
    "locations": [
     "Toronto"
@@ -7448,7 +7494,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:stripe:8160776",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "title",
    "locations": [
     "Singapore"
@@ -7470,7 +7516,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:stripe:8212517",
-   "last_seen": "2026-09-30",
+   "last_seen": "2026-10-01",
    "level_via": "title",
    "locations": [
     "Toronto"
