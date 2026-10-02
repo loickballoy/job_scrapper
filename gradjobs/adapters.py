@@ -6,12 +6,15 @@ Formats vérifiés dans la documentation :
                Le champ "content" est du HTML échappé (&lt;p&gt;) -> filters.clean_text() le décode.
   Lever      : GET api.lever.co/v0/postings/{slug}?mode=json                 (liste + descriptions)
   Ashby      : GET api.ashbyhq.com/posting-api/job-board/{slug}              ({"jobs": [...]} + descriptions)
+  Workday    : GET {slug}.wd{X}.myworkdaysite.com/wday/cxs/custombasepath/xmldata/config/lookup?lookupName=Job_OpeningsByLocation
+               ou via talent.workday.com proxy (propriétaire, non public)
 """
 from __future__ import annotations
 
 from dataclasses import dataclass, field
 from datetime import date, datetime, timezone
 from typing import Any, List, Optional
+import re
 
 
 @dataclass
@@ -197,5 +200,123 @@ class Ashby:
         return BoardResult("ok", jobs)
 
 
+# --------------------------------------------------------------------------- Workday
+
+class Workday:
+    name = "workday"
+    needs_detail = False
+
+    def __init__(self, http):
+        self.http = http
+
+    def fetch(self, slug: str) -> BoardResult:
+        """
+        Fetch jobs from a Workday talent board via the public API.
+        Workday URLs are typically: https://{company}.wd{N}.myworkdaysite.com
+        The slug should be the company name (e.g., "acme" for acme.wd1.myworkdaysite.com).
+        
+        We try a few variants since Workday hosting is inconsistent.
+        """
+        # Try different domain variants (wd1, wd2, wd3, wd5, wd6 are common)
+        base_urls = [
+            f"https://{slug}.wd1.myworkdaysite.com",
+            f"https://{slug}.wd2.myworkdaysite.com",
+            f"https://{slug}.wd5.myworkdaysite.com",
+            f"https://{slug}.wd6.myworkdaysite.com",
+            f"https://{slug}.wd3.myworkdaysite.com",
+        ]
+        
+        data = None
+        not_found_count = 0
+        
+        for base_url in base_urls:
+            # Workday public API endpoints (undocumented but reverse-engineered)
+            api_url = f"{base_url}/wday/cxs/custombasepath/xmldata/config/lookup?lookupName=Job_OpeningsByLocation"
+            
+            status, payload = self.http.get_json(api_url)
+            
+            if status == 200 and isinstance(payload, dict):
+                data = payload
+                break
+            elif status == 404:
+                not_found_count += 1
+            else:
+                # Assume error, try next variant
+                continue
+        
+        # If all variants returned 404, it's genuinely not found
+        if data is None and not_found_count == len(base_urls):
+            return BoardResult("not_found")
+        
+        # If we didn't find data, it's an error
+        if data is None:
+            return BoardResult("error")
+
+        jobs = []
+        
+        # Workday returns data in various formats; try common structures
+        items = data.get("items") or data.get("results") or data.get("data") or []
+        if isinstance(items, dict):
+            # Sometimes it's {jobId: {...}, ...}
+            items = items.values()
+        
+        for j in items:
+            if not isinstance(j, dict):
+                continue
+            
+            job_id = j.get("id") or j.get("jobId") or j.get("externalJobId")
+            if not job_id:
+                continue
+            
+            title = j.get("title") or j.get("jobTitle") or ""
+            if not title:
+                continue
+            
+            # Extract locations (Workday stores these in various ways)
+            locs = []
+            if j.get("location"):
+                locs.append(j["location"])
+            for loc in (j.get("locations") or []):
+                if isinstance(loc, dict):
+                    locs.append(loc.get("name") or loc.get("location") or "")
+                else:
+                    locs.append(str(loc))
+            
+            # Build job URL (standard Workday pattern)
+            job_url = f"{base_urls[0]}/jobs/job/{job_id}"
+            if j.get("externalPath"):
+                job_url = j["externalPath"]
+            elif j.get("url"):
+                job_url = j["url"]
+            
+            # Get description and department
+            description = j.get("description") or j.get("jobDescription") or ""
+            department = j.get("department") or j.get("team") or ""
+            employment_type = j.get("employmentType") or j.get("employmentStatus") or ""
+            
+            # Parse posted date (Workday uses various timestamp formats)
+            posted = parse_date(j.get("postedOn") or j.get("createdDate") or j.get("publishedDate"))
+            
+            # Use posted date or modified date as the "updated" marker for caching
+            updated = str(j.get("modifiedDate") or j.get("postedOn") or j.get("publishedDate") or "")
+            
+            jobs.append(RawJob(
+                ats=self.name,
+                slug=slug,
+                job_id=str(job_id),
+                title=title,
+                locations=_dedupe(locs),
+                url=job_url,
+                department=department,
+                description=description,
+                posted=posted,
+                updated=updated,
+                company="",  # Workday doesn't typically include company name (it's in the slug)
+                employment_type=employment_type,
+            ))
+        
+        return BoardResult("ok", jobs)
+
+
 def build_fetchers(http) -> dict:
-    return {a.name: a for a in (Greenhouse(http), Lever(http), Ashby(http))}
+    return {a.name: a for a in (Greenhouse(http), Lever(http), Ashby(http), Workday(http))}
