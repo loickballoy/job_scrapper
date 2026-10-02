@@ -80,6 +80,7 @@ SLUG_LIST_URLS = {
     "greenhouse": "https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/greenhouse_companies.json",
     "lever":      "https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/lever_companies.json",
     "ashby":      "https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/ashby_companies.json",
+    "workday":    "https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/worday_companies.json",
 }
 SLUG_LIST_MAX_AGE_DAYS = 7
 
@@ -89,4 +90,4 @@ MAX_ERROR_RATE = 0.5
 
 # --- Politesse réseau --------------------------------------------------------
 # Threads par ATS (Ashby est le plus restrictif).
-WORKERS = {"greenhouse": 20, "lever": 20, "ashby": 5}
+WORKERS = {"greenhouse": 20, "lever": 20, "worday": 13, "ashby": 5}
