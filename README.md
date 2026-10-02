@@ -17,7 +17,7 @@ Graduate, junior and entry-level software / embedded / systems roles in **Switze
 
 Flags are keyword heuristics computed from the posting text: always read the original posting.
 
-[🇨🇭 Switzerland (4)](#switzerland) · [🇳🇱 Netherlands (16)](#netherlands) · [🇨🇦 Canada (74)](#canada) · [🇬🇧 United Kingdom (60)](#united-kingdom) · [🇸🇬 Singapore (24)](#singapore) · [🇭🇰 Hong Kong (28)](#hong-kong) · [🇹🇼 Taiwan (7)](#taiwan) · [🇩🇪 Germany (16)](#germany) · [🇮🇪 Ireland (9)](#ireland) · [🇸🇪 Nordics (10)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (161)](#france)
+[🇨🇭 Switzerland (4)](#switzerland) · [🇳🇱 Netherlands (16)](#netherlands) · [🇨🇦 Canada (75)](#canada) · [🇬🇧 United Kingdom (60)](#united-kingdom) · [🇸🇬 Singapore (24)](#singapore) · [🇭🇰 Hong Kong (28)](#hong-kong) · [🇹🇼 Taiwan (7)](#taiwan) · [🇩🇪 Germany (16)](#germany) · [🇮🇪 Ireland (10)](#ireland) · [🇸🇪 Nordics (10)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (161)](#france)
 
 ## 🇨🇭 Switzerland
 
@@ -110,6 +110,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Connor, Clark &amp; Lunn Investment Management | Investment Systems Developer, Fundamental Equity | Vancouver, British Columbia, Canada | 🛂 🔎 | [Apply](https://job-boards.greenhouse.io/cclim/jobs/4336129009) | 2mo |
 | Faire | Product Engineer - Brand - Fullstack, Backend or Frontend | Kitchener-Waterloo, ON; Toronto, ON | 🔎 | [Apply](https://boards.greenhouse.io/faire/jobs/8654106002?gh_jid=8654106002) | 2mo |
 | Promiserobotics | Robotics Software Developer | Calgary, AB<br>Remote, Canada | ✈️ 🔎 | [Apply](https://jobs.lever.co/promiserobotics/120b526a-2491-4df5-a77a-6ca0ccb7e35a) | 2mo |
+| Magnetforensics | Software Development Engineer in Test | Waterloo, Ontario<br>Ottawa, Ontario<br>Toronto, Ontario<br>+1 more | 🔎 | [Apply](https://jobs.lever.co/magnetforensics/7cfeada6-21d6-44e6-be7d-81afbee2b502) | 2mo |
 | AppDirect | Database Platform Engineer | Montreal, Canada | 🔎 | [Apply](https://job-boards.greenhouse.io/appdirect/jobs/8635759002) | 2mo |
 | Premiertruck | Parts Delivery Driver | Winnipeg, MB | 🔎 | [Apply](https://jobs.lever.co/premiertruck/7883b80b-8a59-479f-a738-7e60c078513a) | 2mo |
 | Jane | Enterprise Security Engineer | Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/jane/b55d8462-d708-4487-bd1c-33f8e3b0ff10) | 2mo |
@@ -298,6 +299,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Stripe | Software Engineer, Security Business Enablement | Dublin | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8175656) | 2d |
 | Toast | Android Software Engineer | Dublin, Ireland | 🔎 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8242560) | 2d |
 | Dotmatics | Software Development Engineer in Test \| Luma | Remote - Ireland | 🔎 | [Apply](https://www.dotmatics.com/jobs/apply?gh_jid=4737964005) | 7d |
+| Toast | Software Engineer I, IQ Grow | Dublin, Ireland |  | [Apply](https://careers.toasttab.com/jobs?gh_jid=8185438) | 24d |
 | Stripe | Software Engineer, New Grad | Dublin |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130881) | 1mo |
 | Stripe | Software Engineer, Stripe Tax | Dublin, Ireland | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8076626) | 2mo |
 | Toast | Android Software Engineer | Dublin, Ireland | 🔎 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8038744) | 2mo |
@@ -378,7 +380,6 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Decagon | Research Engineer, Audio and Speech | San Francisco<br>New York City<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/decagon/69fd28a8-0de2-45a5-9b98-33725515add4) | 28d |
 | Decagon | Research Engineer, Safety | San Francisco<br>New York City<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/decagon/f84db19b-8de3-49d6-a954-c9ee2e365956) | 28d |
 | Gridware | Research Engineer, Electrical Sensing | San Francisco, CA | 🔎 | [Apply](https://jobs.lever.co/gridware/8ab11519-d906-4917-99fd-5d7210f1593a) | 28d |
-| Baselayer | Data Engineer | San Francisco, California | 🔎 | [Apply](https://job-boards.greenhouse.io/baselayer/jobs/5415971008) | 29d |
 | Penumbrainc | Manufacturing Engineer I | Roseville, CA |  | [Apply](https://jobs.lever.co/penumbrainc/850a8b56-f1f1-409e-a735-ac41aeec8501) | 29d |
 | Serval | Automation Engineer | San Francisco<br>New York<br>Austin<br>+2 more | 🔎 | [Apply](https://jobs.ashbyhq.com/serval/9e19f3dd-d287-4e42-a471-fce44550f87d) | 29d |
 | Valinor | Full-Stack Software Engineer, C2 &amp; Tactical Integration | Cookeville, TN<br>Nashville, United States | 🇺🇸 🔎 | [Apply](https://jobs.ashbyhq.com/valinor/c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e) | 29d |
@@ -443,7 +444,6 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Siftstack | Application Software Engineer | San Francisco, CA<br>San Francisco, United States | 🇺🇸 🔎 | [Apply](https://jobs.ashbyhq.com/siftstack/be082df3-225c-4269-a159-bdb362b21c8e) | 2mo |
 | Re:Build Manufacturing | Software Engineer | Framingham, MA | 🔎 | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4719210005) | 2mo |
 | Medraai | Systems Test Engineer - Contract | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/medraai/cfaca7f4-d35b-4b5e-a5f4-5dd08abc8b5d) | 2mo |
-| Nimble Robotics | HIL Test / Automation Engineer | San Francisco, CA | 🔎 | [Apply](https://job-boards.greenhouse.io/nimblerobotics/jobs/4332168009) | 2mo |
 | Gauntlet | Quant Developer | New York City / San Francisco / Los Angeles / Remote | 🔎 | [Apply](https://jobs.lever.co/gauntlet/4fa821d9-324f-465e-bf6a-b6f5eb9fa1f3) | 2mo |
 | Decagon | Research Engineer | San Francisco<br>New York City<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/decagon/9231a1ba-d9f5-4ddd-b398-158297ea7db9) | 2mo |
 | Lavendo | QA Tester, Data Privacy Platform (DC) | Tysons<br>Greenville<br>Tysons, United States | ✈️ 🔎 | [Apply](https://jobs.ashbyhq.com/lavendo/c3c0ea80-8234-41a6-9e32-0e69ccacb281) | 2mo |
@@ -474,12 +474,14 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Ditto | Software Engineer, Android | Remote (Atlanta, Washington DC, San Francisco, | 🇺🇸 🔎 | 🔒 | 17d |
 | Aechelon Technology | Associate Platform Engineer | South San Francisco, California | 🔎 | 🔒 | 28d |
 | DoorDash USA | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA |  | 🔒 | 28d |
+| Baselayer | Data Engineer | San Francisco, California | 🔎 | 🔒 | 29d |
 | Chime Financial, Inc | Software Engineer, Growth | San Francisco, CA, USA | 🔎 | 🔒 | 29d |
 | Zip | Software Engineer, New Grad (2027 Start) | San Francisco<br>San Francisco, United States | ✈️ | 🔒 | 1mo |
 | Harmattan Ai | RF Electronics Engineer (Radar) | Paris<br>Paris, France | 🔎 | 🔒 | 1mo |
 | Arbitalhealth | QA Automation Engineer | San Francisco, California | 🛂 🔎 | 🔒 | 1mo |
 | Redwood Materials | Software Validation Engineer, Energy Storage | San Francisco, California, United States | 🔎 | 🔒 | 1mo |
 | Chime Financial, Inc | Full-Stack Engineer, Human Agent Tooling | San Francisco, CA, USA | 🔎 | 🔒 | 2mo |
+| Nimble Robotics | HIL Test / Automation Engineer | San Francisco, CA | 🔎 | 🔒 | 2mo |
 | Carvana | Customer Delivery Driver | Louisville, KY | 🔎 | 🔒 | 2mo |
 | Carvana | Customer Service Delivery Driver | Louisville, KY | 🔎 | 🔒 | 2mo |
 | Carvana | Customer Service Vehicle Delivery Driver | Louisville, KY | 🔎 | 🔒 | 2mo |

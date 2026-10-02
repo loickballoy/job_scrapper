@@ -4346,7 +4346,7 @@
   },
   "greenhouse:baselayer:5415971008": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-02",
    "company": "Baselayer",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -4363,7 +4363,7 @@
    "posted": "2026-09-03",
    "region": "France",
    "slug": "baselayer",
-   "status": "open",
+   "status": "closed",
    "title": "Data Engineer",
    "updated": "2026-09-04T14:13:46-04:00",
    "url": "https://job-boards.greenhouse.io/baselayer/jobs/5415971008"
@@ -6780,7 +6780,7 @@
   },
   "greenhouse:nimblerobotics:4332168009": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-02",
    "company": "Nimble Robotics",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -6797,7 +6797,7 @@
    "posted": "2026-07-27",
    "region": "France",
    "slug": "nimblerobotics",
-   "status": "open",
+   "status": "closed",
    "title": "HIL Test / Automation Engineer",
    "updated": "2026-08-25T10:26:45-04:00",
    "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4332168009"
@@ -7372,7 +7372,7 @@
    "slug": "shifttechnology",
    "status": "open",
    "title": "Junior Backend Developer, C# .Net - Paris",
-   "updated": "2026-10-01T06:20:36-04:00",
+   "updated": "2026-10-02T09:14:27-04:00",
    "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/8010298003"
   },
   "greenhouse:simplifynext:5236654007": {
@@ -7797,6 +7797,28 @@
    "title": "Android Software Engineer",
    "updated": "2026-09-09T18:27:44-04:00",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8038744"
+  },
+  "greenhouse:toast:8185438": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Toast",
+   "employment_type": "",
+   "first_seen": "2026-10-02",
+   "flags": [],
+   "key": "greenhouse:toast:8185438",
+   "last_seen": "2026-10-02",
+   "level_via": "title",
+   "locations": [
+    "Dublin, Ireland"
+   ],
+   "min_years": null,
+   "posted": "2026-09-08",
+   "region": "Ireland",
+   "slug": "toast",
+   "status": "open",
+   "title": "Software Engineer I, IQ Grow",
+   "updated": "2026-10-02T09:12:34-04:00",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8185438"
   },
   "greenhouse:toast:8242560": {
    "ats": "greenhouse",
@@ -9491,6 +9513,33 @@
    "title": "Onboard Software Engineer - Core Services",
    "updated": "1790086626528",
    "url": "https://jobs.lever.co/loftorbital/fcc29575-a827-4cc2-b7d0-a81672ebebf4"
+  },
+  "lever:magnetforensics:7cfeada6-21d6-44e6-be7d-81afbee2b502": {
+   "ats": "lever",
+   "closed_on": null,
+   "company": "Magnetforensics",
+   "employment_type": "Full-Time",
+   "first_seen": "2026-10-02",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:magnetforensics:7cfeada6-21d6-44e6-be7d-81afbee2b502",
+   "last_seen": "2026-10-02",
+   "level_via": "description",
+   "locations": [
+    "Waterloo, Ontario",
+    "Ottawa, Ontario",
+    "Toronto, Ontario",
+    "Canada"
+   ],
+   "min_years": 2,
+   "posted": "2026-07-21",
+   "region": "Canada",
+   "slug": "magnetforensics",
+   "status": "open",
+   "title": "Software Development Engineer in Test",
+   "updated": "1784665548192",
+   "url": "https://jobs.lever.co/magnetforensics/7cfeada6-21d6-44e6-be7d-81afbee2b502"
   },
   "lever:mendix:f3e656f5-cb47-4c35-9e7a-00bce29c6a2d": {
    "ats": "lever",
