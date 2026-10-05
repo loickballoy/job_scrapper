@@ -829,7 +829,7 @@
   },
   "ashby:ema:b38c0fdf-26d6-4505-91d5-25da7962997b": {
    "ats": "ashby",
-   "closed_on": null,
+   "closed_on": "2026-10-05",
    "company": "Ema",
    "employment_type": "FullTime",
    "first_seen": "2026-09-29",
@@ -847,7 +847,7 @@
    "posted": "2026-09-29",
    "region": "France",
    "slug": "ema",
-   "status": "open",
+   "status": "closed",
    "title": "IT Engineer, US",
    "updated": "2026-09-29T04:16:55.771+00:00",
    "url": "https://jobs.ashbyhq.com/ema/b38c0fdf-26d6-4505-91d5-25da7962997b"
@@ -3482,7 +3482,7 @@
   },
   "ashby:trainline:ad9adf75-4f55-4304-a6db-f166721b87f4": {
    "ats": "ashby",
-   "closed_on": null,
+   "closed_on": "2026-10-05",
    "company": "Trainline",
    "employment_type": "FullTime",
    "first_seen": "2026-09-29",
@@ -3498,7 +3498,7 @@
    "posted": "2026-09-23",
    "region": "United Kingdom",
    "slug": "trainline",
-   "status": "open",
+   "status": "closed",
    "title": "Junior Machine Learning Engineer",
    "updated": "2026-09-23T16:13:35.117+00:00",
    "url": "https://jobs.ashbyhq.com/trainline/ad9adf75-4f55-4304-a6db-f166721b87f4"
@@ -4031,7 +4031,7 @@
   },
   "greenhouse:appdirect:8635759002": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-05",
    "company": "AppDirect",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -4048,7 +4048,7 @@
    "posted": "2026-07-20",
    "region": "Canada",
    "slug": "appdirect",
-   "status": "open",
+   "status": "closed",
    "title": "Database Platform Engineer",
    "updated": "2026-09-23T11:10:09-04:00",
    "url": "https://job-boards.greenhouse.io/appdirect/jobs/8635759002"
@@ -4394,7 +4394,7 @@
   },
   "greenhouse:beyondtrust:8185856": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-05",
    "company": "BeyondTrust",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -4411,7 +4411,7 @@
    "posted": "2026-09-08",
    "region": "Canada",
    "slug": "beyondtrust",
-   "status": "open",
+   "status": "closed",
    "title": "Cyber Defense Engineer",
    "updated": "2026-09-21T16:28:56-04:00",
    "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8185856"
@@ -4603,6 +4603,30 @@
    "title": "Customer Delivery Driver",
    "updated": "2026-09-24T17:58:00-04:00",
    "url": "https://www.carvana.com/careers/apply?gh_jid=8232129"
+  },
+  "greenhouse:catapultsports:8176941": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Catapult Sports",
+   "employment_type": "",
+   "first_seen": "2026-10-05",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:catapultsports:8176941",
+   "last_seen": "2026-10-05",
+   "level_via": "description",
+   "locations": [
+    "London, UK"
+   ],
+   "min_years": 2,
+   "posted": "2026-10-05",
+   "region": "United Kingdom",
+   "slug": "catapultsports",
+   "status": "open",
+   "title": "Software Engineer (Elite Motorsport)",
+   "updated": "2026-10-05T09:11:51-04:00",
+   "url": "https://job-boards.greenhouse.io/catapultsports/jobs/8176941"
   },
   "greenhouse:cclim:4336129009": {
    "ats": "greenhouse",
@@ -5363,7 +5387,7 @@
   },
   "greenhouse:flatironhealth:8238069": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-05",
    "company": "Flatiron Health",
    "employment_type": "",
    "first_seen": "2026-09-30",
@@ -5380,7 +5404,7 @@
    "posted": "2026-09-30",
    "region": "United Kingdom",
    "slug": "flatironhealth",
-   "status": "open",
+   "status": "closed",
    "title": "Software Engineer",
    "updated": "2026-10-02T13:07:14-04:00",
    "url": "https://flatiron.com/careers/open-positions/job?gh_jid=8238069"
@@ -5673,7 +5697,7 @@
   },
   "greenhouse:hellofresh:8146740": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-05",
    "company": "HelloFresh",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -5690,7 +5714,7 @@
    "posted": "2026-08-25",
    "region": "Germany",
    "slug": "hellofresh",
-   "status": "open",
+   "status": "closed",
    "title": "Security Engineer (SOC) (m,f,x)",
    "updated": "2026-10-02T10:59:25-04:00",
    "url": "https://careers.hellofresh.com/global/en/job/8146740?gh_jid=8146740"
@@ -6276,7 +6300,7 @@
    "slug": "lyft",
    "status": "open",
    "title": "Android Software Engineer, Lyft Urban Solutions",
-   "updated": "2026-09-04T14:04:34-04:00",
+   "updated": "2026-10-05T09:27:42-04:00",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002"
   },
   "greenhouse:lyft:8760350002": {
@@ -6301,7 +6325,7 @@
    "slug": "lyft",
    "status": "open",
    "title": "Software Engineer in Test, LUS",
-   "updated": "2026-09-16T17:43:30-04:00",
+   "updated": "2026-10-05T12:11:37-04:00",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002"
   },
   "greenhouse:lyft:8806570002": {
@@ -7353,7 +7377,7 @@
    "slug": "roku",
    "status": "open",
    "title": "Software Engineer, Agentic AI",
-   "updated": "2026-10-05T00:05:46-04:00",
+   "updated": "2026-10-05T12:09:26-04:00",
    "url": "https://www.weareroku.com/jobs/8096018?gh_jid=8096018"
   },
   "greenhouse:saltxc:5219899007": {
@@ -9920,7 +9944,7 @@
   },
   "lever:premiertruck:7883b80b-8a59-479f-a738-7e60c078513a": {
    "ats": "lever",
-   "closed_on": null,
+   "closed_on": "2026-10-05",
    "company": "Premiertruck",
    "employment_type": "Full Time",
    "first_seen": "2026-09-29",
@@ -9937,7 +9961,7 @@
    "posted": "2026-07-17",
    "region": "Canada",
    "slug": "premiertruck",
-   "status": "open",
+   "status": "closed",
    "title": "Parts Delivery Driver",
    "updated": "1784320404402",
    "url": "https://jobs.lever.co/premiertruck/7883b80b-8a59-479f-a738-7e60c078513a"
