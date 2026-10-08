@@ -2,7 +2,7 @@
 
 Graduate, junior and entry-level software / embedded / systems roles in **Switzerland, Netherlands, Canada, United Kingdom, Singapore, Hong Kong, Taiwan, Germany, Ireland, Nordics, Remote (Europe), France**, collected automatically from company job boards.
 
-**Last updated:** 2026-10-08 &nbsp;|&nbsp; **349** open roles at **241** companies &nbsp;|&nbsp; **35** added in the last 7 days
+**Last updated:** 2026-10-08 &nbsp;|&nbsp; **351** open roles at **242** companies &nbsp;|&nbsp; **38** added in the last 7 days
 
 ## Legend
 
@@ -17,7 +17,7 @@ Graduate, junior and entry-level software / embedded / systems roles in **Switze
 
 Flags are keyword heuristics computed from the posting text: always read the original posting.
 
-[🇨🇭 Switzerland (7)](#switzerland) · [🇳🇱 Netherlands (16)](#netherlands) · [🇨🇦 Canada (80)](#canada) · [🇬🇧 United Kingdom (65)](#united-kingdom) · [🇸🇬 Singapore (25)](#singapore) · [🇭🇰 Hong Kong (28)](#hong-kong) · [🇹🇼 Taiwan (7)](#taiwan) · [🇩🇪 Germany (19)](#germany) · [🇮🇪 Ireland (13)](#ireland) · [🇸🇪 Nordics (10)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (151)](#france)
+[🇨🇭 Switzerland (7)](#switzerland) · [🇳🇱 Netherlands (16)](#netherlands) · [🇨🇦 Canada (81)](#canada) · [🇬🇧 United Kingdom (66)](#united-kingdom) · [🇸🇬 Singapore (25)](#singapore) · [🇭🇰 Hong Kong (28)](#hong-kong) · [🇹🇼 Taiwan (7)](#taiwan) · [🇩🇪 Germany (19)](#germany) · [🇮🇪 Ireland (14)](#ireland) · [🇸🇪 Nordics (10)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (151)](#france)
 
 ## 🇨🇭 Switzerland
 
@@ -56,6 +56,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
+| mthree Recruiting Portal | Développeur(-euse) logiciel – Intégration / Backfill Integration Developer – Canada (Montreal) | Montréal, Quebec, Canada | 🗣️ French 🔎 | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4719959006) | 0d |
 | Aviyatech | Ingénieur(e) en vérification de logiciel QC/ Software Verification Engineer QC | Longueuil, Quebec | 🔎 | [Apply](https://jobs.lever.co/aviyatech/5cde8391-df30-42fe-8671-e1a1fdddb3a3) | 1d |
 | Aviyatech | Software Verification Engineer ON | Mississauga, Ontario | 🔎 | [Apply](https://jobs.lever.co/aviyatech/13d0fc94-b878-42ce-99e0-32063c3427e9) | 1d |
 | Remarcable Inc | Integration Engineer | Vancouver, BC<br>Vancouver, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/remarcable-inc/acdf01a7-f114-4c6f-8e1d-1e80b8fe599b) | 1d |
@@ -106,7 +107,6 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | SALT XC | Software Engineer | Toronto, Canada | 🔎 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5219899007) | 1mo |
 | Mercury | Software Engineer - Infrastructure | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 🔎 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6150432004) | 1mo |
 | Snowflake | Developer Advocate - AI &amp; Developer Experiences | US-CA-Menlo Park<br>US-WA-Bellevue<br>CA-Ontario-Toronto<br>+1 more | 🔎 | [Apply](https://jobs.ashbyhq.com/snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) | 1mo |
-| mthree Recruiting Portal | Ingénieure SRE / Site Reliability Engineer | Montréal, Quebec, Canada | 🔎 | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4706309006) | 1mo |
 | Cambio | Frontend Software Engineer | Waterloo- Kitchener Canada<br>San Francisco<br>New York City<br>+1 more | 🔎 | [Apply](https://jobs.ashbyhq.com/cambio/a4a06c3c-d78f-4ba5-8359-48fd3387f8a1) | 1mo |
 | Novisto | Platform Operations Specialist | Montreal | 🔎 | [Apply](https://novisto.com/company/careers/job-openings?gh_jid=4722441005) | 2mo |
 | mthree Recruiting Portal | Développeur Java / Java Developer | Montréal, Quebec, Canada | 🔎 | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4703132006) | 2mo |
@@ -132,6 +132,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | BeyondTrust | Cyber Defense Engineer | Remote Canada \| Remote United States | 🔎 | 🔒 | 1mo |
 | IXL Learning | Software Developer, New Grad | Toronto, ON, Canada |  | 🔒 | 1mo |
 | Geotab | Software Developer | Oakville, Ontario - Canada | 🔎 | 🔒 | 1mo |
+| mthree Recruiting Portal | Ingénieure SRE / Site Reliability Engineer | Montréal, Quebec, Canada | 🔎 | 🔒 | 1mo |
 | mthree Recruiting Portal | Développeur Java / Java Developer | Montréal, Quebec, Canada | 🔎 | 🔒 | 1mo |
 | AppDirect | Data Engineer | Montreal, Canada | 🔎 | 🔒 | 2mo |
 | Premiertruck | Parts Delivery Driver | Winnipeg, MB | 🔎 | 🔒 | 2mo |
@@ -141,6 +142,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
+| Engineers Gate | Data Engineer | London | 🔎 | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8259284) | 0d |
 | Jobgether | Product Engineer | UK | 🔎 | [Apply](https://jobs.lever.co/jobgether/6e50c2fa-4d28-422a-8d31-2db73f98b3e8) | 0d |
 | Quantum | Graduate Data Engineer | London<br>London, United Kingdom |  | [Apply](https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6) | 1d |
 | Mark43 | SQL Developer | United Kingdom | 🛂 🔎 | [Apply](https://mark43.com/list-job/8259202?gh_jid=8259202) | 2d |
@@ -311,6 +313,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
 | Jobgether | Product Engineer | Ireland | 🔎 | [Apply](https://jobs.lever.co/jobgether/3791d43d-a25e-4da5-8734-8aa22c377fb2) | 0d |
+| Stripe | Software Engineer, Payments and Risk | Dublin | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8261012) | 0d |
 | Stripe | Security Engineer, New Grad | Dublin |  | [Apply](https://stripe.com/jobs/search?gh_jid=8257892) | 1d |
 | Wayflyer | Graduate Software Engineer | Dublin<br>Dublin, Ireland |  | [Apply](https://jobs.ashbyhq.com/wayflyer/60b6dc63-bce1-407f-a5a7-023fde0d58e8) | 1d |
 | Vectra | DevOps Engineer | Dublin ,Ireland | 🔎 | [Apply](https://www.vectra.ai/about/jobs?gh_jid=8226353) | 7d |

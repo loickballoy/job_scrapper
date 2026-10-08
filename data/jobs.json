@@ -5074,6 +5074,30 @@
    "updated": "2026-09-18T14:12:51-04:00",
    "url": "https://job-boards.greenhouse.io/energyhub/jobs/8652307002"
   },
+  "greenhouse:engineersgate:8259284": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Engineers Gate",
+   "employment_type": "",
+   "first_seen": "2026-10-08",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:engineersgate:8259284",
+   "last_seen": "2026-10-08",
+   "level_via": "description",
+   "locations": [
+    "London"
+   ],
+   "min_years": 1,
+   "posted": "2026-10-08",
+   "region": "United Kingdom",
+   "slug": "engineersgate",
+   "status": "open",
+   "title": "Data Engineer",
+   "updated": "2026-10-08T10:48:08-04:00",
+   "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8259284"
+  },
   "greenhouse:esri:5197137007": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -6403,7 +6427,7 @@
   },
   "greenhouse:mthreerecruitingportal:4706309006": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-08",
    "company": "mthree Recruiting Portal",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -6420,7 +6444,7 @@
    "posted": "2026-08-18",
    "region": "Canada",
    "slug": "mthreerecruitingportal",
-   "status": "open",
+   "status": "closed",
    "title": "Ingénieure SRE / Site Reliability Engineer",
    "updated": "2026-09-24T12:10:09-04:00",
    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4706309006"
@@ -6470,6 +6494,31 @@
    "title": "Développeur génie logiciel / Junior Software Developer – Canada (Montreal)",
    "updated": "2026-09-24T12:10:09-04:00",
    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713052006"
+  },
+  "greenhouse:mthreerecruitingportal:4719959006": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "mthree Recruiting Portal",
+   "employment_type": "",
+   "first_seen": "2026-10-08",
+   "flags": [
+    "🗣️ French",
+    "🔎"
+   ],
+   "key": "greenhouse:mthreerecruitingportal:4719959006",
+   "last_seen": "2026-10-08",
+   "level_via": "description",
+   "locations": [
+    "Montréal, Quebec, Canada"
+   ],
+   "min_years": null,
+   "posted": "2026-10-08",
+   "region": "Canada",
+   "slug": "mthreerecruitingportal",
+   "status": "open",
+   "title": "Développeur(-euse) logiciel – Intégration / Backfill Integration Developer – Canada (Montreal)",
+   "updated": "2026-10-08T10:47:00-04:00",
+   "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4719959006"
   },
   "greenhouse:mw-tech-grad:8645263002": {
    "ats": "greenhouse",
@@ -7674,6 +7723,30 @@
    "title": "Backend Engineer, Payments & Risk",
    "updated": "2026-10-07T19:02:27-04:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8260985"
+  },
+  "greenhouse:stripe:8261012": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Stripe",
+   "employment_type": "",
+   "first_seen": "2026-10-08",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:stripe:8261012",
+   "last_seen": "2026-10-08",
+   "level_via": "description",
+   "locations": [
+    "Dublin"
+   ],
+   "min_years": 2,
+   "posted": "2026-10-08",
+   "region": "Ireland",
+   "slug": "stripe",
+   "status": "open",
+   "title": "Software Engineer, Payments and Risk",
+   "updated": "2026-10-08T10:04:57-04:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8261012"
   },
   "greenhouse:teampicnic:8185415": {
    "ats": "greenhouse",
