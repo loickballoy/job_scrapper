@@ -2,7 +2,7 @@
 
 Graduate, junior and entry-level software / embedded / systems roles in **Switzerland, Netherlands, Canada, United Kingdom, Singapore, Hong Kong, Taiwan, Germany, Ireland, Nordics, Remote (Europe), France**, collected automatically from company job boards.
 
-**Last updated:** 2026-10-08 &nbsp;|&nbsp; **351** open roles at **242** companies &nbsp;|&nbsp; **38** added in the last 7 days
+**Last updated:** 2026-10-09 &nbsp;|&nbsp; **353** open roles at **244** companies &nbsp;|&nbsp; **41** added in the last 7 days
 
 ## Legend
 
@@ -17,27 +17,27 @@ Graduate, junior and entry-level software / embedded / systems roles in **Switze
 
 Flags are keyword heuristics computed from the posting text: always read the original posting.
 
-[🇨🇭 Switzerland (7)](#switzerland) · [🇳🇱 Netherlands (16)](#netherlands) · [🇨🇦 Canada (81)](#canada) · [🇬🇧 United Kingdom (66)](#united-kingdom) · [🇸🇬 Singapore (25)](#singapore) · [🇭🇰 Hong Kong (28)](#hong-kong) · [🇹🇼 Taiwan (7)](#taiwan) · [🇩🇪 Germany (19)](#germany) · [🇮🇪 Ireland (14)](#ireland) · [🇸🇪 Nordics (10)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (151)](#france)
+[🇨🇭 Switzerland (7)](#switzerland) · [🇳🇱 Netherlands (16)](#netherlands) · [🇨🇦 Canada (82)](#canada) · [🇬🇧 United Kingdom (68)](#united-kingdom) · [🇸🇬 Singapore (26)](#singapore) · [🇭🇰 Hong Kong (28)](#hong-kong) · [🇹🇼 Taiwan (7)](#taiwan) · [🇩🇪 Germany (19)](#germany) · [🇮🇪 Ireland (14)](#ireland) · [🇸🇪 Nordics (10)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (140)](#france)
 
 ## 🇨🇭 Switzerland
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| Jobgether | Product Engineer | Switzerland | 🔎 | [Apply](https://jobs.lever.co/jobgether/fc6de8c7-1a77-45ce-be44-88b3eeacce63) | 0d |
-| Esri | Software Engineer I - 3D Graphics in Maps SDK for JavaScript (m/f/d) | Zurich, CH |  | [Apply](https://www.esri.com/careers/5254553007?gh_jid=5254553007) | 1d |
-| Sonarsource | Cloud Platform Engineer | Geneva | 🔎 | [Apply](https://jobs.lever.co/sonarsource/cea00267-a79c-486b-8e6d-e67b89917101) | 1d |
-| Intrinsic | Robotics Software Engineer - Grasping | Zurich, Switzerland | 🔎 | [Apply](https://boards.greenhouse.io/intrinsicrobotics/jobs/6186649004?gh_jid=6186649004) | 29d |
+| Jobgether | Product Engineer | Switzerland | 🔎 | [Apply](https://jobs.lever.co/jobgether/fc6de8c7-1a77-45ce-be44-88b3eeacce63) | 1d |
+| Sonarsource | Cloud Platform Engineer | Geneva | 🔎 | [Apply](https://jobs.lever.co/sonarsource/cea00267-a79c-486b-8e6d-e67b89917101) | 2d |
+| Intrinsic | Robotics Software Engineer - Grasping | Zurich, Switzerland | 🔎 | [Apply](https://boards.greenhouse.io/intrinsicrobotics/jobs/6186649004?gh_jid=6186649004) | 1mo |
 | Odysseyml | Member of Technical Staff, Data Engineering | Palo Alto<br>Zurich<br>London<br>+1 more | 🔎 | [Apply](https://jobs.ashbyhq.com/odysseyml/7d8ba104-9c38-4d0f-9a63-fab022ae5f13) | 1mo |
 | Sonarsource | Software Engineer - Agentic Code Review (Gitar) | San Mateo, CA<br>Geneva | 🔎 | [Apply](https://jobs.lever.co/sonarsource/e503ad3d-13bc-4e9c-a141-228df320e010) | 2mo |
-| Jobgether | Python Automation Test Engineer | Switzerland | 🔎 | 🔒 | 8d |
+| Esri | Software Engineer I - 3D Graphics in Maps SDK for JavaScript (m/f/d) | Zurich, CH |  | 🔒 | 2d |
+| Jobgether | Python Automation Test Engineer | Switzerland | 🔎 | 🔒 | 9d |
 
 ## 🇳🇱 Netherlands
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| Jobgether | Product Engineer | Netherlands | 🔎 | [Apply](https://jobs.lever.co/jobgether/79fca57d-e5bb-4bf8-a9a3-8561835529d0) | 0d |
-| Quantware | Quantum Design Engineer | Delft<br>Delft , Netherlands | 🔎 | [Apply](https://jobs.ashbyhq.com/quantware/dd6f7584-20d8-4e3a-8359-e07950673d74) | 13d |
-| Picnic | Software Engineer - Master Data Platform (Salesforce) | Amsterdam, North Holland, Netherlands | 🗣️ Dutch ✈️ 🔎 | [Apply](https://jobs.picnic.app/nl/vacancies?gh_jid=8195273) | 27d |
+| Jobgether | Product Engineer | Netherlands | 🔎 | [Apply](https://jobs.lever.co/jobgether/79fca57d-e5bb-4bf8-a9a3-8561835529d0) | 1d |
+| Quantware | Quantum Design Engineer | Delft<br>Delft , Netherlands | 🔎 | [Apply](https://jobs.ashbyhq.com/quantware/dd6f7584-20d8-4e3a-8359-e07950673d74) | 14d |
+| Picnic | Software Engineer - Master Data Platform (Salesforce) | Amsterdam, North Holland, Netherlands | 🗣️ Dutch ✈️ 🔎 | [Apply](https://jobs.picnic.app/nl/vacancies?gh_jid=8195273) | 28d |
 | Picnic | Software Engineer (Java) - Warehouse Automation | Amsterdam, North Holland, Netherlands | 🗣️ Dutch 🔎 | [Apply](https://jobs.picnic.app/nl/vacancies?gh_jid=8185415) | 1mo |
 | Nebius | Site Reliability Engineer (SRE) - Early Talent | Amsterdam, Netherlands | 🛂 🔎 | [Apply](https://careers.nebius.com/?gh_jid=4967085101) | 1mo |
 | Nebius | Frontend Engineer - UI Infrastructure and Developer Tools (Early Talent) | Amsterdam, Netherlands | 🛂 🔎 | [Apply](https://careers.nebius.com/?gh_jid=4965819101) | 1mo |
@@ -50,47 +50,48 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Monumental | Forward Deployed Robotics Engineer | Amsterdam<br>Amsterdam, Netherlands | 🔎 | [Apply](https://jobs.ashbyhq.com/monumental/8c6037b8-30aa-4c1b-a155-b0fd18a32ee7) | 2mo |
 | Fiducial | Flight Operations Engineer/UAV Pilot (UAV Robotics/Mechatronics) | Delft<br>Delft, Netherlands | 🛂 🔎 | [Apply](https://jobs.ashbyhq.com/fiducial/b0de94f7-373b-40ad-a969-e9e1ead2e8e5) | 2mo |
 | Jump Trading | Campus Systems Engineer (Full-Time) | Amsterdam |  | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8008306) | 2mo |
-| Jobgether | Python Automation Test Engineer | Netherlands | 🔎 | 🔒 | 8d |
+| Jobgether | Python Automation Test Engineer | Netherlands | 🔎 | 🔒 | 9d |
 
 ## 🇨🇦 Canada
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| mthree Recruiting Portal | Développeur(-euse) logiciel – Intégration / Backfill Integration Developer – Canada (Montreal) | Montréal, Quebec, Canada | 🗣️ French 🔎 | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4719959006) | 0d |
-| Aviyatech | Ingénieur(e) en vérification de logiciel QC/ Software Verification Engineer QC | Longueuil, Quebec | 🔎 | [Apply](https://jobs.lever.co/aviyatech/5cde8391-df30-42fe-8671-e1a1fdddb3a3) | 1d |
-| Aviyatech | Software Verification Engineer ON | Mississauga, Ontario | 🔎 | [Apply](https://jobs.lever.co/aviyatech/13d0fc94-b878-42ce-99e0-32063c3427e9) | 1d |
-| Remarcable Inc | Integration Engineer | Vancouver, BC<br>Vancouver, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/remarcable-inc/acdf01a7-f114-4c6f-8e1d-1e80b8fe599b) | 1d |
-| Stripe | Backend Engineer, Payments &amp; Risk | Toronto, Canada | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8260985) | 1d |
-| Sunrisefarms | Class 1 Live Haul Driver - Night Shift | Surrey, BC | 🔎 | [Apply](https://jobs.lever.co/sunrisefarms/12f79b90-0f86-4117-8e41-115e4ae78f78) | 2d |
-| Jobgether | Data Analyst, Platform Excellence Ops Analytics | Canada | 🔎 | [Apply](https://jobs.lever.co/jobgether/23d15cf2-744b-49f0-8f48-c23ef8b21653) | 3d |
-| Trailappliances | Delivery Driver - Class 5 - Kelowna (1026) | 2105 Matrix Crescent, Kelowna, BC V1V 2A4 | 🔎 | [Apply](https://jobs.lever.co/trailappliances/adcd10ac-7e06-420f-8995-bf9c4df3c4cb) | 3d |
-| Instacart | Data Analyst, Platform Excellence Ops Analytics | Canada - Remote (ON, AB, BC, or NS Only) | 🔎 | [Apply](https://instacart.careers/job/?gh_jid=8249896) | 6d |
-| Veeva | Associate Software Engineer in Test | Canada - Toronto |  | [Apply](https://jobs.lever.co/veeva/fecaef42-b5c1-4fb2-b819-058171174ed1) | 6d |
-| Lyft | Software Engineer, Planned Pricing | Toronto, Canada | 🔎 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8860779002?gh_jid=8860779002) | 7d |
-| Premiertruck | Parts Delivery Driver - 18 month contract | Sarnia, ON | 🔎 | [Apply](https://jobs.lever.co/premiertruck/55c3dde8-1e77-486a-9bb5-c9095dfaa72f) | 7d |
-| Vasco | Software Engineer (Product - Backend) | Montreal Office<br>Montreal, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/vasco/fe861ca6-7a8f-4b3f-a53b-5c0a1273abc0) | 7d |
-| AlayaCare | Junior Fullstack Developer (Python) | Montréal, Quebec, Canada |  | [Apply](https://alayacare.com/open-positions?gh_jid=8858343002) | 8d |
-| Stripe | Software Engineer, Metronome Infrastructure | Toronto, Vancouver, Canada-Remote | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8231439) | 8d |
-| Harbor | Junior Developer (Finance Systems) | Remote, Canada; UK - Remote |  | [Apply](https://job-boards.greenhouse.io/harborglobal/jobs/5238900007) | 10d |
-| Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | Remote - Multiple Locations<br>United States<br>Canada |  | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0) | 13d |
-| Xero | Associate Engineer (Back End) | CAN: Alberta Remote Worker<br>Calgary, Canada |  | [Apply](https://jobs.ashbyhq.com/xero/8f7f41b3-85db-4029-ab1a-70c88c5dc987) | 14d |
-| Xero | Associate Engineer (Front End) | CAN: Alberta Remote Worker<br>Calgary, Canada |  | [Apply](https://jobs.ashbyhq.com/xero/ea1597a0-aa1c-43e4-9195-b279f003fe08) | 14d |
-| Electricmind | Consultant - PySpark / Databricks Developer (Junior to Intermediate) | Downtown Toronto |  | [Apply](https://jobs.lever.co/electricmind/3a638fb3-5cc8-4248-875c-fed9804791aa) | 20d |
-| Eli | Software QA | Montreal (in-person)<br>Montreal, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/eli/e2d00e2f-6d07-49db-a128-45f3d1085ceb) | 20d |
-| Nascent | Software Engineer, Data Acquisition | Onsite - Montreal, QC<br>Montreal, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/nascent/08f07bcf-1646-4c87-830d-6d2f1f4cd615) | 20d |
-| Voldex | Software Engineer - Driving Empire | Remote - Canada<br>Remote - UK<br>Remote - Mexico<br>+2 more | 🔎 | [Apply](https://jobs.ashbyhq.com/voldex/00b44f87-5b37-47fe-95df-b33a8fe14b56) | 20d |
-| Stripe | Software Engineer, Early Career — Immediate Start | Toronto |  | [Apply](https://stripe.com/jobs/search?gh_jid=8212517) | 21d |
-| Viggle | Full-Stack Software Engineer | Toronto<br>Toronto, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a) | 22d |
-| Docebo | Data Engineer I | Toronto, Ontario<br>Toronto, Canada |  | [Apply](https://jobs.ashbyhq.com/docebo/b9a3b29d-cf7f-4760-aa21-5795c0f32bb1) | 23d |
-| Relayfi | Security Engineer | Toronto, ON<br>Toronto, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/relayfi/ca4e651d-498a-4d43-bbc4-9f817fd7c5a6) | 23d |
-| Waabi | Software Engineer, Commercial Software | Toronto, ON | 🔎 | [Apply](https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f) | 23d |
-| 1Password | Developer, Enterprise Tenants and Policies | Remote (United States \| Canada) | 🔎 | [Apply](https://jobs.ashbyhq.com/1password/b9ff2259-517c-4ec2-b92f-646be8bf12b6) | 24d |
-| mthree Recruiting Portal | Développeur génie logiciel / Junior Software Developer – Canada (Montreal) | Montréal, Quebec, Canada | 🗣️ French | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713052006) | 24d |
-| 1Password | Developer, Web Extension | Remote (United States \| Canada) | 🔎 | [Apply](https://jobs.ashbyhq.com/1password/ec030dda-caff-4579-93ab-c9aa147a0241) | 27d |
-| Affirm | Software Engineer I, Frontend (Upfunnel) | Remote Canada |  | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | 27d |
-| Robinhood | Software Engineer, Tokenization | Toronto, Canada | 🔎 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8189007?t=gh_src=&gh_jid=8189007) | 28d |
-| AlayaCare | Fullstack Developer (Python/React/AWS) - Data Team | Montréal, Quebec, Canada | 🔎 | [Apply](https://alayacare.com/open-positions?gh_jid=8790712002) | 29d |
-| Telnyx | Software Engineer, AI - Python | United States; Brazil; Canada | 🔎 | [Apply](https://job-boards.greenhouse.io/telnyx54/jobs/7989641003) | 29d |
+| Adaption | Developer Relations Engineer (6 Month Contract) | United States<br>New York<br>San Francisco<br>+2 more | 🔎 | [Apply](https://jobs.ashbyhq.com/adaption/2b49aef7-9efb-4ac1-8bb7-47ca3fac3525) | 1d |
+| Doppel | Software Engineer, Email | San Francisco, New York<br>Toronto, ON<br>USA | 🔎 | [Apply](https://jobs.ashbyhq.com/doppel/1144603c-07da-48b9-b838-da27ebbd2f1b) | 1d |
+| mthree Recruiting Portal | Développeur(-euse) logiciel – Intégration / Backfill Integration Developer – Canada (Montreal) | Montréal, Quebec, Canada | 🗣️ French 🔎 | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4719959006) | 1d |
+| Spare | Junior AI-Accelerated Developer | Vancouver, Canada |  | [Apply](https://jobs.ashbyhq.com/spare/174a7cb1-4564-4809-8a63-6510d6fbec73) | 1d |
+| Aviyatech | Ingénieur(e) en vérification de logiciel QC/ Software Verification Engineer QC | Longueuil, Quebec | 🔎 | [Apply](https://jobs.lever.co/aviyatech/5cde8391-df30-42fe-8671-e1a1fdddb3a3) | 2d |
+| Aviyatech | Software Verification Engineer ON | Mississauga, Ontario | 🔎 | [Apply](https://jobs.lever.co/aviyatech/13d0fc94-b878-42ce-99e0-32063c3427e9) | 2d |
+| Remarcable Inc | Integration Engineer | Vancouver, BC<br>Vancouver, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/remarcable-inc/acdf01a7-f114-4c6f-8e1d-1e80b8fe599b) | 2d |
+| Robinhood | Software Engineer, Web3 Backend | Toronto, Canada | 🔎 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307) | 2d |
+| Stripe | Backend Engineer, Payments &amp; Risk | Toronto, Canada | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8260985) | 2d |
+| Sunrisefarms | Class 1 Live Haul Driver - Night Shift | Surrey, BC | 🔎 | [Apply](https://jobs.lever.co/sunrisefarms/12f79b90-0f86-4117-8e41-115e4ae78f78) | 3d |
+| Jobgether | Data Analyst, Platform Excellence Ops Analytics | Canada | 🔎 | [Apply](https://jobs.lever.co/jobgether/23d15cf2-744b-49f0-8f48-c23ef8b21653) | 4d |
+| Trailappliances | Delivery Driver - Class 5 - Kelowna (1026) | 2105 Matrix Crescent, Kelowna, BC V1V 2A4 | 🔎 | [Apply](https://jobs.lever.co/trailappliances/adcd10ac-7e06-420f-8995-bf9c4df3c4cb) | 4d |
+| Instacart | Data Analyst, Platform Excellence Ops Analytics | Canada - Remote (ON, AB, BC, or NS Only) | 🔎 | [Apply](https://instacart.careers/job/?gh_jid=8249896) | 7d |
+| Veeva | Associate Software Engineer in Test | Canada - Toronto |  | [Apply](https://jobs.lever.co/veeva/fecaef42-b5c1-4fb2-b819-058171174ed1) | 7d |
+| Vasco | Software Engineer (Product - Backend) | Montreal Office<br>Montreal, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/vasco/fe861ca6-7a8f-4b3f-a53b-5c0a1273abc0) | 8d |
+| AlayaCare | Junior Fullstack Developer (Python) | Montréal, Quebec, Canada |  | [Apply](https://alayacare.com/open-positions?gh_jid=8858343002) | 9d |
+| Stripe | Software Engineer, Metronome Infrastructure | Toronto, Vancouver, Canada-Remote | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8231439) | 9d |
+| Eliseai | AI Deployments PM - Future Platforms \| Housing | New York City<br>San Francisco<br>Toronto<br>+1 more | ✈️ 🔎 | [Apply](https://jobs.ashbyhq.com/eliseai/92462da6-20e0-43d0-b03e-36e1469dffca) | 11d |
+| Harbor | Junior Developer (Finance Systems) | Remote, Canada; UK - Remote |  | [Apply](https://job-boards.greenhouse.io/harborglobal/jobs/5238900007) | 11d |
+| Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | Remote - Multiple Locations<br>United States<br>Canada |  | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0) | 14d |
+| Xero | Associate Engineer (Back End) | CAN: Alberta Remote Worker<br>Calgary, Canada |  | [Apply](https://jobs.ashbyhq.com/xero/8f7f41b3-85db-4029-ab1a-70c88c5dc987) | 15d |
+| Xero | Associate Engineer (Front End) | CAN: Alberta Remote Worker<br>Calgary, Canada |  | [Apply](https://jobs.ashbyhq.com/xero/ea1597a0-aa1c-43e4-9195-b279f003fe08) | 15d |
+| Eli | Software QA | Montreal (in-person)<br>Montreal, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/eli/e2d00e2f-6d07-49db-a128-45f3d1085ceb) | 21d |
+| Nascent | Software Engineer, Data Acquisition | Onsite - Montreal, QC<br>Montreal, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/nascent/08f07bcf-1646-4c87-830d-6d2f1f4cd615) | 21d |
+| Voldex | Software Engineer - Driving Empire | Remote - Canada<br>Remote - UK<br>Remote - Mexico<br>+2 more | 🔎 | [Apply](https://jobs.ashbyhq.com/voldex/00b44f87-5b37-47fe-95df-b33a8fe14b56) | 21d |
+| Stripe | Software Engineer, Early Career — Immediate Start | Toronto |  | [Apply](https://stripe.com/jobs/search?gh_jid=8212517) | 22d |
+| Viggle | Full-Stack Software Engineer | Toronto<br>Toronto, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a) | 23d |
+| Docebo | Data Engineer I | Toronto, Ontario<br>Toronto, Canada |  | [Apply](https://jobs.ashbyhq.com/docebo/b9a3b29d-cf7f-4760-aa21-5795c0f32bb1) | 24d |
+| Relayfi | Security Engineer | Toronto, ON<br>Toronto, Canada | 🔎 | [Apply](https://jobs.ashbyhq.com/relayfi/ca4e651d-498a-4d43-bbc4-9f817fd7c5a6) | 24d |
+| Waabi | Software Engineer, Commercial Software | Toronto, ON | 🔎 | [Apply](https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f) | 24d |
+| 1Password | Developer, Enterprise Tenants and Policies | Remote (United States \| Canada) | 🔎 | [Apply](https://jobs.ashbyhq.com/1password/b9ff2259-517c-4ec2-b92f-646be8bf12b6) | 25d |
+| mthree Recruiting Portal | Développeur génie logiciel / Junior Software Developer – Canada (Montreal) | Montréal, Quebec, Canada | 🗣️ French | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713052006) | 25d |
+| 1Password | Developer, Web Extension | Remote (United States \| Canada) | 🔎 | [Apply](https://jobs.ashbyhq.com/1password/ec030dda-caff-4579-93ab-c9aa147a0241) | 28d |
+| Affirm | Software Engineer I, Frontend (Upfunnel) | Remote Canada |  | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | 28d |
+| Robinhood | Software Engineer, Tokenization | Toronto, Canada | 🔎 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8189007?t=gh_src=&gh_jid=8189007) | 29d |
+| Telnyx | Software Engineer, AI - Python | United States; Brazil; Canada | 🔎 | [Apply](https://job-boards.greenhouse.io/telnyx54/jobs/7989641003) | 1mo |
 | Konrad | Full Stack Developer | Toronto | 🔎 | [Apply](https://www.konrad.com/careers/job/7989358003?gh_jid=7989358003) | 1mo |
 | Konrad | Java Developer | Toronto | 🔎 | [Apply](https://www.konrad.com/careers/job/7989359003?gh_jid=7989359003) | 1mo |
 | DoorDash Canada | Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027) | Toronto, ON |  | [Apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8176003) | 1mo |
@@ -122,19 +123,19 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Charles River Associates | (2027 Bachelor's/Master's graduates) Cyber &amp; Forensic Technology Consulting Analyst/Associate | Toronto, ON, Canada |  | [Apply](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8064581) | 2mo |
 | mthree Recruiting Portal | Production Support Analyst /Site Reliability Engineer (SRE) | Halifax, Nova Scotia, Canada | 🔎 | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4696016006) | 3mo |
 | Pointclickcare | (Canada) Software Implementation Consultant - Clinical | Mississauga | 🔎 | [Apply](https://jobs.lever.co/pointclickcare/6b7f5c7a-372b-4a4a-8187-b2c347157e14) | 3mo |
-| Robinhood | Software Engineer, Web3 Backend | Toronto, Canada | 🔎 | 🔒 | 1d |
-| Pinterest | University Grad Machine Learning Engineer 2027 (Toronto) | Toronto, ON, CA | ✈️ | 🔒 | 7d |
-| Pinterest | University Grad Software Engineer (Toronto) | Toronto, ON, CA | ✈️ | 🔒 | 7d |
-| Jobgether | Junior Developer (Finance Systems) | Canada |  | 🔒 | 8d |
-| Jobgether | Python Automation Test Engineer | Canada | 🔎 | 🔒 | 8d |
-| ClinChoice | Junior Statistical Programmer Analyst _Permanent Role_(CANADA) | Mississauga, Ontario , Canada |  | 🔒 | 9d |
-| Ema | Software Engineer, Machine Learning | Vancouver, BC<br>Vancouver, Canada | 🔎 | 🔒 | 16d |
+| Lyft | Software Engineer, Planned Pricing | Toronto, Canada | 🔎 | 🔒 | 8d |
+| Pinterest | University Grad Machine Learning Engineer 2027 (Toronto) | Toronto, ON, CA | ✈️ | 🔒 | 8d |
+| Pinterest | University Grad Software Engineer (Toronto) | Toronto, ON, CA | ✈️ | 🔒 | 8d |
+| Premiertruck | Parts Delivery Driver - 18 month contract | Sarnia, ON | 🔎 | 🔒 | 8d |
+| Jobgether | Junior Developer (Finance Systems) | Canada |  | 🔒 | 9d |
+| Jobgether | Python Automation Test Engineer | Canada | 🔎 | 🔒 | 9d |
+| ClinChoice | Junior Statistical Programmer Analyst _Permanent Role_(CANADA) | Mississauga, Ontario , Canada |  | 🔒 | 10d |
+| Electricmind | Consultant - PySpark / Databricks Developer (Junior to Intermediate) | Downtown Toronto |  | 🔒 | 21d |
+| AlayaCare | Fullstack Developer (Python/React/AWS) - Data Team | Montréal, Quebec, Canada | 🔎 | 🔒 | 1mo |
 | BeyondTrust | Cyber Defense Engineer | Remote Canada \| Remote United States | 🔎 | 🔒 | 1mo |
 | IXL Learning | Software Developer, New Grad | Toronto, ON, Canada |  | 🔒 | 1mo |
 | Geotab | Software Developer | Oakville, Ontario - Canada | 🔎 | 🔒 | 1mo |
 | mthree Recruiting Portal | Ingénieure SRE / Site Reliability Engineer | Montréal, Quebec, Canada | 🔎 | 🔒 | 1mo |
-| mthree Recruiting Portal | Développeur Java / Java Developer | Montréal, Quebec, Canada | 🔎 | 🔒 | 1mo |
-| AppDirect | Data Engineer | Montreal, Canada | 🔎 | 🔒 | 2mo |
 | Premiertruck | Parts Delivery Driver | Winnipeg, MB | 🔎 | 🔒 | 2mo |
 | Bis | Software Support Representative | Toronto, Ontario | 🔎 | 🔒 | 3mo |
 
@@ -142,37 +143,39 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| Engineers Gate | Data Engineer | London | 🔎 | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8259284) | 0d |
-| Jobgether | Product Engineer | UK | 🔎 | [Apply](https://jobs.lever.co/jobgether/6e50c2fa-4d28-422a-8d31-2db73f98b3e8) | 0d |
-| Quantum | Graduate Data Engineer | London<br>London, United Kingdom |  | [Apply](https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6) | 1d |
-| Mark43 | SQL Developer | United Kingdom | 🛂 🔎 | [Apply](https://mark43.com/list-job/8259202?gh_jid=8259202) | 2d |
-| Catapult Sports | Software Engineer (Elite Motorsport) | London, UK | 🔎 | [Apply](https://job-boards.greenhouse.io/catapultsports/jobs/8176941) | 3d |
-| Optimove | Machine Learning Engineer | Dundee, Scotland | 🛂 🔎 | [Apply](https://job-boards.eu.greenhouse.io/optimove/jobs/4986565101) | 6d |
-| StepStone Group | Analyst, Infrastructure Private Equity Investments | London | 🔎 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8059417) | 7d |
-| Elwood Technologies | Graduate/Junior Software Engineer | London |  | [Apply](https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6209718004) | 9d |
-| Tripadvisor | Software Engineer I | London, UK |  | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/8239945) | 9d |
-| Zeta Global | Data Engineer | London, UK | 🔎 | [Apply](https://job-boards.greenhouse.io/zetaglobal/jobs/6210511004) | 9d |
-| Winton | Quantitative Developer, Graduate | London, United Kingdom |  | [Apply](https://job-boards.eu.greenhouse.io/winton/jobs/4986765101) | 13d |
-| Olo | Software Engineer - BrandX | Belfast, Northern Ireland, Remote | 🔎 | [Apply](https://jobs.lever.co/olo/335fcd0d-e95d-4373-92a0-c6acc3d87275) | 14d |
-| Wayve | Platform Engineer, SDO | London | 🔎 | [Apply](https://wayve.firststage.co/jobs?gh_jid=8842721002) | 14d |
-| Axon | Graduate Site Reliability Engineer (Australia) | Australia; Melbourne, Victoria, Australia; Sydney, New South Wales, Australia | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/axon/jobs/8001665003) | 17d |
-| RapidFort, Inc. | Platform Operations Engineer | United Kingdom | 🛂 🔎 | [Apply](https://job-boards.greenhouse.io/rapidfortinc/jobs/4414108009) | 17d |
-| Deliveroo | Software Engineer, New Grad | London, United Kingdom - Deliveroo | 🛂 | [Apply](https://job-boards.greenhouse.io/deliveroo/jobs/8202627) | 20d |
-| Blenheim Chalcot | Graduate Data Engineer | London |  | [Apply](https://job-boards.greenhouse.io/blenheimchalcot/jobs/8207802) | 22d |
-| Blenheim Chalcot | Junior Software Engineer | London |  | [Apply](https://job-boards.greenhouse.io/blenheimchalcot/jobs/8207847) | 22d |
-| Fospha | Graduate Data Engineer | London |  | [Apply](https://job-boards.greenhouse.io/fosphamarketing/jobs/8207747) | 22d |
-| Fospha | Junior Software Engineer | London |  | [Apply](https://job-boards.greenhouse.io/fosphamarketing/jobs/8207846) | 22d |
-| Helsing | Junior Software Engineer | Berlin; London; Munich | ✈️ | [Apply](https://helsing.ai/jobs/4976480101?gh_jid=4976480101) | 23d |
-| Helsing | Software Engineer (Early Careers) | Berlin; London; Munich | ✈️ | [Apply](https://helsing.ai/jobs/4972043101?gh_jid=4972043101) | 23d |
-| Lendable | Junior Data Engineer | London<br>London, United Kingdom |  | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) | 23d |
-| Optimove | Customer Data Engineer | Dundee, Scotland | 🛂 🔎 | [Apply](https://job-boards.eu.greenhouse.io/optimove/jobs/4971259101) | 23d |
-| Dentology | Full Stack Product Engineer | UK (Remote)<br>United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/dentology/2e840997-9f77-40f6-95b2-313186ba5aca) | 24d |
-| Kpler | Fullstack Engineer | United Kingdom | 🔎 | [Apply](https://jobs.lever.co/kpler/23e9e7db-ca92-4663-8b60-eed96c3859f1) | 24d |
-| Olo | Mobile Software Engineer (Android) - Olo App | Belfast, Northern Ireland, Remote | 🔎 | [Apply](https://jobs.lever.co/olo/0198c715-79ae-47be-a73d-6d4fe4145705) | 24d |
-| Olo | Mobile Software Engineer (iOS) - Olo App | Belfast, Northern Ireland, Remote | 🔎 | [Apply](https://jobs.lever.co/olo/a044d549-a8ed-4b20-8b0f-9ef96bc0d875) | 24d |
-| Scale AI | Software Engineer - New Grad | London, UK |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) | 24d |
-| Maven | Graduate Infrastructure Engineer Programme | London | ✈️ | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020) | 25d |
-| Synthesia | Machine Learning Engineer / ML Engineer - Roleplay Sessions | Remote<br>UK Remote<br>London, United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/synthesia/637a0f3b-fd23-409a-b66b-917d1411d56e) | 29d |
+| Roboyo | DevOps Engineer | London (Remote) | 🔎 | [Apply](https://job-boards.eu.greenhouse.io/roboyo/jobs/5001122101) | 0d |
+| Engineers Gate | Data Engineer | London | 🔎 | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8259284) | 1d |
+| Jobgether | Product Engineer | UK | 🔎 | [Apply](https://jobs.lever.co/jobgether/6e50c2fa-4d28-422a-8d31-2db73f98b3e8) | 1d |
+| Kpler | Backend Engineer - Commodities | United Kingdom | 🔎 | [Apply](https://jobs.lever.co/kpler/06747d49-ea1e-458c-93e6-1489a1a9c612) | 1d |
+| Quantum | Graduate Data Engineer | London<br>London, United Kingdom |  | [Apply](https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6) | 2d |
+| Mark43 | SQL Developer | United Kingdom | 🛂 🔎 | [Apply](https://mark43.com/list-job/8259202?gh_jid=8259202) | 3d |
+| Catapult Sports | Software Engineer (Elite Motorsport) | London, UK | 🔎 | [Apply](https://job-boards.greenhouse.io/catapultsports/jobs/8176941) | 4d |
+| Optimove | Machine Learning Engineer | Dundee, Scotland | 🛂 🔎 | [Apply](https://job-boards.eu.greenhouse.io/optimove/jobs/4986565101) | 7d |
+| StepStone Group | Analyst, Infrastructure Private Equity Investments | London | 🔎 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8059417) | 8d |
+| Elwood Technologies | Graduate/Junior Software Engineer | London |  | [Apply](https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6209718004) | 10d |
+| Tripadvisor | Software Engineer I | London, UK |  | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/8239945) | 10d |
+| Zeta Global | Data Engineer | London, UK | 🔎 | [Apply](https://job-boards.greenhouse.io/zetaglobal/jobs/6210511004) | 10d |
+| Winton | Quantitative Developer, Graduate | London, United Kingdom |  | [Apply](https://job-boards.eu.greenhouse.io/winton/jobs/4986765101) | 14d |
+| Olo | Software Engineer - BrandX | Belfast, Northern Ireland, Remote | 🔎 | [Apply](https://jobs.lever.co/olo/335fcd0d-e95d-4373-92a0-c6acc3d87275) | 15d |
+| Wayve | Platform Engineer, SDO | London | 🔎 | [Apply](https://wayve.firststage.co/jobs?gh_jid=8842721002) | 15d |
+| Axon | Graduate Site Reliability Engineer (Australia) | Australia; Melbourne, Victoria, Australia; Sydney, New South Wales, Australia | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/axon/jobs/8001665003) | 18d |
+| RapidFort, Inc. | Platform Operations Engineer | United Kingdom | 🛂 🔎 | [Apply](https://job-boards.greenhouse.io/rapidfortinc/jobs/4414108009) | 18d |
+| Deliveroo | Software Engineer, New Grad | London, United Kingdom - Deliveroo | 🛂 | [Apply](https://job-boards.greenhouse.io/deliveroo/jobs/8202627) | 21d |
+| Blenheim Chalcot | Graduate Data Engineer | London |  | [Apply](https://job-boards.greenhouse.io/blenheimchalcot/jobs/8207802) | 23d |
+| Blenheim Chalcot | Junior Software Engineer | London |  | [Apply](https://job-boards.greenhouse.io/blenheimchalcot/jobs/8207847) | 23d |
+| Fospha | Graduate Data Engineer | London |  | [Apply](https://job-boards.greenhouse.io/fosphamarketing/jobs/8207747) | 23d |
+| Fospha | Junior Software Engineer | London |  | [Apply](https://job-boards.greenhouse.io/fosphamarketing/jobs/8207846) | 23d |
+| Helsing | Junior Software Engineer | Berlin; London; Munich | ✈️ | [Apply](https://helsing.ai/jobs/4976480101?gh_jid=4976480101) | 24d |
+| Helsing | Software Engineer (Early Careers) | Berlin; London; Munich | ✈️ | [Apply](https://helsing.ai/jobs/4972043101?gh_jid=4972043101) | 24d |
+| Lendable | Junior Data Engineer | London<br>London, United Kingdom |  | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) | 24d |
+| Optimove | Customer Data Engineer | Dundee, Scotland | 🛂 🔎 | [Apply](https://job-boards.eu.greenhouse.io/optimove/jobs/4971259101) | 24d |
+| Dentology | Full Stack Product Engineer | UK (Remote)<br>United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/dentology/2e840997-9f77-40f6-95b2-313186ba5aca) | 25d |
+| Kpler | Fullstack Engineer | United Kingdom | 🔎 | [Apply](https://jobs.lever.co/kpler/23e9e7db-ca92-4663-8b60-eed96c3859f1) | 25d |
+| Olo | Mobile Software Engineer (Android) - Olo App | Belfast, Northern Ireland, Remote | 🔎 | [Apply](https://jobs.lever.co/olo/0198c715-79ae-47be-a73d-6d4fe4145705) | 25d |
+| Olo | Mobile Software Engineer (iOS) - Olo App | Belfast, Northern Ireland, Remote | 🔎 | [Apply](https://jobs.lever.co/olo/a044d549-a8ed-4b20-8b0f-9ef96bc0d875) | 25d |
+| Scale AI | Software Engineer - New Grad | London, UK |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) | 25d |
+| Maven | Graduate Infrastructure Engineer Programme | London | ✈️ | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020) | 26d |
+| Synthesia | Machine Learning Engineer / ML Engineer - Roleplay Sessions | Remote<br>UK Remote<br>London, United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/synthesia/637a0f3b-fd23-409a-b66b-917d1411d56e) | 1mo |
 | Incident | Product Engineer Graduate | London<br>London, United Kingdom |  | [Apply](https://jobs.ashbyhq.com/incident/743b1624-7267-49a9-84a0-6223e414fbf0) | 1mo |
 | Incident | Product Engineer Placement (1 year) | London<br>London, United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27) | 1mo |
 | Incident | Product Engineer Placement (6 Months) | London<br>London, United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/incident/470989ec-6ac5-4800-beb1-0ba1684ec1ee) | 1mo |
@@ -187,9 +190,9 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Optiver | Graduate Software Engineer | London, England, United Kingdom | ✈️ | [Apply](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002) | 1mo |
 | XTX Markets | Security Engineer | London, England, United Kingdom | 🔎 | [Apply](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7864136003) | 1mo |
 | KnowBe4 | Graduate Data Scientist - Cyber Analytics (Position located in Cheltenham, United Kingdom) | Cheltenham, United Kingdom |  | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8700231002) | 1mo |
-| FanDuel | Software Engineer - Core Marketing Platforms | Edinburgh, Scotland, United Kingdom | 🔎 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8112084) | 1mo |
-| Lemfi | Security Engineer | London<br>London, United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/lemfi/4291590d-2b78-4b80-8d8e-4274fd769356) | 1mo |
-| Woven By Toyota | Software Engineer, Embedded Systems | London | 🔎 | [Apply](https://jobs.lever.co/woven-by-toyota/e1cec56f-71b8-42d5-9ffe-7572b193b54a) | 1mo |
+| FanDuel | Software Engineer - Core Marketing Platforms | Edinburgh, Scotland, United Kingdom | 🔎 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8112084) | 2mo |
+| Lemfi | Security Engineer | London<br>London, United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/lemfi/4291590d-2b78-4b80-8d8e-4274fd769356) | 2mo |
+| Woven By Toyota | Software Engineer, Embedded Systems | London | 🔎 | [Apply](https://jobs.lever.co/woven-by-toyota/e1cec56f-71b8-42d5-9ffe-7572b193b54a) | 2mo |
 | Marshall Wace - Graduate &amp; Associate roles | Software/Infrastructure Graduate - 2027 - London | London |  | [Apply](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8645263002) | 2mo |
 | Roku | Software Engineer, Agentic AI | Cambridge, United Kingdom | 🔎 | [Apply](https://www.weareroku.com/jobs/8096018?gh_jid=8096018) | 2mo |
 | Circuithub | Haskell Engineer | UK<br>United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/circuithub/cedd280e-75b4-4811-8595-9b0b96da74a5) | 2mo |
@@ -199,28 +202,29 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Circuithub | Automation System Build Engineer | Cambridge, UK<br>Cambridge, United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/circuithub/a23c03cf-b383-4834-a392-0d759c292d5b) | 3mo |
 | Alpha Financial Markets Consulting | Data Engineer (Databricks / Snowflake) | London | 🔎 | [Apply](https://job-boards.greenhouse.io/alphafmcroles/jobs/8626344002) | 3mo |
 | Hudson River Trading | Junior Trading Systems Engineer | Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States |  | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074) | 3mo |
-| Flatiron Health | Software Engineer | London office | 🔎 | 🔒 | 8d |
-| Jobgether | Python Automation Test Engineer | UK | 🔎 | 🔒 | 8d |
-| Octoenergy | Backend Developer | London (GB) | 🔎 | 🔒 | 9d |
-| Wisdomtree 2 | Desktop Support Engineer | London | 🔎 | 🔒 | 9d |
-| Trainline | Junior Machine Learning Engineer | London<br>London, United Kingdom |  | 🔒 | 15d |
-| Octoenergy | Design Engineer (UI, Frontend) | London (GB) | 🔎 | 🔒 | 21d |
+| Flatiron Health | Software Engineer | London office | 🔎 | 🔒 | 9d |
+| Jobgether | Python Automation Test Engineer | UK | 🔎 | 🔒 | 9d |
+| Octoenergy | Backend Developer | London (GB) | 🔎 | 🔒 | 10d |
+| Wisdomtree 2 | Desktop Support Engineer | London | 🔎 | 🔒 | 10d |
+| Trainline | Junior Machine Learning Engineer | London<br>London, United Kingdom |  | 🔒 | 16d |
+| Octoenergy | Design Engineer (UI, Frontend) | London (GB) | 🔎 | 🔒 | 22d |
 | Relay | Graduate Software Engineer | London - Hybrid<br>London, United Kingdom |  | 🔒 | 1mo |
-| Snowflake | Associate Solutions Engineer - Global Accounts | GB-London<br>London, United Kingdom | 🔎 | 🔒 | 1mo |
+| Snowflake | Associate Solutions Engineer - Global Accounts | GB-London<br>London, United Kingdom | 🔎 | 🔒 | 2mo |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | Cambridge, MA<br>Cambridge, United States |  | 🔒 | 2mo |
 
 ## 🇸🇬 Singapore
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| Stripe | Software Engineer, Money as a Service | Singapore | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8209644) | 1d |
-| Lumilens | IC Layout Engineer – Optical Engine Silicon | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/lumilens/9173b39c-1f74-4410-b7c5-234620d151b4) | 14d |
-| Airwallex | Software Engineer, Ecosystem | SG - Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/airwallex/5641f83e-4946-48cc-a6e8-e42128b5e2f4) | 16d |
-| AppLovin | Full Stack Developer | Singapore | 🔎 | [Apply](https://boards.greenhouse.io/applovin/jobs/4714437006?gh_jid=4714437006) | 20d |
-| Goventi | Autonomous Vehicle Engineer (Electrical) | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/goventi/10672808-d9fa-4b8a-81c2-91aeac632a64) | 21d |
-| Motional | Software Engineer - Engineering Enablement | Singapore, Central, Singapore | 🔎 | [Apply](https://motional.com/open-positions/?gh_jid=7997992003#/7997992003) | 21d |
-| SimplifyNext | Full Stack Developer | Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/simplifynext/jobs/5236654007) | 24d |
-| Coinhako | Data Engineer (Data Platform) | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/coinhako/643cad9d-f6c2-4eb9-b34c-3e23d4869b63) | 28d |
+| Engineers Gate | Data Engineer | Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8259307) | 1d |
+| Stripe | Software Engineer, Money as a Service | Singapore | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8209644) | 2d |
+| Lumilens | IC Layout Engineer – Optical Engine Silicon | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/lumilens/9173b39c-1f74-4410-b7c5-234620d151b4) | 15d |
+| Airwallex | Software Engineer, Ecosystem | SG - Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/airwallex/5641f83e-4946-48cc-a6e8-e42128b5e2f4) | 17d |
+| AppLovin | Full Stack Developer | Singapore | 🔎 | [Apply](https://boards.greenhouse.io/applovin/jobs/4714437006?gh_jid=4714437006) | 21d |
+| Goventi | Autonomous Vehicle Engineer (Electrical) | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/goventi/10672808-d9fa-4b8a-81c2-91aeac632a64) | 22d |
+| Motional | Software Engineer - Engineering Enablement | Singapore, Central, Singapore | 🔎 | [Apply](https://motional.com/open-positions/?gh_jid=7997992003#/7997992003) | 22d |
+| SimplifyNext | Full Stack Developer | Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/simplifynext/jobs/5236654007) | 25d |
+| Coinhako | Data Engineer (Data Platform) | Singapore<br>Singapore, Singapore | 🔎 | [Apply](https://jobs.ashbyhq.com/coinhako/643cad9d-f6c2-4eb9-b34c-3e23d4869b63) | 29d |
 | DRW | Software Engineer - Research Technology | Singapore | 🔎 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8176064) | 1mo |
 | Sierra | Software Engineer, Agent (New Grad 2027) | Singapore<br>Singapore, Singapore |  | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) | 1mo |
 | Stripe | Software Engineer, New Grad | Singapore |  | [Apply](https://stripe.com/jobs/search?gh_jid=8160776) | 1mo |
@@ -243,14 +247,14 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| Binance | Binance Accelerator Programm - Software Engineer (Full-stack / AI-oriented) | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/6d2c2e8e-1211-42c6-ab97-9a88879ea2b9) | 10d |
-| Binance | Binance Accelerator Programm - Software Engineer (KYB) | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/0e95f863-3dd6-4ffe-a01d-4a3c2b473aff) | 13d |
-| Qube Research &amp; Technologies | Quantitative Developer - Python | Hong Kong | 🔎 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8809530002) | 17d |
-| Nex | QA Engineer | Hong Kong | 🔎 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5425458008) | 22d |
-| Binance | Binance Accelerator Programm - Software Engineer (Convert) | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/a6651f27-4e58-4841-91ae-5c79e2296d36) | 29d |
-| Binance | Binance Accelerator Programm - Software Engineer (Stocks) | Taiwan, Taipei<br>Asia<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/f1aa0f91-9dac-4eba-bfd7-b39fc4f98cb2) | 29d |
-| Crypto | Digital Trust and Resilience Engineer (Security Governance) | Hong Kong | 🔎 | [Apply](https://jobs.lever.co/crypto/47509c3a-b034-470b-903a-b8e0441d5d28) | 29d |
-| Ekimetrics | Junior Software Engineer (6-month) – Hong Kong | Hong Kong | 🗣️ Cantonese | [Apply](https://jobs.lever.co/ekimetrics/d741727e-f25f-452a-8e40-e6d04c3395ea) | 29d |
+| Binance | Binance Accelerator Programm - Software Engineer (Full-stack / AI-oriented) | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/6d2c2e8e-1211-42c6-ab97-9a88879ea2b9) | 11d |
+| Binance | Binance Accelerator Programm - Software Engineer (KYB) | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/0e95f863-3dd6-4ffe-a01d-4a3c2b473aff) | 14d |
+| Qube Research &amp; Technologies | Quantitative Developer - Python | Hong Kong | 🔎 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8809530002) | 18d |
+| Nex | QA Engineer | Hong Kong | 🔎 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5425458008) | 23d |
+| Binance | Binance Accelerator Programm - Software Engineer (Convert) | Asia<br>Taiwan, Taipei<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/a6651f27-4e58-4841-91ae-5c79e2296d36) | 1mo |
+| Binance | Binance Accelerator Programm - Software Engineer (Stocks) | Taiwan, Taipei<br>Asia<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/f1aa0f91-9dac-4eba-bfd7-b39fc4f98cb2) | 1mo |
+| Crypto | Digital Trust and Resilience Engineer (Security Governance) | Hong Kong | 🔎 | [Apply](https://jobs.lever.co/crypto/47509c3a-b034-470b-903a-b8e0441d5d28) | 1mo |
+| Ekimetrics | Junior Software Engineer (6-month) – Hong Kong | Hong Kong | 🗣️ Cantonese | [Apply](https://jobs.lever.co/ekimetrics/d741727e-f25f-452a-8e40-e6d04c3395ea) | 1mo |
 | Appnovation Technologies | Mobile Developer - Android (Cantonese Speaking) | Hong Kong | 🔎 | [Apply](https://job-boards.greenhouse.io/appnovation/jobs/8783637002) | 1mo |
 | Binance | Binance Accelerator Programm - Software Engineer (Ledger) | Taiwan, Taipei<br>Asia<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/deb28ea3-d0de-4fa4-ba31-f6f9ead74838) | 1mo |
 | Binance | Binance Accelerator Programm - Software Engineer (Reconciliation) | Taiwan, Taipei<br>Asia<br>Hong Kong | 🔎 | [Apply](https://jobs.lever.co/binance/aecc4a9f-a131-4eaa-8771-d482168c8ca8) | 1mo |
@@ -276,25 +280,26 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| Appier | IT Developer | Taipei, Taiwan | 🔎 | [Apply](https://job-boards.greenhouse.io/appier/jobs/8238768) | 8d |
-| Crypto | Digital Trust and Resilience Engineer (Security Governance) | Taipei | 🔎 | [Apply](https://jobs.lever.co/crypto/fb6b34a5-34ed-4c8e-b185-2cfdabde023b) | 29d |
+| Appier | IT Developer | Taipei, Taiwan | 🔎 | [Apply](https://job-boards.greenhouse.io/appier/jobs/8238768) | 9d |
+| Crypto | Digital Trust and Resilience Engineer (Security Governance) | Taipei | 🔎 | [Apply](https://jobs.lever.co/crypto/fb6b34a5-34ed-4c8e-b185-2cfdabde023b) | 1mo |
 | Etched | Manufacturing Test Engineer (Taiwan) | Taoyuan<br>Taoyuan, Taiwan | 🗣️ Mandarin 🔎 | [Apply](https://jobs.ashbyhq.com/etched/e593a2f6-8f0b-4328-9fd9-b0ff85cf0827) | 2mo |
 | Binance | Binance Accelerator Program - Software Engineer (Cryptography) | Asia<br>Taiwan, Taipei | 🔎 | [Apply](https://jobs.lever.co/binance/46a73996-5e3c-4746-928a-148b754cac5c) | 2mo |
 | Stripe | Firmware Engineer | Taipei City | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8040825) | 2mo |
-| Binance | Binance Accelerator Program - Backend Engineer, Pay &amp; Card | Asia<br>Australia, Brisbane<br>Australia, Melbourne<br>+3 more | 🔎 | 🔒 | 6d |
+| Binance | Binance Accelerator Program - Backend Engineer, Pay &amp; Card | Asia<br>Australia, Brisbane<br>Australia, Melbourne<br>+3 more | 🔎 | 🔒 | 7d |
 | Binance | AI Agent Engineer | Asia<br>Taiwan, Taipei | 🔎 | 🔒 | 1mo |
 
 ## 🇩🇪 Germany
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| Jobgether | Product Engineer | Germany | 🔎 | [Apply](https://jobs.lever.co/jobgether/be1b3260-ee2a-4632-8627-ec3b26b39063) | 0d |
-| Lucanet Group | Junior ETL Developer | Germany | 🗣️ German | [Apply](https://www.lucanet.com/en/careers/jobs/?gh_jid=4996849101) | 1d |
-| Roboyo | Intelligent Automation Engineer - UiPath | Munich Germany | 🔎 | [Apply](https://job-boards.eu.greenhouse.io/roboyo/jobs/4978858101) | 2d |
-| Zeta Global | Data Engineer | Berlin, Germany | 🔎 | [Apply](https://job-boards.greenhouse.io/zetaglobal/jobs/6210648004) | 9d |
-| Planet | Space Systems Engineer, Space Operations | Berlin, Germany | 🔎 | [Apply](https://job-boards.greenhouse.io/planetlabs/jobs/8204493) | 21d |
-| Isar Aerospace SE | Fluid Systems Engineer (f/m/d) | Ottobrunn, Bavaria, Germany | 🇺🇸 🗣️ German 🔎 | [Apply](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976524101) | 23d |
-| Astera Labs | Test Engineer | Aachen, North Rhine-Westphalia, Germany | 🔎 | [Apply](https://job-boards.greenhouse.io/asteralabs/jobs/4730505005) | 28d |
+| Almedia | Junior Software Engineer, Data | Berlin<br>Berlin, Germany |  | [Apply](https://jobs.ashbyhq.com/almedia/9da70ef8-9cdc-4342-8e78-00206aac158d) | 1d |
+| Jobgether | Product Engineer | Germany | 🔎 | [Apply](https://jobs.lever.co/jobgether/be1b3260-ee2a-4632-8627-ec3b26b39063) | 1d |
+| Lucanet Group | Junior ETL Developer | Germany | 🗣️ German | [Apply](https://www.lucanet.com/en/careers/jobs/?gh_jid=4996849101) | 2d |
+| Roboyo | Intelligent Automation Engineer - UiPath | Munich Germany | 🔎 | [Apply](https://job-boards.eu.greenhouse.io/roboyo/jobs/4978858101) | 3d |
+| Zeta Global | Data Engineer | Berlin, Germany | 🔎 | [Apply](https://job-boards.greenhouse.io/zetaglobal/jobs/6210648004) | 10d |
+| Planet | Space Systems Engineer, Space Operations | Berlin, Germany | 🔎 | [Apply](https://job-boards.greenhouse.io/planetlabs/jobs/8204493) | 22d |
+| Isar Aerospace SE | Fluid Systems Engineer (f/m/d) | Ottobrunn, Bavaria, Germany | 🇺🇸 🗣️ German 🔎 | [Apply](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976524101) | 24d |
+| Astera Labs | Test Engineer | Aachen, North Rhine-Westphalia, Germany | 🔎 | [Apply](https://job-boards.greenhouse.io/asteralabs/jobs/4730505005) | 29d |
 | Navan | Backend Software Engineer | Berlin, Germany | 🔎 | [Apply](https://navan.com/careers/openings?gh_jid=8174884) | 1mo |
 | HelloFresh | Junior Recipe Developer (all genders) | Berlin, Berlin, Germany |  | [Apply](https://careers.hellofresh.com/global/en/job/8159710?gh_jid=8159710) | 1mo |
 | Snowflake | Software Engineer - Dynamic Tables | DE-Berlin-Trion Building<br>Berlin, Germany | 🔎 | [Apply](https://jobs.ashbyhq.com/snowflake/99dfc810-9487-4ac1-91a8-50acefd05bae) | 1mo |
@@ -302,38 +307,37 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | The Exploration Company | System Engineer | Munich, Germany<br>Munich , Germany | ✈️ 🔎 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/8a3ed28e-aa2e-4716-81aa-feb288ccd200) | 2mo |
 | Comstruct | Forward Deployed Engineer (FDE) | Munich<br>Munich, Germany | 🗣️ German ✈️ 🔎 | [Apply](https://jobs.ashbyhq.com/comstruct/5aab69c9-273a-41dd-a7a6-ad7789a32533) | 2mo |
 | Solaris | Cyber Security Engineer (Vulnerability Management &amp; SecOperations) | Berlin | 🔎 | [Apply](https://job-boards.greenhouse.io/solarisbank/jobs/8596685002) | 3mo |
-| Jobgether | Python Automation Test Engineer | Germany | 🔎 | 🔒 | 8d |
+| Jobgether | Python Automation Test Engineer | Germany | 🔎 | 🔒 | 9d |
 | Broadsign Careers | Full-stack Software Developer | Berlin, Berlin, Germany | 🔎 | 🔒 | 1mo |
 | Altamira.ai | Embedded Engineer | Germany, Romania | 🔎 | 🔒 | 1mo |
 | HelloFresh | Security Engineer (SOC) (m,f,x) | Berlin, Berlin, Germany | 🔎 | 🔒 | 1mo |
-| Manex | Software Engineer (f/m/d) | Munich<br>Munich, Germany | ✈️ 🔎 | 🔒 | 2mo |
 
 ## 🇮🇪 Ireland
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| Jobgether | Product Engineer | Ireland | 🔎 | [Apply](https://jobs.lever.co/jobgether/3791d43d-a25e-4da5-8734-8aa22c377fb2) | 0d |
-| Stripe | Software Engineer, Payments and Risk | Dublin | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8261012) | 0d |
-| Stripe | Security Engineer, New Grad | Dublin |  | [Apply](https://stripe.com/jobs/search?gh_jid=8257892) | 1d |
-| Wayflyer | Graduate Software Engineer | Dublin<br>Dublin, Ireland |  | [Apply](https://jobs.ashbyhq.com/wayflyer/60b6dc63-bce1-407f-a5a7-023fde0d58e8) | 1d |
-| Vectra | DevOps Engineer | Dublin ,Ireland | 🔎 | [Apply](https://www.vectra.ai/about/jobs?gh_jid=8226353) | 7d |
-| Stripe | Software Engineer, Security Business Enablement | Dublin | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8175656) | 8d |
-| Toast | Android Software Engineer | Dublin, Ireland | 🔎 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8242560) | 8d |
-| Dotmatics | Software Development Engineer in Test \| Luma | Remote - Ireland | 🔎 | [Apply](https://www.dotmatics.com/jobs/apply?gh_jid=4737964005) | 13d |
+| Jobgether | Product Engineer | Ireland | 🔎 | [Apply](https://jobs.lever.co/jobgether/3791d43d-a25e-4da5-8734-8aa22c377fb2) | 1d |
+| Stripe | Security Engineer, New Grad | Dublin |  | [Apply](https://stripe.com/jobs/search?gh_jid=8257892) | 2d |
+| Wayflyer | Graduate Software Engineer | Dublin<br>Dublin, Ireland |  | [Apply](https://jobs.ashbyhq.com/wayflyer/60b6dc63-bce1-407f-a5a7-023fde0d58e8) | 2d |
+| Vectra | DevOps Engineer | Dublin ,Ireland | 🔎 | [Apply](https://www.vectra.ai/about/jobs?gh_jid=8226353) | 8d |
+| Stripe | Software Engineer, Security Business Enablement | Dublin | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8175656) | 9d |
+| Toast | Android Software Engineer | Dublin, Ireland | 🔎 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8242560) | 9d |
+| Dotmatics | Software Development Engineer in Test \| Luma | Remote - Ireland | 🔎 | [Apply](https://www.dotmatics.com/jobs/apply?gh_jid=4737964005) | 14d |
 | Stripe | Software Engineer, New Grad | Dublin |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130881) | 1mo |
 | Stripe | Software Engineer, Stripe Tax | Dublin, Ireland | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8076626) | 2mo |
 | Toast | Android Software Engineer | Dublin, Ireland | 🔎 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8038744) | 3mo |
-| Pinterest | University Grad Software Engineer (Dublin) | Dublin, IE | ✈️ | 🔒 | 7d |
-| Jobgether | Python Automation Test Engineer | Ireland | 🔎 | 🔒 | 8d |
+| Stripe | Software Engineer, Payments and Risk | Dublin | 🔎 | 🔒 | 1d |
+| Pinterest | University Grad Software Engineer (Dublin) | Dublin, IE | ✈️ | 🔒 | 8d |
+| Jobgether | Python Automation Test Engineer | Ireland | 🔎 | 🔒 | 9d |
 | Toast | Software Engineer I, IQ Grow | Dublin, Ireland |  | 🔒 | 1mo |
 
 ## 🇸🇪 Nordics
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| WPP | Junior Data Engineer | Copenhagen |  | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8785096002) | 22d |
-| Zeta Global | Data Engineer | Copenhagen, Denmark | 🔎 | [Apply](https://job-boards.greenhouse.io/zetaglobal/jobs/6189408004) | 22d |
-| Smartly | Smartly Launchpad 2027 (Software Engineer) | Helsinki, Uusimaa, Finland | 🔎 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/6192724004) | 23d |
+| WPP | Junior Data Engineer | Copenhagen |  | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8785096002) | 23d |
+| Zeta Global | Data Engineer | Copenhagen, Denmark | 🔎 | [Apply](https://job-boards.greenhouse.io/zetaglobal/jobs/6189408004) | 23d |
+| Smartly | Smartly Launchpad 2027 (Software Engineer) | Helsinki, Uusimaa, Finland | 🔎 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/6192724004) | 24d |
 | Hoxhunt | Junior Security Engineer, GRC | Helsinki, Finland |  | [Apply](https://jobs.ashbyhq.com/hoxhunt/a12aaff1-1696-44f0-a9ff-e2268f8584b2) | 1mo |
 | Iceye | AOCS Engineer | Espoo<br>Espoo, Finland | 🔎 | [Apply](https://jobs.ashbyhq.com/iceye/73a4dcb5-424d-46d1-87a8-d6c624be2b58) | 1mo |
 | WPP Media | Data Engineer | Stockholm, Sweden | 🔎 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5396729008) | 1mo |
@@ -346,52 +350,53 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| Kalepa | Junior Backend Engineer (Europe) | Europe (Full Remote) |  | [Apply](https://job-boards.greenhouse.io/kalepa/jobs/6206643004) | 15d |
+| Kalepa | Junior Backend Engineer (Europe) | Europe (Full Remote) |  | [Apply](https://job-boards.greenhouse.io/kalepa/jobs/6206643004) | 16d |
 
 ## 🇫🇷 France
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
-| Shift Technology | Junior Backend Developer, C# .Net - Paris | France - Paris |  | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8010298003) | 7d |
-| Harmattan Ai | RF Electronics Engineer (Radar) | Paris<br>Paris, France | 🔎 | [Apply](https://jobs.ashbyhq.com/harmattan-ai/96d3169b-40a2-4832-87a9-2b44ed53f911) | 8d |
-| Harmattan Ai | Signal Processing Engineer (Radar) | Paris<br>Paris, France | 🔎 | [Apply](https://jobs.ashbyhq.com/harmattan-ai/34738901-8da0-46c1-b152-062b82d2f795) | 9d |
-| Akasa | Software Engineer, Applied AI | South San Francisco<br>New York City, New York, United States<br>San Francisco<br>+1 more | 🔎 | [Apply](https://jobs.ashbyhq.com/akasa/73310b0b-a62f-416d-ab3e-c632926389d5) | 14d |
-| Discord | Data Scientist - Client Platform | San Francisco Bay Area | 🔎 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8840756002) | 14d |
-| Fehrandpeers | Entry-level Transportation Engineer/Planner (2026 and 2027) | San Francisco, California<br>Walnut Creek, California<br>Petaluma, California |  | [Apply](https://jobs.lever.co/fehrandpeers/918675df-6eca-46b2-b3e8-b7eedc601b55) | 14d |
-| Fehrandpeers | Entry-level Transportation Engineer/Planner (2027) | Roseville, California |  | [Apply](https://jobs.lever.co/fehrandpeers/8b74bc9b-191a-4a83-b1e6-93090f4c7b98) | 14d |
-| Mercor | Software Engineer, Systems &amp; Platform Applied AI | San Francisco<br>San Francisco, United States | ✈️ 🔎 | [Apply](https://jobs.ashbyhq.com/mercor/374cd009-516f-4a1f-abbf-bcca5287daae) | 14d |
-| Plasmidsaurus | Lab Robotics Research Associate | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/plasmidsaurus/7cd42601-e069-4330-a705-b505e1cdecce) | 14d |
-| Sierra | Software Engineer, Horizon | San Francisco, CA<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e) | 14d |
-| Aegis Ai | Infrastructure Engineer | San Francisco<br>New York City<br>United States<br>+1 more | 🔎 | [Apply](https://jobs.ashbyhq.com/aegis-ai/5c4ed808-0e24-4016-895c-198b96d11298) | 15d |
-| Kpler | ML Engineer - Power | Paris | 🔎 | [Apply](https://jobs.lever.co/kpler/10105b9b-ed9c-4ebe-8f3b-76b18edeccb8) | 15d |
-| Recall | Developer Experience Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/recall/3c187a7d-3d30-4298-8978-e8e3e7334b44) | 15d |
-| Span | Service Engineer | San Francisco | 🔎 | [Apply](https://jobs.ashbyhq.com/span/38024d14-db4c-4e3a-b240-d7ec96135126) | 15d |
-| Eightsleep | Hardware Prototype &amp; Test Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/eightsleep/0c41b8c2-ce59-47ee-a822-15b72be33d35) | 16d |
-| Loftorbital | Onboard Software Engineer - Core Services | San Francisco, CA | ✈️ 🔎 | [Apply](https://jobs.lever.co/loftorbital/fcc29575-a827-4cc2-b7d0-a81672ebebf4) | 16d |
-| Insitro | Full Stack Software Engineer, Lab Platform (LIMS) | South San Francisco, CA | 🔎 | [Apply](https://jobs.ashbyhq.com/insitro/0bff19c6-e165-4be7-a32a-6beeffb51ffa) | 17d |
-| Lyft | Backend Software Engineer, Airports | San Francisco, CA | 🔎 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002) | 20d |
-| Pallet | Software Engineer, Agent Delivery | San Francisco | 🔎 | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5242991007) | 20d |
-| HomeLight | Full Stack Engineer (D2C), San Francisco, CA | San Francisco, CA | 🔎 | [Apply](https://job-boards.greenhouse.io/homelight/jobs/8211717) | 21d |
-| Crusoe | Software Engineer I, Network | San Francisco, CA - US<br>Sunnyvale, CA - US<br>San Francisco, USA |  | [Apply](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | 22d |
-| Agero | Associate System Engineer | Clarksville, Tennessee, On Site |  | [Apply](https://www.agero.com/available-jobs?gh_jid=8795578002) | 23d |
-| Discord | Software Engineer, Distributed Systems | San Francisco Bay Area | ✈️ 🔎 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8806163002) | 23d |
-| Penumbrainc | Industrial Engineer I | Roseville, CA |  | [Apply](https://jobs.lever.co/penumbrainc/ab31be4e-c272-475d-91c5-aa64946747c6) | 23d |
-| Cogent Security | Software Engineer - Developer Experience | San Francisco, CA<br>New York, NY<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/cogent-security/86fbea69-21e9-4115-8674-60c2105079d8) | 24d |
-| Genmo | Research Engineer (New Grad) | San Francisco HQ<br>San Francisco, USA |  | [Apply](https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191) | 24d |
-| Miter | Software Engineer (New Grad) | New York City<br>San Francisco<br>New York, United States |  | [Apply](https://jobs.ashbyhq.com/miter/f4567649-a0eb-445d-bd00-a0673a26ec6d) | 24d |
-| Nextdoor | Software Engineer - Fullstack | San Francisco, CA | 🔎 | [Apply](https://about.nextdoor.com/careers-list/?gh_jid=8198165) | 24d |
-| Openai | Software Engineer, Applied Emerging Talent (2027) | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | 24d |
-| Discord | Software Engineer, Notifications | San Francisco Bay Area | 🔎 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8642213002) | 27d |
-| Rox Data Corp | Software Engineer (Onsite San Francisco) | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/rox-data-corp/d23ced1d-0e70-43b5-8f55-820caf56dc56) | 27d |
-| Abby Care | Applied AI Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/abby-care/12f2fe47-e905-41d4-b1e8-ca09a79d007e) | 28d |
-| Assembledhq | Software Engineer, Workforce Operations | San Francisco, CA<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/assembledhq/e0088228-6ad8-4503-af4a-359469e72a28) | 28d |
-| Formenergy | Battery Engineer I/II | Somerville, MA<br>Somerville, USA |  | [Apply](https://jobs.ashbyhq.com/formenergy/663c5327-c01f-4fd6-b4ce-47971a312859) | 28d |
-| Doctolib | Platform Security Engineer (x/f/m) | Paris, Paris, France | ✈️ 🔎 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/7989159003) | 29d |
-| Embedding Vc | Software Engineer, Agent | San Francisco Bay Area<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/embedding-vc/5d382f97-5444-45b6-b491-140e88d151a7) | 29d |
-| Embedding Vc | Software Engineer, Enterprise AI Platform | San Francisco Bay Area<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/embedding-vc/b49531ff-4850-4bab-8fbf-72a8ec299e60) | 29d |
-| Netic | Forward Deployed Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/netic/286a085a-2942-455a-a384-8c44ff5b7e85) | 29d |
-| The Global Talent Co | Junior Full Stack Engineer – AI | South Africa - Gauteng (ZipRecruiter)<br>Gauteng, South Africa |  | [Apply](https://jobs.ashbyhq.com/the-global-talent-co/fd1fa118-a3e2-4c7c-8181-25a7b92659f4) | 29d |
-| The Global Talent Co | Software Engineer | South Africa - Gauteng (ZipRecruiter)<br>Gauteng, South Africa | 🔎 | [Apply](https://jobs.ashbyhq.com/the-global-talent-co/73bfc1ef-4dc8-4027-b8c2-a6a70d20737e) | 29d |
+| Scality | Platform Security Engineer | Paris, France | 🔎 | [Apply](https://jobs.lever.co/scality/50b3d620-51bd-4a15-93e5-c96d2d47b621) | 0d |
+| Shift Technology | Junior Backend Developer, C# .Net - Paris | France - Paris |  | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8010298003) | 8d |
+| Harmattan Ai | RF Electronics Engineer (Radar) | Paris<br>Paris, France | 🔎 | [Apply](https://jobs.ashbyhq.com/harmattan-ai/96d3169b-40a2-4832-87a9-2b44ed53f911) | 9d |
+| Harmattan Ai | Signal Processing Engineer (Radar) | Paris<br>Paris, France | 🔎 | [Apply](https://jobs.ashbyhq.com/harmattan-ai/34738901-8da0-46c1-b152-062b82d2f795) | 10d |
+| Akasa | Software Engineer, Applied AI | South San Francisco<br>New York City, New York, United States<br>San Francisco<br>+1 more | 🔎 | [Apply](https://jobs.ashbyhq.com/akasa/73310b0b-a62f-416d-ab3e-c632926389d5) | 15d |
+| Discord | Data Scientist - Client Platform | San Francisco Bay Area | 🔎 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8840756002) | 15d |
+| Fehrandpeers | Entry-level Transportation Engineer/Planner (2026 and 2027) | San Francisco, California<br>Walnut Creek, California<br>Petaluma, California |  | [Apply](https://jobs.lever.co/fehrandpeers/918675df-6eca-46b2-b3e8-b7eedc601b55) | 15d |
+| Fehrandpeers | Entry-level Transportation Engineer/Planner (2027) | Roseville, California |  | [Apply](https://jobs.lever.co/fehrandpeers/8b74bc9b-191a-4a83-b1e6-93090f4c7b98) | 15d |
+| Mercor | Software Engineer, Systems &amp; Platform Applied AI | San Francisco<br>San Francisco, United States | ✈️ 🔎 | [Apply](https://jobs.ashbyhq.com/mercor/374cd009-516f-4a1f-abbf-bcca5287daae) | 15d |
+| Plasmidsaurus | Lab Robotics Research Associate | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/plasmidsaurus/7cd42601-e069-4330-a705-b505e1cdecce) | 15d |
+| Sierra | Software Engineer, Horizon | San Francisco, CA<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e) | 15d |
+| Aegis Ai | Infrastructure Engineer | San Francisco<br>New York City<br>United States<br>+1 more | 🔎 | [Apply](https://jobs.ashbyhq.com/aegis-ai/5c4ed808-0e24-4016-895c-198b96d11298) | 16d |
+| Kpler | ML Engineer - Power | Paris | 🔎 | [Apply](https://jobs.lever.co/kpler/10105b9b-ed9c-4ebe-8f3b-76b18edeccb8) | 16d |
+| Recall | Developer Experience Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/recall/3c187a7d-3d30-4298-8978-e8e3e7334b44) | 16d |
+| Span | Service Engineer | San Francisco | 🔎 | [Apply](https://jobs.ashbyhq.com/span/38024d14-db4c-4e3a-b240-d7ec96135126) | 16d |
+| Eightsleep | Hardware Prototype &amp; Test Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/eightsleep/0c41b8c2-ce59-47ee-a822-15b72be33d35) | 17d |
+| Loftorbital | Onboard Software Engineer - Core Services | San Francisco, CA | ✈️ 🔎 | [Apply](https://jobs.lever.co/loftorbital/fcc29575-a827-4cc2-b7d0-a81672ebebf4) | 17d |
+| Insitro | Full Stack Software Engineer, Lab Platform (LIMS) | South San Francisco, CA | 🔎 | [Apply](https://jobs.ashbyhq.com/insitro/0bff19c6-e165-4be7-a32a-6beeffb51ffa) | 18d |
+| Lyft | Backend Software Engineer, Airports | San Francisco, CA | 🔎 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002) | 21d |
+| Pallet | Software Engineer, Agent Delivery | San Francisco | 🔎 | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5242991007) | 21d |
+| HomeLight | Full Stack Engineer (D2C), San Francisco, CA | San Francisco, CA | 🔎 | [Apply](https://job-boards.greenhouse.io/homelight/jobs/8211717) | 22d |
+| Crusoe | Software Engineer I, Network | San Francisco, CA - US<br>Sunnyvale, CA - US<br>San Francisco, USA |  | [Apply](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | 23d |
+| Agero | Associate System Engineer | Clarksville, Tennessee, On Site |  | [Apply](https://www.agero.com/available-jobs?gh_jid=8795578002) | 24d |
+| Discord | Software Engineer, Distributed Systems | San Francisco Bay Area | ✈️ 🔎 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8806163002) | 24d |
+| Penumbrainc | Industrial Engineer I | Roseville, CA |  | [Apply](https://jobs.lever.co/penumbrainc/ab31be4e-c272-475d-91c5-aa64946747c6) | 24d |
+| Cogent Security | Software Engineer - Developer Experience | San Francisco, CA<br>New York, NY<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/cogent-security/86fbea69-21e9-4115-8674-60c2105079d8) | 25d |
+| Genmo | Research Engineer (New Grad) | San Francisco HQ<br>San Francisco, USA |  | [Apply](https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191) | 25d |
+| Miter | Software Engineer (New Grad) | New York City<br>San Francisco<br>New York, United States |  | [Apply](https://jobs.ashbyhq.com/miter/f4567649-a0eb-445d-bd00-a0673a26ec6d) | 25d |
+| Nextdoor | Software Engineer - Fullstack | San Francisco, CA | 🔎 | [Apply](https://about.nextdoor.com/careers-list/?gh_jid=8198165) | 25d |
+| Openai | Software Engineer, Applied Emerging Talent (2027) | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | 25d |
+| Discord | Software Engineer, Notifications | San Francisco Bay Area | 🔎 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8642213002) | 28d |
+| Rox Data Corp | Software Engineer (Onsite San Francisco) | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/rox-data-corp/d23ced1d-0e70-43b5-8f55-820caf56dc56) | 28d |
+| Abby Care | Applied AI Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/abby-care/12f2fe47-e905-41d4-b1e8-ca09a79d007e) | 29d |
+| Assembledhq | Software Engineer, Workforce Operations | San Francisco, CA<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/assembledhq/e0088228-6ad8-4503-af4a-359469e72a28) | 29d |
+| Formenergy | Battery Engineer I/II | Somerville, MA<br>Somerville, USA |  | [Apply](https://jobs.ashbyhq.com/formenergy/663c5327-c01f-4fd6-b4ce-47971a312859) | 29d |
+| Doctolib | Platform Security Engineer (x/f/m) | Paris, Paris, France | ✈️ 🔎 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/7989159003) | 1mo |
+| Embedding Vc | Software Engineer, Agent | San Francisco Bay Area<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/embedding-vc/5d382f97-5444-45b6-b491-140e88d151a7) | 1mo |
+| Embedding Vc | Software Engineer, Enterprise AI Platform | San Francisco Bay Area<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/embedding-vc/b49531ff-4850-4bab-8fbf-72a8ec299e60) | 1mo |
+| Netic | Forward Deployed Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/netic/286a085a-2942-455a-a384-8c44ff5b7e85) | 1mo |
+| The Global Talent Co | Junior Full Stack Engineer – AI | South Africa - Gauteng (ZipRecruiter)<br>Gauteng, South Africa |  | [Apply](https://jobs.ashbyhq.com/the-global-talent-co/fd1fa118-a3e2-4c7c-8181-25a7b92659f4) | 1mo |
+| The Global Talent Co | Software Engineer | South Africa - Gauteng (ZipRecruiter)<br>Gauteng, South Africa | 🔎 | [Apply](https://jobs.ashbyhq.com/the-global-talent-co/73bfc1ef-4dc8-4027-b8c2-a6a70d20737e) | 1mo |
 | Cursor | Software Engineer, New Grad 2027 | San Francisco<br>New York<br>San Francisco, United States |  | [Apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b) | 1mo |
 | Greptile | Product Engineer, Security | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/greptile/6e55fc50-514a-47be-bb5a-5e68f2a5f5cf) | 1mo |
 | Hover | Security Software Engineer | san_francisconew_york | 🔎 | [Apply](https://hover.to/job-posts/8187357/?gh_jid=8187357) | 1mo |
@@ -426,7 +431,6 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Greptile | Frontend Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02) | 1mo |
 | Greptile | Generalist Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/greptile/43c301c3-9416-4cf7-ac0b-5c30e6c6ac4b) | 1mo |
 | Greptile | Infrastructure Engineer | San Francisco<br>San Francisco, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/greptile/6be58456-a668-4f66-9a08-394dd9eb4842) | 1mo |
-| Highlightai | Early Career Product Engineer | San Francisco office<br>San Francisco, United States | ✈️ | [Apply](https://jobs.ashbyhq.com/highlightai/dd8526be-514c-46a5-98be-b068b10b4cbb) | 1mo |
 | Arbitalhealth | Full Stack Engineer | San Francisco OR Remote | 🛂 🔎 | [Apply](https://jobs.lever.co/arbitalhealth/609c9994-ccdc-4a2e-b34d-c25cfdccb0c6) | 1mo |
 | Koahlabs | Software Engineer, Early Career | San Francisco<br>San Francisco, United States |  | [Apply](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808) | 1mo |
 | Lyft | Machine Learning Engineer, Fulfillment | San Francisco, CA | 🔎 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8688633002?gh_jid=8688633002) | 1mo |
@@ -441,11 +445,10 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Notion | Software Engineer, New Grad (Dec 2026) | San Francisco, California<br>San Francisco, United States |  | [Apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | 1mo |
 | Langchain | Frontend Engineer, AI Observability &amp; Evals Platform | San Francisco, CA<br>Boston, MA<br>New York, NY<br>+1 more | 🔎 | [Apply](https://jobs.ashbyhq.com/langchain/f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c) | 1mo |
 | Mercor | Fullstack Software Engineer, Agent Platform | San Francisco<br>San Francisco, United States | ✈️ 🔎 | [Apply](https://jobs.ashbyhq.com/mercor/3750ee8a-64d1-46ac-b4f9-6a823f949034) | 1mo |
-| Babel Street | Data Warehouse Software Engineer | Somerville, Massachusetts, United States | 🔎 | [Apply](https://job-boards.greenhouse.io/babelstreet/jobs/8120325) | 1mo |
+| Babel Street | Data Warehouse Software Engineer | Somerville, Massachusetts, United States | 🔎 | [Apply](https://job-boards.greenhouse.io/babelstreet/jobs/8120325) | 2mo |
 | Dailywire | Social Platform Specialist | Nashville, TN | 🔎 | [Apply](https://jobs.lever.co/dailywire/af3a6f98-0446-4604-84d3-a49310d84edb) | 2mo |
 | Matterworks | Data Engineer | Somerville, MA (Hybrid)<br>Somerville, United States | 🔎 | [Apply](https://jobs.ashbyhq.com/matterworks/02f5d512-49f7-43c7-b989-b9ddd1b43923) | 2mo |
 | Nooks | Software Engineer, New Grad | San Francisco<br>San Francisco, United States |  | [Apply](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53) | 2mo |
-| Compa | Software Engineer (all teams) | Denver Office<br>San Francisco Office<br>Orange County HQ<br>+1 more | 🔎 | [Apply](https://jobs.ashbyhq.com/compa/ffbbc5c1-f8e9-444e-b4fb-89010a4a2398) | 2mo |
 | Harmattan Ai | Field Deployment Engineer | Paris<br>Paris, France | 🔎 | [Apply](https://jobs.ashbyhq.com/harmattan-ai/10a69b06-3fde-4eb5-993d-c4ec957642f3) | 2mo |
 | Glean | Machine Learning Engineer, Assistant Quality | San Francisco, CA | 🔎 | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4711484005) | 2mo |
 | Pariveda | Entry-Level Software Engineer | Dallas<br>Seattle<br>Houston<br>+7 more |  | [Apply](https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0) | 2mo |
@@ -472,36 +475,26 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Notion | Software Engineer, Early Career | San Francisco, California<br>San Francisco, United States |  | [Apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) | 3mo |
 | Notion | Software Engineer, Early Career (AI) | San Francisco, California<br>San Francisco, United States |  | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | 3mo |
 | Pave | Software Engineer, Compensation Planning | San Francisco, CA &amp; New York, NY | 🔎 | [Apply](https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4711335005) | 3mo |
-| Ema | IT Engineer, US | San Francisco \| United States (Remote)<br>United States | 🔎 | 🔒 | 9d |
-| Glean | Machine Learning Engineer, Search Quality | San Francisco, CA | 🔎 | 🔒 | 13d |
-| Jobgether | Medior AI Developer | South Africa | 🔎 | 🔒 | 13d |
-| Asana | Software Engineer | San Francisco | 🔎 | 🔒 | 14d |
-| Carvana | Customer Delivery Driver | Framingham, MA | 🔎 | 🔒 | 14d |
-| Astranis | Flight Software Associate (Summer 2027) | San Francisco | 🇺🇸 🔎 | 🔒 | 16d |
-| Astranis | Flight Software Associate (Winter 2027) | San Francisco | 🇺🇸 🔎 | 🔒 | 16d |
-| Point Digital Finance, Inc. | Associate Software Engineer | San Francisco, California, United States |  | 🔒 | 16d |
-| HomeLight | Data Engineer, San Francisco, CA | San Francisco, CA | 🔎 | 🔒 | 21d |
-| Carvana | Customer Delivery Driver- 4 Day Work Week! | Hendersonville, NC | 🔎 | 🔒 | 22d |
-| Skywarditsolutions | Junior Automation Test Engineer | Rockville, MD | 🇺🇸 | 🔒 | 27d |
-| Winamax | Junior ML / AI Engineer - Team Data (H/F) | Paris |  | 🔒 | 29d |
+| Ema | IT Engineer, US | San Francisco \| United States (Remote)<br>United States | 🔎 | 🔒 | 10d |
+| Glean | Machine Learning Engineer, Search Quality | San Francisco, CA | 🔎 | 🔒 | 14d |
+| Jobgether | Medior AI Developer | South Africa | 🔎 | 🔒 | 14d |
+| Astranis | Flight Software Associate (Summer 2027) | San Francisco | 🇺🇸 🔎 | 🔒 | 17d |
+| Astranis | Flight Software Associate (Winter 2027) | San Francisco | 🇺🇸 🔎 | 🔒 | 17d |
+| HomeLight | Data Engineer, San Francisco, CA | San Francisco, CA | 🔎 | 🔒 | 22d |
+| Skywarditsolutions | Junior Automation Test Engineer | Rockville, MD | 🇺🇸 | 🔒 | 28d |
+| Winamax | Junior ML / AI Engineer - Team Data (H/F) | Paris |  | 🔒 | 1mo |
 | Aechelon Technology | Associate Platform Engineer | South San Francisco, California | 🔎 | 🔒 | 1mo |
 | Baselayer | Data Engineer | San Francisco, California | 🔎 | 🔒 | 1mo |
-| Chime Financial, Inc | Software Engineer, Growth | San Francisco, CA, USA | 🔎 | 🔒 | 1mo |
 | Formic | Robotics Field Service Technician | San Francisco, CA \|\| Oakland, CA | 🗣️ Spanish 🔎 | 🔒 | 1mo |
-| Zip | Software Engineer, New Grad (2027 Start) | San Francisco<br>San Francisco, United States | ✈️ | 🔒 | 1mo |
+| Highlightai | Early Career Product Engineer | San Francisco office<br>San Francisco, United States | ✈️ | 🔒 | 1mo |
 | Langchain | Deployed Engineer (Early Career- SF) | San Francisco, CA<br>United States |  | 🔒 | 1mo |
 | CHAOS Industries | Software Engineer, Applied AI | San Francisco, California, United States | ✈️ 🔎 | 🔒 | 1mo |
+| Compa | Software Engineer (all teams) | Denver Office<br>San Francisco Office<br>Orange County HQ<br>+1 more | 🔎 | 🔒 | 2mo |
 | Retell Ai | Software Engineer (New Grad) | San Francisco Bay Area<br>Redwood City, United States |  | 🔒 | 2mo |
 | Retell Ai | Software Engineer, Founders Initiatives | San Francisco Bay Area<br>Redwood City, United States | 🔎 | 🔒 | 2mo |
-| Chime Financial, Inc | Full-Stack Engineer, Human Agent Tooling | San Francisco, CA, USA | 🔎 | 🔒 | 2mo |
 | Amperesand | Software Engineer-DevOps | Reno, Nevada, United States; San Francisco, California, United States | 🔎 | 🔒 | 2mo |
 | Nimble Robotics | HIL Test / Automation Engineer | San Francisco, CA | 🔎 | 🔒 | 2mo |
-| Carvana | Customer Delivery Driver | Louisville, KY | 🔎 | 🔒 | 2mo |
-| Carvana | Customer Service Delivery Driver | Louisville, KY | 🔎 | 🔒 | 2mo |
-| Carvana | Customer Service Vehicle Delivery Driver | Louisville, KY | 🔎 | 🔒 | 2mo |
 | Lavendo | QA Tester, Data Privacy Platform (DC) | Tysons<br>Greenville<br>Tysons, United States | ✈️ 🔎 | 🔒 | 2mo |
-| Chime Financial, Inc | Software Engineer, Infrastructure | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 🔎 | 🔒 | 3mo |
-| Chime Financial, Inc | Software Engineer, Membership | San Francisco, CA, USA | 🔎 | 🔒 | 3mo |
 | Astranis | HITL Test Engineer | San Francisco, CA | 🇺🇸 🔎 | 🔒 | 3mo |
 
 ## How this list is built
