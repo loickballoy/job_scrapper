@@ -2,7 +2,7 @@
 
 Graduate, junior and entry-level software / embedded / systems roles in **Switzerland, Netherlands, Canada, United Kingdom, Singapore, Hong Kong, Taiwan, Germany, Ireland, Nordics, Remote (Europe), France**, collected automatically from company job boards.
 
-**Last updated:** 2026-10-15 &nbsp;|&nbsp; **343** open roles at **233** companies &nbsp;|&nbsp; **39** added in the last 7 days
+**Last updated:** 2026-10-15 &nbsp;|&nbsp; **341** open roles at **233** companies &nbsp;|&nbsp; **41** added in the last 7 days
 
 ## Legend
 
@@ -17,7 +17,7 @@ Graduate, junior and entry-level software / embedded / systems roles in **Switze
 
 Flags are keyword heuristics computed from the posting text: always read the original posting.
 
-[🇨🇭 Switzerland (11)](#switzerland) · [🇳🇱 Netherlands (17)](#netherlands) · [🇨🇦 Canada (83)](#canada) · [🇬🇧 United Kingdom (65)](#united-kingdom) · [🇸🇬 Singapore (27)](#singapore) · [🇭🇰 Hong Kong (27)](#hong-kong) · [🇹🇼 Taiwan (7)](#taiwan) · [🇩🇪 Germany (19)](#germany) · [🇮🇪 Ireland (13)](#ireland) · [🇸🇪 Nordics (11)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (125)](#france)
+[🇨🇭 Switzerland (11)](#switzerland) · [🇳🇱 Netherlands (17)](#netherlands) · [🇨🇦 Canada (83)](#canada) · [🇬🇧 United Kingdom (66)](#united-kingdom) · [🇸🇬 Singapore (27)](#singapore) · [🇭🇰 Hong Kong (27)](#hong-kong) · [🇹🇼 Taiwan (7)](#taiwan) · [🇩🇪 Germany (19)](#germany) · [🇮🇪 Ireland (13)](#ireland) · [🇸🇪 Nordics (12)](#nordics) · [🌍 Remote (Europe) (1)](#remote-europe) · [🇫🇷 France (125)](#france)
 
 ## 🇨🇭 Switzerland
 
@@ -149,6 +149,7 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
+| Soho House &amp; Co. | Driver/ Luggage Porter - Soho Farmhouse | Soho Farmhouse - Chipping Norton, England, United Kingdom | 🔎 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/5004781101) | 0d |
 | Winton | Software Developer, Quantitative Platform | London, United Kingdom | 🔎 | [Apply](https://job-boards.eu.greenhouse.io/winton/jobs/5003627101) | 1d |
 | Trainline | Junior Machine Learning Engineer | London<br>London, United Kingdom |  | [Apply](https://jobs.ashbyhq.com/trainline/529e124d-d65d-4aa2-bde3-be81750cc521) | 2d |
 | DV Trading | Graduate Software Engineer (DV Commodities) | London |  | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4742955005) | 3d |
@@ -179,8 +180,6 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Optimove | Customer Data Engineer | Dundee, Scotland | 🛂 🔎 | [Apply](https://job-boards.eu.greenhouse.io/optimove/jobs/4971259101) | 1mo |
 | Dentology | Full Stack Product Engineer | UK (Remote)<br>United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/dentology/2e840997-9f77-40f6-95b2-313186ba5aca) | 1mo |
 | Kpler | Fullstack Engineer | United Kingdom | 🔎 | [Apply](https://jobs.lever.co/kpler/23e9e7db-ca92-4663-8b60-eed96c3859f1) | 1mo |
-| Olo | Mobile Software Engineer (Android) - Olo App | Belfast, Northern Ireland, Remote | 🔎 | [Apply](https://jobs.lever.co/olo/0198c715-79ae-47be-a73d-6d4fe4145705) | 1mo |
-| Olo | Mobile Software Engineer (iOS) - Olo App | Belfast, Northern Ireland, Remote | 🔎 | [Apply](https://jobs.lever.co/olo/a044d549-a8ed-4b20-8b0f-9ef96bc0d875) | 1mo |
 | Scale AI | Software Engineer - New Grad | London, UK |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) | 1mo |
 | Maven | Graduate Infrastructure Engineer Programme | London | ✈️ | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020) | 1mo |
 | Synthesia | Machine Learning Engineer / ML Engineer - Roleplay Sessions | Remote<br>UK Remote<br>London, United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/synthesia/637a0f3b-fd23-409a-b66b-917d1411d56e) | 1mo |
@@ -193,7 +192,6 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Stripe | Software Engineer, New Grad | London |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130930) | 1mo |
 | Healx | AI Engineer (Agentic Systems) | Cambridge | 🔎 | [Apply](https://jobs.lever.co/healx/45a2d4fc-c975-43a8-a4f0-9d74233e18b6) | 1mo |
 | Mind Foundry | Software Engineer | Oxford / Hybrid , England, United Kingdom | 🔎 | [Apply](https://www.mindfoundry.ai/about-us/careers?gh_jid=7900652003) | 1mo |
-| Dotmatics | Software Development Engineer in Test \| Luma | Remote - United Kingdom | 🔎 | [Apply](https://www.dotmatics.com/jobs/apply?gh_jid=4724715005) | 1mo |
 | Algo1 | Software Engineer (Platform) | London<br>London, United Kingdom | 🔎 | [Apply](https://jobs.ashbyhq.com/algo1/04f4a41e-f52b-4980-ab2d-d4690134ae65) | 1mo |
 | Optiver | Graduate Software Engineer | London, England, United Kingdom | ✈️ | [Apply](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002) | 1mo |
 | KnowBe4 | Graduate Data Scientist - Cyber Analytics (Position located in Cheltenham, United Kingdom) | Cheltenham, United Kingdom |  | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8700231002) | 2mo |
@@ -212,6 +210,9 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Jobgether | Python Automation Test Engineer | UK | 🔎 | 🔒 | 15d |
 | Helsing | Junior Software Engineer | Berlin; London; Munich | ✈️ | 🔒 | 1mo |
 | Helsing | Software Engineer (Early Careers) | Berlin; London; Munich | ✈️ | 🔒 | 1mo |
+| Olo | Mobile Software Engineer (Android) - Olo App | Belfast, Northern Ireland, Remote | 🔎 | 🔒 | 1mo |
+| Olo | Mobile Software Engineer (iOS) - Olo App | Belfast, Northern Ireland, Remote | 🔎 | 🔒 | 1mo |
+| Dotmatics | Software Development Engineer in Test \| Luma | Remote - United Kingdom | 🔎 | 🔒 | 1mo |
 | XTX Markets | Security Engineer | London, England, United Kingdom | 🔎 | 🔒 | 2mo |
 | Hudson River Trading | Junior Trading Systems Engineer | Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States |  | 🔒 | 3mo |
 
@@ -324,7 +325,6 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Stripe | Security Engineer, New Grad | Dublin |  | [Apply](https://stripe.com/jobs/search?gh_jid=8257892) | 8d |
 | Wayflyer | Graduate Software Engineer | Dublin<br>Dublin, Ireland |  | [Apply](https://jobs.ashbyhq.com/wayflyer/60b6dc63-bce1-407f-a5a7-023fde0d58e8) | 8d |
 | Stripe | Software Engineer, Security Business Enablement | Dublin | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8175656) | 15d |
-| Dotmatics | Software Development Engineer in Test \| Luma | Remote - Ireland | 🔎 | [Apply](https://www.dotmatics.com/jobs/apply?gh_jid=4737964005) | 20d |
 | Stripe | Software Engineer, New Grad | Dublin |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130881) | 1mo |
 | Stripe | Software Engineer, Stripe Tax | Dublin, Ireland | 🔎 | [Apply](https://stripe.com/jobs/search?gh_jid=8076626) | 2mo |
 | Toast | Android Software Engineer | Dublin, Ireland | 🔎 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8038744) | 3mo |
@@ -332,11 +332,13 @@ Flags are keyword heuristics computed from the posting text: always read the ori
 | Vectra | DevOps Engineer | Dublin ,Ireland | 🔎 | 🔒 | 14d |
 | Jobgether | Python Automation Test Engineer | Ireland | 🔎 | 🔒 | 15d |
 | Toast | Android Software Engineer | Dublin, Ireland | 🔎 | 🔒 | 15d |
+| Dotmatics | Software Development Engineer in Test \| Luma | Remote - Ireland | 🔎 | 🔒 | 20d |
 
 ## 🇸🇪 Nordics
 
 | Company | Role | Location | Flags | Apply | Age |
 |---|---|---|---|---|---|
+| IMC | Site Reliability Engineer | Aarhus, Central Denmark Region, Denmark | 🔎 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/5006975101) | 0d |
 | Tripadvisor | Jr Software Engineer | Reykjavik, Iceland |  | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/8221273) | 6d |
 | Zeta Global | Data Engineer | Copenhagen, Denmark | 🔎 | [Apply](https://job-boards.greenhouse.io/zetaglobal/jobs/6189408004) | 29d |
 | Smartly | Smartly Launchpad 2027 (Software Engineer) | Helsinki, Uusimaa, Finland | 🔎 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/6192724004) | 1mo |

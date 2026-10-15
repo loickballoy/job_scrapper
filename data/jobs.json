@@ -4578,7 +4578,7 @@
   },
   "greenhouse:dotmatics:4724715005": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-15",
    "company": "Dotmatics",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -4595,14 +4595,14 @@
    "posted": "2026-08-21",
    "region": "United Kingdom",
    "slug": "dotmatics",
-   "status": "open",
+   "status": "closed",
    "title": "Software Development Engineer in Test | Luma",
    "updated": "2026-10-01T11:49:29-04:00",
    "url": "https://www.dotmatics.com/jobs/apply?gh_jid=4724715005"
   },
   "greenhouse:dotmatics:4737964005": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-15",
    "company": "Dotmatics",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -4619,7 +4619,7 @@
    "posted": "2026-09-25",
    "region": "Ireland",
    "slug": "dotmatics",
-   "status": "open",
+   "status": "closed",
    "title": "Software Development Engineer in Test | Luma",
    "updated": "2026-10-01T11:49:29-04:00",
    "url": "https://www.dotmatics.com/jobs/apply?gh_jid=4737964005"
@@ -5369,6 +5369,30 @@
    "title": "C++ Software Engineer, Early Careers",
    "updated": "2026-10-13T11:40:55-04:00",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4945420101"
+  },
+  "greenhouse:imc:5006975101": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "IMC",
+   "employment_type": "",
+   "first_seen": "2026-10-15",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:imc:5006975101",
+   "last_seen": "2026-10-15",
+   "level_via": "description",
+   "locations": [
+    "Aarhus, Central Denmark Region, Denmark"
+   ],
+   "min_years": 2,
+   "posted": "2026-10-15",
+   "region": "Nordics",
+   "slug": "imc",
+   "status": "open",
+   "title": "Site Reliability Engineer",
+   "updated": "2026-10-15T07:07:49-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/5006975101"
   },
   "greenhouse:instacart:8249896": {
    "ats": "greenhouse",
@@ -6919,6 +6943,30 @@
    "title": "Smartly Launchpad 2027 (Software Engineer)",
    "updated": "2026-09-29T13:06:33-04:00",
    "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6192724004"
+  },
+  "greenhouse:sohohouseco:5004781101": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Soho House & Co.",
+   "employment_type": "",
+   "first_seen": "2026-10-15",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:sohohouseco:5004781101",
+   "last_seen": "2026-10-15",
+   "level_via": "description",
+   "locations": [
+    "Soho Farmhouse - Chipping Norton, England, United Kingdom"
+   ],
+   "min_years": null,
+   "posted": "2026-10-15",
+   "region": "United Kingdom",
+   "slug": "sohohouseco",
+   "status": "open",
+   "title": "Driver/ Luggage Porter - Soho Farmhouse",
+   "updated": "2026-10-15T06:45:15-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/sohohouseco/jobs/5004781101"
   },
   "greenhouse:solarisbank:8596685002": {
    "ats": "greenhouse",
@@ -9379,7 +9427,7 @@
   },
   "lever:olo:0198c715-79ae-47be-a73d-6d4fe4145705": {
    "ats": "lever",
-   "closed_on": null,
+   "closed_on": "2026-10-15",
    "company": "Olo",
    "employment_type": "Full-Time UK",
    "first_seen": "2026-09-29",
@@ -9396,7 +9444,7 @@
    "posted": "2026-09-14",
    "region": "United Kingdom",
    "slug": "olo",
-   "status": "open",
+   "status": "closed",
    "title": "Mobile Software Engineer (Android) - Olo App",
    "updated": "1789379540400",
    "url": "https://jobs.lever.co/olo/0198c715-79ae-47be-a73d-6d4fe4145705"
@@ -9427,7 +9475,7 @@
   },
   "lever:olo:a044d549-a8ed-4b20-8b0f-9ef96bc0d875": {
    "ats": "lever",
-   "closed_on": null,
+   "closed_on": "2026-10-15",
    "company": "Olo",
    "employment_type": "Full-Time UK",
    "first_seen": "2026-09-29",
@@ -9444,7 +9492,7 @@
    "posted": "2026-09-14",
    "region": "United Kingdom",
    "slug": "olo",
-   "status": "open",
+   "status": "closed",
    "title": "Mobile Software Engineer (iOS) - Olo App",
    "updated": "1789378500275",
    "url": "https://jobs.lever.co/olo/a044d549-a8ed-4b20-8b0f-9ef96bc0d875"
