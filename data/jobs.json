@@ -1,5 +1,49 @@
 {
  "jobs": {
+  "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e": {
+   "ats": "ashby",
+   "closed_on": null,
+   "company": "1Password",
+   "employment_type": "FullTime",
+   "first_seen": "2026-10-16",
+   "flags": [],
+   "key": "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
+   "last_seen": "2026-10-16",
+   "level_via": "title",
+   "locations": [
+    "Remote (United States | Canada)"
+   ],
+   "min_years": 0,
+   "posted": "2026-10-15",
+   "region": "Canada",
+   "slug": "1password",
+   "status": "open",
+   "title": "Junior Security Engineer",
+   "updated": "2026-10-15T19:50:56.180+00:00",
+   "url": "https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e"
+  },
+  "ashby:1password:a492badd-a02f-4360-aa15-7ea8c6e2c85e": {
+   "ats": "ashby",
+   "closed_on": null,
+   "company": "1Password",
+   "employment_type": "FullTime",
+   "first_seen": "2026-10-16",
+   "flags": [],
+   "key": "ashby:1password:a492badd-a02f-4360-aa15-7ea8c6e2c85e",
+   "last_seen": "2026-10-16",
+   "level_via": "title",
+   "locations": [
+    "Remote (United States | Canada)"
+   ],
+   "min_years": 0,
+   "posted": "2026-10-15",
+   "region": "Canada",
+   "slug": "1password",
+   "status": "open",
+   "title": "Junior Developer",
+   "updated": "2026-10-15T19:57:41.748+00:00",
+   "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e"
+  },
   "ashby:1password:b9ff2259-517c-4ec2-b92f-646be8bf12b6": {
    "ats": "ashby",
    "closed_on": null,
@@ -10,7 +54,7 @@
     "🔎"
    ],
    "key": "ashby:1password:b9ff2259-517c-4ec2-b92f-646be8bf12b6",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Remote (United States | Canada)"
@@ -34,7 +78,7 @@
     "🔎"
    ],
    "key": "ashby:1password:ec030dda-caff-4579-93ab-c9aa147a0241",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Remote (United States | Canada)"
@@ -111,7 +155,7 @@
     "🔎"
    ],
    "key": "ashby:aegis-ai:5c4ed808-0e24-4016-895c-198b96d11298",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -163,7 +207,7 @@
     "🔎"
    ],
    "key": "ashby:airwallex:78947679-269c-427f-9b09-36b716493088",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "SG - Singapore",
@@ -188,7 +232,7 @@
     "🔎"
    ],
    "key": "ashby:akasa:73310b0b-a62f-416d-ab3e-c632926389d5",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "South San Francisco",
@@ -215,7 +259,7 @@
     "🔎"
    ],
    "key": "ashby:algo1:04f4a41e-f52b-4980-ab2d-d4690134ae65",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London",
@@ -238,7 +282,7 @@
    "first_seen": "2026-10-13",
    "flags": [],
    "key": "ashby:almedia:3835f505-4132-4db7-8288-43e1d1529b24",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Berlin",
@@ -284,7 +328,7 @@
    "first_seen": "2026-10-14",
    "flags": [],
    "key": "ashby:almedia:ad0fe4c3-0440-4a09-b78b-6f739c3d917d",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Berlin",
@@ -309,7 +353,7 @@
     "🔎"
    ],
    "key": "ashby:assembledhq:e0088228-6ad8-4503-af4a-359469e72a28",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA",
@@ -334,7 +378,7 @@
     "🔎"
    ],
    "key": "ashby:assorthealth:53cd5958-f347-4854-9f96-a2795a4cfbde",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -359,7 +403,7 @@
     "🔎"
    ],
    "key": "ashby:avelios-medical:4f17b661-6367-481a-9790-167ec2bb7c55",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Munich",
@@ -384,7 +428,7 @@
     "🔎"
    ],
    "key": "ashby:benchling:3fbb23bd-c06c-49da-8834-4da67200275e",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA",
@@ -409,7 +453,7 @@
     "🔎"
    ],
    "key": "ashby:brainco:036ef874-49fc-4e6b-b162-7550d5616ca8",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London",
@@ -434,7 +478,7 @@
     "🔎"
    ],
    "key": "ashby:cambio:a4a06c3c-d78f-4ba5-8359-48fd3387f8a1",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Waterloo- Kitchener Canada",
@@ -461,7 +505,7 @@
     "🔎"
    ],
    "key": "ashby:circuithub:a23c03cf-b383-4834-a392-0d759c292d5b",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Cambridge, UK",
@@ -486,7 +530,7 @@
     "🔎"
    ],
    "key": "ashby:circuithub:cedd280e-75b4-4811-8595-9b0b96da74a5",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "UK",
@@ -511,7 +555,7 @@
     "🔎"
    ],
    "key": "ashby:cogent-security:86fbea69-21e9-4115-8674-60c2105079d8",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA",
@@ -537,7 +581,7 @@
     "🔎"
    ],
    "key": "ashby:coinhako:643cad9d-f6c2-4eb9-b34c-3e23d4869b63",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore",
@@ -587,7 +631,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:composio:01e0e7ad-44a2-44e8-9340-64ca70eff491",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "sf",
@@ -610,7 +654,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:composio:f83a19a0-8188-4100-9dd5-b259efb342e6",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "sf",
@@ -637,7 +681,7 @@
     "🔎"
    ],
    "key": "ashby:comstruct:5aab69c9-273a-41dd-a7a6-ad7789a32533",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Munich",
@@ -660,7 +704,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco, CA - US",
@@ -684,7 +728,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco",
@@ -710,7 +754,7 @@
     "🔎"
    ],
    "key": "ashby:decagon:69fd28a8-0de2-45a5-9b98-33725515add4",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -736,7 +780,7 @@
     "🔎"
    ],
    "key": "ashby:decagon:9231a1ba-d9f5-4ddd-b398-158297ea7db9",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -762,7 +806,7 @@
     "🔎"
    ],
    "key": "ashby:decagon:f84db19b-8de3-49d6-a954-c9ee2e365956",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -788,7 +832,7 @@
     "🔎"
    ],
    "key": "ashby:dentology:2e840997-9f77-40f6-95b2-313186ba5aca",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "UK (Remote)",
@@ -811,7 +855,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:docebo:b9a3b29d-cf7f-4760-aa21-5795c0f32bb1",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Toronto, Ontario",
@@ -836,7 +880,7 @@
     "🔎"
    ],
    "key": "ashby:doppel:1144603c-07da-48b9-b838-da27ebbd2f1b",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, New York",
@@ -862,7 +906,7 @@
     "🔎"
    ],
    "key": "ashby:eightsleep:0c41b8c2-ce59-47ee-a822-15b72be33d35",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -885,7 +929,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:eightsleep:ce1bebc3-42f5-4010-93cb-b31090b16294",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco",
@@ -910,7 +954,7 @@
     "🔎"
    ],
    "key": "ashby:eli:e2d00e2f-6d07-49db-a128-45f3d1085ceb",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Montreal (in-person)",
@@ -936,7 +980,7 @@
     "🔎"
    ],
    "key": "ashby:eliseai:92462da6-20e0-43d0-b03e-36e1469dffca",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "New York City",
@@ -963,7 +1007,7 @@
     "🔎"
    ],
    "key": "ashby:embedding-vc:5d382f97-5444-45b6-b491-140e88d151a7",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco Bay Area",
@@ -988,7 +1032,7 @@
     "🔎"
    ],
    "key": "ashby:embedding-vc:b49531ff-4850-4bab-8fbf-72a8ec299e60",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco Bay Area",
@@ -1014,7 +1058,7 @@
     "🔎"
    ],
    "key": "ashby:etched:e593a2f6-8f0b-4328-9fd9-b0ff85cf0827",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Taoyuan",
@@ -1040,7 +1084,7 @@
     "🔎"
    ],
    "key": "ashby:fiducial:b0de94f7-373b-40ad-a969-e9e1ead2e8e5",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Delft",
@@ -1063,7 +1107,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:formenergy:663c5327-c01f-4fd6-b4ce-47971a312859",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Somerville, MA",
@@ -1088,7 +1132,7 @@
     "🔎"
    ],
    "key": "ashby:generalrobotics:85908300-5d92-4479-a4c2-576c42bc49b7",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore"
@@ -1110,7 +1154,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:genmo:9b5477f4-97af-4aaa-b855-910c982ce191",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco HQ",
@@ -1135,7 +1179,7 @@
     "🔎"
    ],
    "key": "ashby:goventi:10672808-d9fa-4b8a-81c2-91aeac632a64",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore",
@@ -1160,7 +1204,7 @@
     "🔎"
    ],
    "key": "ashby:goventi:627b2388-20d5-4605-b58b-f8139e6b13bd",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore",
@@ -1185,7 +1229,7 @@
     "🔎"
    ],
    "key": "ashby:goventi:a0632e91-825f-494e-9bcd-8387851c4468",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore",
@@ -1210,7 +1254,7 @@
     "🔎"
    ],
    "key": "ashby:greptile:43c301c3-9416-4cf7-ac0b-5c30e6c6ac4b",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -1235,7 +1279,7 @@
     "🔎"
    ],
    "key": "ashby:greptile:6be58456-a668-4f66-9a08-394dd9eb4842",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -1260,7 +1304,7 @@
     "🔎"
    ],
    "key": "ashby:greptile:6e55fc50-514a-47be-bb5a-5e68f2a5f5cf",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -1285,7 +1329,7 @@
     "🔎"
    ],
    "key": "ashby:greptile:ce412761-a605-4540-9fb5-624c67ba2b02",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -1336,7 +1380,7 @@
     "🔎"
    ],
    "key": "ashby:handshake:c91b7ebf-2c69-4d91-809d-a30ea0b9dc18",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA",
@@ -1386,7 +1430,7 @@
     "🔎"
    ],
    "key": "ashby:harmattan-ai:34738901-8da0-46c1-b152-062b82d2f795",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Paris",
@@ -1411,7 +1455,7 @@
     "🔎"
    ],
    "key": "ashby:harmattan-ai:361b01cd-1e9a-4827-9bcc-36b8aa403aa3",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Paris",
@@ -1436,7 +1480,7 @@
     "🔎"
    ],
    "key": "ashby:harmattan-ai:96d3169b-40a2-4832-87a9-2b44ed53f911",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Paris",
@@ -1459,7 +1503,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:harmattan-ai:c5975afd-c1a8-4fdb-803b-e0fcb19a31b7",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Orly",
@@ -1484,7 +1528,7 @@
     "🔎"
    ],
    "key": "ashby:harvey:d2624850-8dd4-4eb4-b5dc-f386b715a26f",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -1532,7 +1576,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:hoxhunt:a12aaff1-1696-44f0-a9ff-e2268f8584b2",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Helsinki, Finland"
@@ -1556,7 +1600,7 @@
     "🔎"
    ],
    "key": "ashby:iceye:73a4dcb5-424d-46d1-87a8-d6c624be2b58",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Espoo",
@@ -1582,7 +1626,7 @@
     "🔎"
    ],
    "key": "ashby:iceye:cd035996-66ce-478b-beb9-d42a69293946",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Espoo",
@@ -1608,7 +1652,7 @@
     "🔎"
    ],
    "key": "ashby:idler:199e6e98-c12f-494f-8cd1-eba950d45860",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -1633,7 +1677,7 @@
     "🔎"
    ],
    "key": "ashby:inato:c5e9553e-4b83-4b87-ba9a-e757a3a0eab4",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "PARIS OFFICE or REMOTE FROM FRANCE",
@@ -1658,7 +1702,7 @@
     "🔎"
    ],
    "key": "ashby:incident:2f692a4d-91b4-4d0f-ae39-b38b68a24a27",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London",
@@ -1683,7 +1727,7 @@
     "🔎"
    ],
    "key": "ashby:incident:470989ec-6ac5-4800-beb1-0ba1684ec1ee",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London",
@@ -1706,7 +1750,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:incident:743b1624-7267-49a9-84a0-6223e414fbf0",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London",
@@ -1731,7 +1775,7 @@
     "🔎"
    ],
    "key": "ashby:insitro:0bff19c6-e165-4be7-a32a-6beeffb51ffa",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "South San Francisco, CA"
@@ -1755,7 +1799,7 @@
     "🔎"
    ],
    "key": "ashby:jane:b55d8462-d708-4487-bd1c-33f8e3b0ff10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Canada"
@@ -1802,7 +1846,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:koahlabs:197c931d-3cda-44b3-b26b-470976730808",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco",
@@ -1817,29 +1861,6 @@
    "updated": "2026-08-18T18:53:44.939+00:00",
    "url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808"
   },
-  "ashby:langchain:0f35c8e1-9318-411d-929b-04c60e6d8522": {
-   "ats": "ashby",
-   "closed_on": "2026-10-08",
-   "company": "Langchain",
-   "employment_type": "FullTime",
-   "first_seen": "2026-09-29",
-   "flags": [],
-   "key": "ashby:langchain:0f35c8e1-9318-411d-929b-04c60e6d8522",
-   "last_seen": "2026-10-07",
-   "level_via": "title",
-   "locations": [
-    "San Francisco, CA",
-    "United States"
-   ],
-   "min_years": 1,
-   "posted": "2026-08-17",
-   "region": "France",
-   "slug": "langchain",
-   "status": "closed",
-   "title": "Deployed Engineer (Early Career- SF)",
-   "updated": "2026-08-17T20:03:16.244+00:00",
-   "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522"
-  },
   "ashby:langchain:f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c": {
    "ats": "ashby",
    "closed_on": null,
@@ -1850,7 +1871,7 @@
     "🔎"
    ],
    "key": "ashby:langchain:f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA",
@@ -1867,33 +1888,6 @@
    "updated": "2026-08-12T01:29:10.739+00:00",
    "url": "https://jobs.ashbyhq.com/langchain/f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c"
   },
-  "ashby:lavendo:c3c0ea80-8234-41a6-9e32-0e69ccacb281": {
-   "ats": "ashby",
-   "closed_on": "2026-10-08",
-   "company": "Lavendo",
-   "employment_type": "FullTime",
-   "first_seen": "2026-09-29",
-   "flags": [
-    "✈️",
-    "🔎"
-   ],
-   "key": "ashby:lavendo:c3c0ea80-8234-41a6-9e32-0e69ccacb281",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Tysons",
-    "Greenville",
-    "Tysons, United States"
-   ],
-   "min_years": 2,
-   "posted": "2026-07-22",
-   "region": "France",
-   "slug": "lavendo",
-   "status": "closed",
-   "title": "QA Tester, Data Privacy Platform (DC)",
-   "updated": "2026-07-22T05:27:53.948+00:00",
-   "url": "https://jobs.ashbyhq.com/lavendo/c3c0ea80-8234-41a6-9e32-0e69ccacb281"
-  },
   "ashby:lemfi:4291590d-2b78-4b80-8d8e-4274fd769356": {
    "ats": "ashby",
    "closed_on": null,
@@ -1904,7 +1898,7 @@
     "🔎"
    ],
    "key": "ashby:lemfi:4291590d-2b78-4b80-8d8e-4274fd769356",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London",
@@ -1927,7 +1921,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:lendable:4479f8fd-0910-48f5-9525-62e55bef2edc",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London",
@@ -1950,7 +1944,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:lightfield:fc93a467-773d-4805-b342-bf470950732d",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "HQ: San Francisco",
@@ -1975,7 +1969,7 @@
     "🔎"
    ],
    "key": "ashby:lumilens:9173b39c-1f74-4410-b7c5-234620d151b4",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore",
@@ -2000,7 +1994,7 @@
     "🔎"
    ],
    "key": "ashby:lumilens:e042af40-4c44-4f4f-b9d9-b223e1e9e52a",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Bulim Square",
@@ -2025,7 +2019,7 @@
     "🔎"
    ],
    "key": "ashby:matterworks:02f5d512-49f7-43c7-b989-b9ddd1b43923",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Somerville, MA (Hybrid)",
@@ -2050,7 +2044,7 @@
     "🔎"
    ],
    "key": "ashby:medraai:cfaca7f4-d35b-4b5e-a5f4-5dd08abc8b5d",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -2065,6 +2059,33 @@
    "updated": "2026-07-27T03:47:14.445+00:00",
    "url": "https://jobs.ashbyhq.com/medraai/cfaca7f4-d35b-4b5e-a5f4-5dd08abc8b5d"
   },
+  "ashby:melotech:a7d99ee2-75fe-4a12-8f6c-1ecedaa68a3e": {
+   "ats": "ashby",
+   "closed_on": null,
+   "company": "Melotech",
+   "employment_type": "FullTime",
+   "first_seen": "2026-10-16",
+   "flags": [
+    "🔎"
+   ],
+   "key": "ashby:melotech:a7d99ee2-75fe-4a12-8f6c-1ecedaa68a3e",
+   "last_seen": "2026-10-16",
+   "level_via": "description",
+   "locations": [
+    "Berlin",
+    "New York",
+    "London",
+    "Berlin, Germany"
+   ],
+   "min_years": 2,
+   "posted": "2026-10-15",
+   "region": "United Kingdom",
+   "slug": "melotech",
+   "status": "open",
+   "title": "Full-Stack Developer, Music & Audio",
+   "updated": "2026-10-15T16:11:15.060+00:00",
+   "url": "https://jobs.ashbyhq.com/melotech/a7d99ee2-75fe-4a12-8f6c-1ecedaa68a3e"
+  },
   "ashby:mercor:374cd009-516f-4a1f-abbf-bcca5287daae": {
    "ats": "ashby",
    "closed_on": null,
@@ -2076,7 +2097,7 @@
     "🔎"
    ],
    "key": "ashby:mercor:374cd009-516f-4a1f-abbf-bcca5287daae",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -2102,7 +2123,7 @@
     "🔎"
    ],
    "key": "ashby:mercor:3750ee8a-64d1-46ac-b4f9-6a823f949034",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -2116,6 +2137,29 @@
    "title": "Fullstack Software Engineer, Agent Platform",
    "updated": "2026-08-11T21:58:07.743+00:00",
    "url": "https://jobs.ashbyhq.com/mercor/3750ee8a-64d1-46ac-b4f9-6a823f949034"
+  },
+  "ashby:method-crm:30be6b56-5712-4d02-9984-d17525d138b1": {
+   "ats": "ashby",
+   "closed_on": null,
+   "company": "Method Crm",
+   "employment_type": "FullTime",
+   "first_seen": "2026-10-16",
+   "flags": [],
+   "key": "ashby:method-crm:30be6b56-5712-4d02-9984-d17525d138b1",
+   "last_seen": "2026-10-16",
+   "level_via": "title",
+   "locations": [
+    "Toronto Office",
+    "Toronto, Canada"
+   ],
+   "min_years": 1,
+   "posted": "2026-10-15",
+   "region": "Canada",
+   "slug": "method-crm",
+   "status": "open",
+   "title": "Junior Quality Engineer",
+   "updated": "2026-10-15T15:43:30.129+00:00",
+   "url": "https://jobs.ashbyhq.com/method-crm/30be6b56-5712-4d02-9984-d17525d138b1"
   },
   "ashby:miter:f4567649-a0eb-445d-bd00-a0673a26ec6d": {
    "ats": "ashby",
@@ -2149,7 +2193,7 @@
    "first_seen": "2026-10-14",
    "flags": [],
    "key": "ashby:mollie:49a04ef0-16c4-42b3-a0bd-6b80ca6d5c02",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Amsterdam",
@@ -2174,7 +2218,7 @@
     "🔎"
    ],
    "key": "ashby:monaco:329d17b3-4c4c-4a22-b26e-e432ee60e86f",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -2199,7 +2243,7 @@
     "🔎"
    ],
    "key": "ashby:monumental:8c6037b8-30aa-4c1b-a155-b0fd18a32ee7",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Amsterdam",
@@ -2224,7 +2268,7 @@
     "🔎"
    ],
    "key": "ashby:nascent:08f07bcf-1646-4c87-830d-6d2f1f4cd615",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Onsite - Montreal, QC",
@@ -2250,7 +2294,7 @@
     "✈️"
    ],
    "key": "ashby:netgear:415ee500-8f36-4766-a9e9-a565827e52c2",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Cork, Ireland"
@@ -2274,7 +2318,7 @@
     "🔎"
    ],
    "key": "ashby:netic:286a085a-2942-455a-a384-8c44ff5b7e85",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -2297,7 +2341,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:netic:bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco",
@@ -2320,7 +2364,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:netic:d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco",
@@ -2345,7 +2389,7 @@
     "🔎"
    ],
    "key": "ashby:nivoda:a7336d59-9340-472a-88fc-e27e71625ff9",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Sweden",
@@ -2370,7 +2414,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:nooks:311d6e70-5cfa-4e80-89f6-fe00ac1f9f53",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco",
@@ -2393,7 +2437,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:notion:297b4ece-765f-4eea-b1b8-46057cb6501f",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco, California",
@@ -2416,7 +2460,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:notion:85947779-6b87-466a-98bc-30a640448c28",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco, California",
@@ -2439,7 +2483,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:notion:e32799d2-8ef8-4803-8189-c72514afa816",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco, California",
@@ -2464,7 +2508,7 @@
     "🔎"
    ],
    "key": "ashby:odysseyml:7d8ba104-9c38-4d0f-9a63-fab022ae5f13",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Palo Alto",
@@ -2491,7 +2535,7 @@
     "🔎"
    ],
    "key": "ashby:omni:de8286db-3605-4e37-a41d-84979d8d0ae8",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA",
@@ -2517,7 +2561,7 @@
     "🔎"
    ],
    "key": "ashby:openai:55150071-fce8-48f5-aea4-14ed78b83511",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -2542,7 +2586,7 @@
     "🔎"
    ],
    "key": "ashby:parafin:b6fbdb8d-aa25-4216-a0bb-9af06607bd96",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA",
@@ -2565,7 +2609,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:pariveda:cc4fc0be-c414-4aba-a15d-64daa03476a0",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Dallas",
@@ -2596,7 +2640,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:pavebank:7e3b6bf1-e719-4a8d-89d5-969d39ac4b09",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Singapore, Singapore"
@@ -2620,7 +2664,7 @@
     "🔎"
    ],
    "key": "ashby:pennylane:18f252a7-7b19-44b6-b175-6dfcaea8b2e8",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "All France (remote)",
@@ -2647,7 +2691,7 @@
     "🔎"
    ],
    "key": "ashby:photoroom:1073f2ae-906a-42ae-bb5f-96981a2555cf",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Paris",
@@ -2672,7 +2716,7 @@
     "🔎"
    ],
    "key": "ashby:plasmidsaurus:7cd42601-e069-4330-a705-b505e1cdecce",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -2697,7 +2741,7 @@
     "🔎"
    ],
    "key": "ashby:plaud:57a36c66-11ae-4e86-9587-987bfaac7fd8",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore",
@@ -2720,7 +2764,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:pylon-labs:38814ce7-217b-40f2-9ba5-8a7733a5691d",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco",
@@ -2743,7 +2787,7 @@
    "first_seen": "2026-10-07",
    "flags": [],
    "key": "ashby:quantum:4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London",
@@ -2768,7 +2812,7 @@
     "🔎"
    ],
    "key": "ashby:quantware:a6e6d422-2e98-47ad-8403-69f7b897f9ff",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Delft",
@@ -2793,7 +2837,7 @@
     "🔎"
    ],
    "key": "ashby:quantware:dd6f7584-20d8-4e3a-8359-e07950673d74",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Delft",
@@ -2808,6 +2852,30 @@
    "updated": "2026-09-25T13:15:56.915+00:00",
    "url": "https://jobs.ashbyhq.com/quantware/dd6f7584-20d8-4e3a-8359-e07950673d74"
   },
+  "ashby:quora:40659fe7-545e-4b08-b6d7-2567b18b9ed3": {
+   "ats": "ashby",
+   "closed_on": null,
+   "company": "Quora",
+   "employment_type": "FullTime",
+   "first_seen": "2026-10-16",
+   "flags": [],
+   "key": "ashby:quora:40659fe7-545e-4b08-b6d7-2567b18b9ed3",
+   "last_seen": "2026-10-16",
+   "level_via": "title",
+   "locations": [
+    "Remote - Multiple Locations",
+    "United States",
+    "Canada"
+   ],
+   "min_years": null,
+   "posted": "2026-10-15",
+   "region": "Canada",
+   "slug": "quora",
+   "status": "open",
+   "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
+   "updated": "2026-10-15T16:18:53.230+00:00",
+   "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3"
+  },
   "ashby:quora:cf34f80e-fe5c-454d-bc9a-4c59993ffda0": {
    "ats": "ashby",
    "closed_on": null,
@@ -2816,7 +2884,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:quora:cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Remote - Multiple Locations",
@@ -2842,7 +2910,7 @@
     "🔎"
    ],
    "key": "ashby:ready:c1d45bc6-85f5-4dfc-8cb0-8728abc0999c",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Remote",
@@ -2892,7 +2960,7 @@
     "🔎"
    ],
    "key": "ashby:relayfi:ca4e651d-498a-4d43-bbc4-9f817fd7c5a6",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, ON",
@@ -2917,7 +2985,7 @@
     "🔎"
    ],
    "key": "ashby:remarcable-inc:acdf01a7-f114-4c6f-8e1d-1e80b8fe599b",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Vancouver, BC",
@@ -2942,7 +3010,7 @@
     "🔎"
    ],
    "key": "ashby:rox-data-corp:d23ced1d-0e70-43b5-8f55-820caf56dc56",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -2967,7 +3035,7 @@
     "🔎"
    ],
    "key": "ashby:sentry:1c34ea48-ab62-4b71-a7d7-d0ac9eb07bba",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, Ontario, Canada",
@@ -2992,7 +3060,7 @@
     "🔎"
    ],
    "key": "ashby:sentry:67f20449-6b01-4cfa-92ca-bace58c10684",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, Ontario, Canada",
@@ -3017,7 +3085,7 @@
     "🔎"
    ],
    "key": "ashby:sentry:ac1cb3c4-5408-4912-8591-eea2a84480b7",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, California",
@@ -3042,7 +3110,7 @@
     "🔎"
    ],
    "key": "ashby:sentry:ac8fd540-f3a2-4306-b52c-195fdbd2b998",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, Ontario, Canada",
@@ -3067,7 +3135,7 @@
     "🔎"
    ],
    "key": "ashby:sentry:dc1e73a4-3cb8-4269-82b5-fdc6495b7e83",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, California",
@@ -3092,7 +3160,7 @@
     "🔎"
    ],
    "key": "ashby:serval:9e19f3dd-d287-4e42-a471-fce44550f87d",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -3118,7 +3186,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:sierra:149f368c-52d5-408f-ba26-ad888f318a00",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco, CA",
@@ -3142,7 +3210,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:sierra:79953d72-60d4-43e0-8c8c-6eccda422dce",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Singapore",
@@ -3167,7 +3235,7 @@
     "🔎"
    ],
    "key": "ashby:sierra:87f2a303-c2a1-484e-9e4b-efdcaafa440e",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA",
@@ -3193,7 +3261,7 @@
     "🔎"
    ],
    "key": "ashby:siftstack:be082df3-225c-4269-a159-bdb362b21c8e",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA",
@@ -3244,7 +3312,7 @@
     "🔎"
    ],
    "key": "ashby:snowflake:267d8514-2580-4ade-b5d1-0ea41d11cf62",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "US-CA-Menlo Park",
@@ -3271,7 +3339,7 @@
     "🔎"
    ],
    "key": "ashby:snowflake:99dfc810-9487-4ac1-91a8-50acefd05bae",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "DE-Berlin-Trion Building",
@@ -3296,7 +3364,7 @@
     "🔎"
    ],
    "key": "ashby:snowflake:a3a54f6d-2fb6-4962-8001-0732b890a859",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "CH-Zurich-Observe",
@@ -3321,7 +3389,7 @@
     "🔎"
    ],
    "key": "ashby:span:38024d14-db4c-4e3a-b240-d7ec96135126",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco"
@@ -3343,7 +3411,7 @@
    "first_seen": "2026-10-09",
    "flags": [],
    "key": "ashby:spare:174a7cb1-4564-4809-8a63-6510d6fbec73",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Vancouver, Canada"
@@ -3367,7 +3435,7 @@
     "🔎"
    ],
    "key": "ashby:stellar:84c23534-b520-4918-93cc-ce4c57b1c700",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco"
@@ -3391,7 +3459,7 @@
     "🔎"
    ],
    "key": "ashby:strala-ai:4c234cbb-477d-4caf-b35f-6518f5eb244e",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco",
@@ -3416,7 +3484,7 @@
     "🔎"
    ],
    "key": "ashby:synthesia:637a0f3b-fd23-409a-b66b-917d1411d56e",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Remote",
@@ -3443,7 +3511,7 @@
     "🔎"
    ],
    "key": "ashby:the-exploration-company:8a3ed28e-aa2e-4716-81aa-feb288ccd200",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Munich, Germany",
@@ -3469,7 +3537,7 @@
     "🔎"
    ],
    "key": "ashby:the-exploration-company:d442537b-2d18-4863-a797-14bc50ffb82b",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Bordeaux, France"
@@ -3493,7 +3561,7 @@
     "🔎"
    ],
    "key": "ashby:the-global-talent-co:73bfc1ef-4dc8-4027-b8c2-a6a70d20737e",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "South Africa - Gauteng (ZipRecruiter)",
@@ -3516,7 +3584,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:the-global-talent-co:fd1fa118-a3e2-4c7c-8181-25a7b92659f4",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "South Africa - Gauteng (ZipRecruiter)",
@@ -3539,7 +3607,7 @@
    "first_seen": "2026-10-13",
    "flags": [],
    "key": "ashby:trainline:529e124d-d65d-4aa2-bde3-be81750cc521",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London",
@@ -3564,7 +3632,7 @@
     "🔎"
    ],
    "key": "ashby:unlimitedindustries:f9a8d2e3-79a8-464b-9e1d-77aa649c38bd",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco"
@@ -3588,7 +3656,7 @@
     "🔎"
    ],
    "key": "ashby:unlimitedindustries:fe258c19-7d26-44df-bddf-9c9d0264f102",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco"
@@ -3613,7 +3681,7 @@
     "🔎"
    ],
    "key": "ashby:valinor:c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Cookeville, TN",
@@ -3636,7 +3704,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:valon:e08ad09a-4408-4210-8c1b-da6510f83324",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "New York",
@@ -3662,7 +3730,7 @@
     "🔎"
    ],
    "key": "ashby:vasco:fe861ca6-7a8f-4b3f-a53b-5c0a1273abc0",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Montreal Office",
@@ -3687,7 +3755,7 @@
     "🔎"
    ],
    "key": "ashby:viggle:98352e43-0f84-4df8-9f17-88520fe8314a",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto",
@@ -3712,7 +3780,7 @@
     "🔎"
    ],
    "key": "ashby:voldex:00b44f87-5b37-47fe-95df-b33a8fe14b56",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Remote - Canada",
@@ -3738,7 +3806,7 @@
    "first_seen": "2026-10-08",
    "flags": [],
    "key": "ashby:wayflyer:60b6dc63-bce1-407f-a5a7-023fde0d58e8",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Dublin",
@@ -3761,7 +3829,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:xero:8f7f41b3-85db-4029-ab1a-70c88c5dc987",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "CAN: Alberta Remote Worker",
@@ -3784,7 +3852,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "ashby:xero:ea1597a0-aa1c-43e4-9195-b279f003fe08",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "CAN: Alberta Remote Worker",
@@ -3832,7 +3900,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:abnormalsecurity:7816935003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Remote - Singapore"
@@ -3854,7 +3922,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:affirm:7985907003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Remote Canada"
@@ -3868,6 +3936,28 @@
    "updated": "2026-09-11T18:05:38-04:00",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003"
   },
+  "greenhouse:affirm:8017342003": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Affirm",
+   "employment_type": "",
+   "first_seen": "2026-10-16",
+   "flags": [],
+   "key": "greenhouse:affirm:8017342003",
+   "last_seen": "2026-10-16",
+   "level_via": "title",
+   "locations": [
+    "Remote Canada"
+   ],
+   "min_years": null,
+   "posted": "2026-10-15",
+   "region": "Canada",
+   "slug": "affirm",
+   "status": "open",
+   "title": "Software Engineer I, Fullstack (Search)",
+   "updated": "2026-10-15T17:31:11-04:00",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003"
+  },
   "greenhouse:agero:8795578002": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -3876,7 +3966,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:agero:8795578002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Clarksville, Tennessee, On Site"
@@ -3922,7 +4012,7 @@
    "first_seen": "2026-10-01",
    "flags": [],
    "key": "greenhouse:alayacare:8858343002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Montréal, Quebec, Canada"
@@ -3946,7 +4036,7 @@
     "🔎"
    ],
    "key": "greenhouse:alphafmcroles:8626344002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London"
@@ -3970,7 +4060,7 @@
     "🔎"
    ],
    "key": "greenhouse:appdirect:8635759002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Montreal, Canada"
@@ -3994,7 +4084,7 @@
     "🔎"
    ],
    "key": "greenhouse:appier:8238768",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Taipei, Taiwan"
@@ -4018,7 +4108,7 @@
     "🔎"
    ],
    "key": "greenhouse:applovin:4714437006",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore"
@@ -4029,7 +4119,7 @@
    "slug": "applovin",
    "status": "open",
    "title": "Full Stack Developer",
-   "updated": "2026-09-18T05:58:12-04:00",
+   "updated": "2026-10-16T05:47:39-04:00",
    "url": "https://boards.greenhouse.io/applovin/jobs/4714437006?gh_jid=4714437006"
   },
   "greenhouse:appnovation:8783637002": {
@@ -4042,7 +4132,7 @@
     "🔎"
    ],
    "key": "greenhouse:appnovation:8783637002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Hong Kong"
@@ -4066,7 +4156,7 @@
     "🔎"
    ],
    "key": "greenhouse:ascend21:5351565008",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco"
@@ -4090,7 +4180,7 @@
     "🔎"
    ],
    "key": "greenhouse:asteralabs:4730505005",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Aachen, North Rhine-Westphalia, Germany"
@@ -4112,7 +4202,7 @@
    "first_seen": "2026-10-13",
    "flags": [],
    "key": "greenhouse:axon:7667846003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London, England, United Kingdom"
@@ -4136,7 +4226,7 @@
     "🇺🇸"
    ],
    "key": "greenhouse:axon:8001665003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Australia; Melbourne, Victoria, Australia; Sydney, New South Wales, Australia"
@@ -4160,7 +4250,7 @@
     "🔎"
    ],
    "key": "greenhouse:babelstreet:8120325",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Somerville, Massachusetts, United States"
@@ -4184,7 +4274,7 @@
     "🔎"
    ],
    "key": "greenhouse:beyondtrust:8092313",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Remote Canada | Remote United Kingdom"
@@ -4200,7 +4290,7 @@
   },
   "greenhouse:bitgo:8886040002": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-16",
    "company": "BitGo",
    "employment_type": "",
    "first_seen": "2026-10-15",
@@ -4217,7 +4307,7 @@
    "posted": "2026-10-14",
    "region": "Canada",
    "slug": "bitgo",
-   "status": "open",
+   "status": "closed",
    "title": "Software Engineer - Trade",
    "updated": "2026-10-14T13:54:02-04:00",
    "url": "https://job-boards.greenhouse.io/bitgo/jobs/8886040002"
@@ -4230,7 +4320,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:blenheimchalcot:8207802",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London"
@@ -4252,7 +4342,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:blenheimchalcot:8207847",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London"
@@ -4276,7 +4366,7 @@
     "🔎"
    ],
    "key": "greenhouse:catapultsports:8176941",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London, UK"
@@ -4301,7 +4391,7 @@
     "🔎"
    ],
    "key": "greenhouse:cclim:4336129009",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Vancouver, British Columbia, Canada"
@@ -4315,31 +4405,6 @@
    "updated": "2026-09-30T15:15:00-04:00",
    "url": "https://job-boards.greenhouse.io/cclim/jobs/4336129009"
   },
-  "greenhouse:chaosindustries:5209420007": {
-   "ats": "greenhouse",
-   "closed_on": "2026-10-08",
-   "company": "CHAOS Industries",
-   "employment_type": "",
-   "first_seen": "2026-09-29",
-   "flags": [
-    "✈️",
-    "🔎"
-   ],
-   "key": "greenhouse:chaosindustries:5209420007",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "San Francisco, California, United States"
-   ],
-   "min_years": 2,
-   "posted": "2026-08-11",
-   "region": "France",
-   "slug": "chaosindustries",
-   "status": "closed",
-   "title": "Software Engineer, Applied AI",
-   "updated": "2026-08-11T13:04:38-04:00",
-   "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5209420007"
-  },
   "greenhouse:charlesriverassociates:8064581": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -4348,7 +4413,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:charlesriverassociates:8064581",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Toronto, ON, Canada"
@@ -4372,7 +4437,7 @@
     "🔎"
    ],
    "key": "greenhouse:clutch:6173901004",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Mississauga, Ontario, Canada"
@@ -4396,7 +4461,7 @@
     "🛂"
    ],
    "key": "greenhouse:deliveroo:8202627",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London, United Kingdom - Deliveroo"
@@ -4412,7 +4477,7 @@
   },
   "greenhouse:discord:8642213002": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-16",
    "company": "Discord",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -4429,7 +4494,7 @@
    "posted": "2026-09-11",
    "region": "France",
    "slug": "discord",
-   "status": "open",
+   "status": "closed",
    "title": "Software Engineer, Notifications",
    "updated": "2026-09-22T19:33:30-04:00",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8642213002"
@@ -4461,7 +4526,7 @@
   },
   "greenhouse:discord:8840756002": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-16",
    "company": "Discord",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -4478,7 +4543,7 @@
    "posted": "2026-09-24",
    "region": "France",
    "slug": "discord",
-   "status": "open",
+   "status": "closed",
    "title": "Data Scientist - Client Platform",
    "updated": "2026-09-24T17:26:49-04:00",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8840756002"
@@ -4516,7 +4581,7 @@
     "🔎"
    ],
    "key": "greenhouse:doctolib:7989159003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Paris, Paris, France"
@@ -4540,7 +4605,7 @@
     "🔎"
    ],
    "key": "greenhouse:doordashcanada:8131385",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, ON"
@@ -4562,7 +4627,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:doordashcanada:8176003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Toronto, ON"
@@ -4634,7 +4699,7 @@
     "🔎"
    ],
    "key": "greenhouse:drweng:8064537",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Montreal"
@@ -4658,7 +4723,7 @@
     "🔎"
    ],
    "key": "greenhouse:drweng:8176064",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore"
@@ -4680,7 +4745,7 @@
    "first_seen": "2026-10-13",
    "flags": [],
    "key": "greenhouse:dvtrading:4742955005",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London"
@@ -4694,6 +4759,30 @@
    "updated": "2026-10-12T14:18:28-04:00",
    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742955005"
   },
+  "greenhouse:dvtrading:4744284005": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "DV Trading",
+   "employment_type": "",
+   "first_seen": "2026-10-16",
+   "flags": [
+    "🔎"
+   ],
+   "key": "greenhouse:dvtrading:4744284005",
+   "last_seen": "2026-10-16",
+   "level_via": "description",
+   "locations": [
+    "London"
+   ],
+   "min_years": 2,
+   "posted": "2026-10-15",
+   "region": "United Kingdom",
+   "slug": "dvtrading",
+   "status": "open",
+   "title": "Quantitative Software Engineer (DV Commodities)",
+   "updated": "2026-10-15T15:05:02-04:00",
+   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4744284005"
+  },
   "greenhouse:eclipsetrading:8729457002": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -4702,7 +4791,7 @@
    "first_seen": "2026-09-30",
    "flags": [],
    "key": "greenhouse:eclipsetrading:8729457002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Hong Kong"
@@ -4724,7 +4813,7 @@
    "first_seen": "2026-09-30",
    "flags": [],
    "key": "greenhouse:eclipsetrading:8735474002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Hong Kong"
@@ -4746,7 +4835,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:elwoodtechnologies:6209718004",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London"
@@ -4770,7 +4859,7 @@
     "🗣️ Finnish"
    ],
    "key": "greenhouse:energyhub:8652307002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Helsinki, Finland"
@@ -4794,7 +4883,7 @@
     "🔎"
    ],
    "key": "greenhouse:engineersgate:8259284",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London"
@@ -4818,7 +4907,7 @@
     "🔎"
    ],
    "key": "greenhouse:engineersgate:8259307",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore"
@@ -4887,7 +4976,7 @@
    "first_seen": "2026-10-13",
    "flags": [],
    "key": "greenhouse:esri:5261327007",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Zurich, CH"
@@ -4911,7 +5000,7 @@
     "🔎"
    ],
    "key": "greenhouse:ethoslife:8635727002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, California, United States"
@@ -4935,7 +5024,7 @@
     "🔎"
    ],
    "key": "greenhouse:faire:8654106002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Kitchener-Waterloo, ON; Toronto, ON"
@@ -4959,7 +5048,7 @@
     "🔎"
    ],
    "key": "greenhouse:fanduel:8112084",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Edinburgh, Scotland, United Kingdom"
@@ -4981,7 +5070,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:fiveringsllc:5349905008",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London"
@@ -5052,7 +5141,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:fosphamarketing:8207747",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London"
@@ -5074,7 +5163,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:fosphamarketing:8207846",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London"
@@ -5098,7 +5187,7 @@
     "🔎"
    ],
    "key": "greenhouse:gingerlabsinc:5410136008",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco"
@@ -5122,7 +5211,7 @@
     "🔎"
    ],
    "key": "greenhouse:gleanwork:4711484005",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA"
@@ -5147,7 +5236,7 @@
     "🔎"
    ],
    "key": "greenhouse:guardsquare:8078823",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore"
@@ -5172,7 +5261,7 @@
     "🔎"
    ],
    "key": "greenhouse:guardsquare:8078846",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore"
@@ -5194,7 +5283,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:harborglobal:5238900007",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Remote, Canada; UK - Remote"
@@ -5216,7 +5305,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:hellofresh:8159710",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Berlin, Berlin, Germany"
@@ -5227,7 +5316,7 @@
    "slug": "hellofresh",
    "status": "open",
    "title": "Junior Recipe Developer (all genders)",
-   "updated": "2026-09-14T02:23:41-04:00",
+   "updated": "2026-10-15T10:25:10-04:00",
    "url": "https://careers.hellofresh.com/global/en/job/8159710?gh_jid=8159710"
   },
   "greenhouse:helsing:4972043101": {
@@ -5288,7 +5377,7 @@
     "🔎"
    ],
    "key": "greenhouse:homelight:8211717",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA"
@@ -5312,7 +5401,7 @@
     "🔎"
    ],
    "key": "greenhouse:hover:8187357",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "san_francisconew_york"
@@ -5334,7 +5423,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:imc:4667814101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Aarhus, Central Denmark Region, Denmark; Amsterdam, Netherlands"
@@ -5356,7 +5445,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:imc:4945420101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Amsterdam, Netherlands"
@@ -5380,7 +5469,7 @@
     "🔎"
    ],
    "key": "greenhouse:imc:5006975101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Aarhus, Central Denmark Region, Denmark"
@@ -5428,7 +5517,7 @@
     "🔎"
    ],
    "key": "greenhouse:intrinsicrobotics:6186649004",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Zurich, Switzerland"
@@ -5454,7 +5543,7 @@
     "🔎"
    ],
    "key": "greenhouse:isaraerospace:4976524101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Ottobrunn, Bavaria, Germany"
@@ -5468,28 +5557,6 @@
    "updated": "2026-10-05T16:16:30-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976524101"
   },
-  "greenhouse:ixllearning:8765751002": {
-   "ats": "greenhouse",
-   "closed_on": "2026-10-08",
-   "company": "IXL Learning",
-   "employment_type": "",
-   "first_seen": "2026-09-29",
-   "flags": [],
-   "key": "greenhouse:ixllearning:8765751002",
-   "last_seen": "2026-10-07",
-   "level_via": "title",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "min_years": null,
-   "posted": "2026-08-31",
-   "region": "Canada",
-   "slug": "ixllearning",
-   "status": "closed",
-   "title": "Software Developer, New Grad",
-   "updated": "2026-08-31T17:03:22-04:00",
-   "url": "https://www.ixl.com/company/jobs?gh_jid=8765751002"
-  },
   "greenhouse:jumptrading:8008306": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -5498,7 +5565,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:jumptrading:8008306",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Amsterdam"
@@ -5522,7 +5589,7 @@
     "🔎"
    ],
    "key": "greenhouse:jumptrading:8104832",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Shanghai or Hong Kong"
@@ -5546,7 +5613,7 @@
     "🔎"
    ],
    "key": "greenhouse:jumptrading:8105914",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore, Hong Kong"
@@ -5560,6 +5627,28 @@
    "updated": "2026-08-25T03:30:03-04:00",
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8105914"
   },
+  "greenhouse:justworks:8179702": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Justworks",
+   "employment_type": "",
+   "first_seen": "2026-10-16",
+   "flags": [],
+   "key": "greenhouse:justworks:8179702",
+   "last_seen": "2026-10-16",
+   "level_via": "title",
+   "locations": [
+    "Toronto, Canada"
+   ],
+   "min_years": 1,
+   "posted": "2026-10-15",
+   "region": "Canada",
+   "slug": "justworks",
+   "status": "open",
+   "title": "Associate Software Engineer - International",
+   "updated": "2026-10-15T15:58:50-04:00",
+   "url": "https://boards.greenhouse.io/justworks/jobs/8179702?gh_jid=8179702"
+  },
   "greenhouse:kalepa:6206643004": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -5568,7 +5657,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:kalepa:6206643004",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Europe (Full Remote)"
@@ -5592,7 +5681,7 @@
     "🔎"
    ],
    "key": "greenhouse:kargo:6120133004",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Locations: San Francisco"
@@ -5616,7 +5705,7 @@
     "🔎"
    ],
    "key": "greenhouse:kikoff:4393822009",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco"
@@ -5638,7 +5727,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:knowbe4:8700231002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Cheltenham, United Kingdom"
@@ -5652,6 +5741,28 @@
    "updated": "2026-08-20T15:27:17-04:00",
    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8700231002"
   },
+  "greenhouse:knowbe4:8894009002": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "KnowBe4",
+   "employment_type": "",
+   "first_seen": "2026-10-16",
+   "flags": [],
+   "key": "greenhouse:knowbe4:8894009002",
+   "last_seen": "2026-10-16",
+   "level_via": "title",
+   "locations": [
+    "Cheltenham, England, United Kingdom"
+   ],
+   "min_years": null,
+   "posted": "2026-10-16",
+   "region": "United Kingdom",
+   "slug": "knowbe4",
+   "status": "open",
+   "title": "Graduate Cybersecurity Threat Researcher (Position located in Cheltenham, United Kingdom)",
+   "updated": "2026-10-16T06:33:24-04:00",
+   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8894009002"
+  },
   "greenhouse:konradgroup:7976082003": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -5660,7 +5771,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:konradgroup:7976082003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Toronto"
@@ -5684,7 +5795,7 @@
     "🔎"
    ],
    "key": "greenhouse:konradgroup:7989358003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto"
@@ -5708,7 +5819,7 @@
     "🔎"
    ],
    "key": "greenhouse:konradgroup:7989359003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto"
@@ -5756,7 +5867,7 @@
     "🔎"
    ],
    "key": "greenhouse:lyft:8688633002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA"
@@ -5780,7 +5891,7 @@
     "🔎"
    ],
    "key": "greenhouse:lyft:8743513002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Montreal, Canada"
@@ -5805,7 +5916,7 @@
     "🔎"
    ],
    "key": "greenhouse:lyft:8760350002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Montreal, Canada"
@@ -5829,7 +5940,7 @@
     "🔎"
    ],
    "key": "greenhouse:lyft:8806570002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA"
@@ -5878,7 +5989,7 @@
     "🔎"
    ],
    "key": "greenhouse:mark43:8259202",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "United Kingdom"
@@ -5902,7 +6013,7 @@
     "✈️"
    ],
    "key": "greenhouse:mavensecuritiesholdingltd:8105020",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London"
@@ -5913,7 +6024,7 @@
    "slug": "mavensecuritiesholdingltd",
    "status": "open",
    "title": "Graduate Infrastructure Engineer Programme",
-   "updated": "2026-09-24T17:05:26-04:00",
+   "updated": "2026-10-16T05:28:13-04:00",
    "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020"
   },
   "greenhouse:mercury:6150432004": {
@@ -5926,7 +6037,7 @@
     "🔎"
    ],
    "key": "greenhouse:mercury:6150432004",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States"
@@ -5950,7 +6061,7 @@
     "🔎"
    ],
    "key": "greenhouse:mindfoundry:7900652003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Oxford / Hybrid , England, United Kingdom"
@@ -5974,7 +6085,7 @@
     "🔎"
    ],
    "key": "greenhouse:motional:7997992003",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore, Central, Singapore"
@@ -5999,7 +6110,7 @@
     "🔎"
    ],
    "key": "greenhouse:mozilla:8268333",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Remote Canada"
@@ -6010,7 +6121,7 @@
    "slug": "mozilla",
    "status": "open",
    "title": "Software Engineer, Firefox Desktop Integrations",
-   "updated": "2026-10-14T20:08:14-04:00",
+   "updated": "2026-10-15T12:13:13-04:00",
    "url": "https://job-boards.greenhouse.io/mozilla/jobs/8268333"
   },
   "greenhouse:mthreerecruitingportal:4696016006": {
@@ -6023,7 +6134,7 @@
     "🔎"
    ],
    "key": "greenhouse:mthreerecruitingportal:4696016006",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Halifax, Nova Scotia, Canada"
@@ -6047,7 +6158,7 @@
     "🔎"
    ],
    "key": "greenhouse:mthreerecruitingportal:4703132006",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Montréal, Quebec, Canada"
@@ -6061,30 +6172,6 @@
    "updated": "2026-09-24T12:10:09-04:00",
    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4703132006"
   },
-  "greenhouse:mthreerecruitingportal:4706309006": {
-   "ats": "greenhouse",
-   "closed_on": "2026-10-08",
-   "company": "mthree Recruiting Portal",
-   "employment_type": "",
-   "first_seen": "2026-09-29",
-   "flags": [
-    "🔎"
-   ],
-   "key": "greenhouse:mthreerecruitingportal:4706309006",
-   "last_seen": "2026-10-08",
-   "level_via": "description",
-   "locations": [
-    "Montréal, Quebec, Canada"
-   ],
-   "min_years": null,
-   "posted": "2026-08-18",
-   "region": "Canada",
-   "slug": "mthreerecruitingportal",
-   "status": "closed",
-   "title": "Ingénieure SRE / Site Reliability Engineer",
-   "updated": "2026-09-24T12:10:09-04:00",
-   "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4706309006"
-  },
   "greenhouse:mthreerecruitingportal:4710618006": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -6093,7 +6180,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:mthreerecruitingportal:4710618006",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Halifax, Nova Scotia, Canada"
@@ -6117,7 +6204,7 @@
     "🗣️ French"
    ],
    "key": "greenhouse:mthreerecruitingportal:4713052006",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Montréal, Quebec, Canada"
@@ -6142,7 +6229,7 @@
     "🔎"
    ],
    "key": "greenhouse:mthreerecruitingportal:4719959006",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Montréal, Quebec, Canada"
@@ -6164,7 +6251,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:mw-tech-grad:8645263002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London"
@@ -6186,7 +6273,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:mw-tech-grad:8646976002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Singapore"
@@ -6208,7 +6295,7 @@
    "first_seen": "2026-09-30",
    "flags": [],
    "key": "greenhouse:mw-tech-grad:8646984002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Hong Kong"
@@ -6233,7 +6320,7 @@
     "🔎"
    ],
    "key": "greenhouse:nebius:4965819101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Amsterdam, Netherlands"
@@ -6258,7 +6345,7 @@
     "🔎"
    ],
    "key": "greenhouse:nebius:4967085101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Amsterdam, Netherlands"
@@ -6282,7 +6369,7 @@
     "🔎"
    ],
    "key": "greenhouse:neweratech:8767855002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Tampines Industrial Crescent, Singapore"
@@ -6306,7 +6393,7 @@
     "🔎"
    ],
    "key": "greenhouse:nex:5425458008",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Hong Kong"
@@ -6330,7 +6417,7 @@
     "🔎"
    ],
    "key": "greenhouse:nextdoor:8198165",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA"
@@ -6354,7 +6441,7 @@
     "🔎"
    ],
    "key": "greenhouse:nimblerobotics:4371388009",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA"
@@ -6378,7 +6465,7 @@
     "🔎"
    ],
    "key": "greenhouse:novisto78:4722441005",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Montreal"
@@ -6403,7 +6490,7 @@
     "🔎"
    ],
    "key": "greenhouse:optimove:4971259101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Dundee, Scotland"
@@ -6414,7 +6501,7 @@
    "slug": "optimove",
    "status": "open",
    "title": "Customer Data Engineer",
-   "updated": "2026-09-24T15:12:45-04:00",
+   "updated": "2026-10-15T11:30:41-04:00",
    "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4971259101"
   },
   "greenhouse:optimove:4986565101": {
@@ -6428,7 +6515,7 @@
     "🔎"
    ],
    "key": "greenhouse:optimove:4986565101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Dundee, Scotland"
@@ -6439,7 +6526,7 @@
    "slug": "optimove",
    "status": "open",
    "title": "Machine Learning Engineer",
-   "updated": "2026-10-04T07:32:08-04:00",
+   "updated": "2026-10-15T11:30:41-04:00",
    "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4986565101"
   },
   "greenhouse:optiverus:8561858002": {
@@ -6452,7 +6539,7 @@
     "✈️"
    ],
    "key": "greenhouse:optiverus:8561858002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Amsterdam, North Holland, Netherlands"
@@ -6476,7 +6563,7 @@
     "✈️"
    ],
    "key": "greenhouse:optiverus:8561859002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London, England, United Kingdom"
@@ -6500,7 +6587,7 @@
     "🔎"
    ],
    "key": "greenhouse:pallet:5242991007",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco"
@@ -6524,7 +6611,7 @@
     "🔎"
    ],
    "key": "greenhouse:paveakatroveinformationtechnologies:4711335005",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA & New York, NY"
@@ -6548,7 +6635,7 @@
     "✈️"
    ],
    "key": "greenhouse:pinterest:8267930",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Zurich, CH"
@@ -6572,7 +6659,7 @@
     "🔎"
    ],
    "key": "greenhouse:planetlabs:8204493",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Berlin, Germany"
@@ -6597,7 +6684,7 @@
     "🔎"
    ],
    "key": "greenhouse:planetscale:4389100009",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco Office"
@@ -6621,7 +6708,7 @@
     "🔎"
    ],
    "key": "greenhouse:quberesearchandtechnologies:8809530002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Hong Kong"
@@ -6637,7 +6724,7 @@
   },
   "greenhouse:rapidfortinc:4414108009": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-16",
    "company": "RapidFort, Inc.",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -6655,7 +6742,7 @@
    "posted": "2026-09-21",
    "region": "United Kingdom",
    "slug": "rapidfortinc",
-   "status": "open",
+   "status": "closed",
    "title": "Platform Operations Engineer",
    "updated": "2026-09-21T18:40:49-04:00",
    "url": "https://job-boards.greenhouse.io/rapidfortinc/jobs/4414108009"
@@ -6694,7 +6781,7 @@
     "🔎"
    ],
    "key": "greenhouse:revivn:5182560007",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Fresno, CA"
@@ -6718,7 +6805,7 @@
     "🔎"
    ],
    "key": "greenhouse:robinhood:8189007",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, Canada"
@@ -6742,7 +6829,7 @@
     "🔎"
    ],
    "key": "greenhouse:robinhood:8258307",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, Canada"
@@ -6766,7 +6853,7 @@
     "🔎"
    ],
    "key": "greenhouse:roboyo:4978858101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Munich Germany"
@@ -6790,7 +6877,7 @@
     "🔎"
    ],
    "key": "greenhouse:roboyo:5001122101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London (Remote)"
@@ -6814,7 +6901,7 @@
     "🔎"
    ],
    "key": "greenhouse:roku:8096018",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Cambridge, United Kingdom"
@@ -6838,7 +6925,7 @@
     "🔎"
    ],
    "key": "greenhouse:saltxc:5219899007",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, Canada"
@@ -6860,7 +6947,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:scaleai:4730862005",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London, UK"
@@ -6906,7 +6993,7 @@
     "🔎"
    ],
    "key": "greenhouse:simplifynext:5236654007",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore"
@@ -6930,7 +7017,7 @@
     "🔎"
    ],
    "key": "greenhouse:smartlyio:6192724004",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Helsinki, Uusimaa, Finland"
@@ -6941,7 +7028,7 @@
    "slug": "smartlyio",
    "status": "open",
    "title": "Smartly Launchpad 2027 (Software Engineer)",
-   "updated": "2026-09-29T13:06:33-04:00",
+   "updated": "2026-10-16T02:53:50-04:00",
    "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6192724004"
   },
   "greenhouse:sohohouseco:5004781101": {
@@ -6954,7 +7041,7 @@
     "🔎"
    ],
    "key": "greenhouse:sohohouseco:5004781101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Soho Farmhouse - Chipping Norton, England, United Kingdom"
@@ -6978,7 +7065,7 @@
     "🔎"
    ],
    "key": "greenhouse:solarisbank:8596685002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Berlin"
@@ -6992,6 +7079,31 @@
    "updated": "2026-10-01T03:01:04-04:00",
    "url": "https://job-boards.greenhouse.io/solarisbank/jobs/8596685002"
   },
+  "greenhouse:spektrum:5007423101": {
+   "ats": "greenhouse",
+   "closed_on": null,
+   "company": "Spektrum",
+   "employment_type": "",
+   "first_seen": "2026-10-16",
+   "flags": [
+    "🇺🇸",
+    "🔎"
+   ],
+   "key": "greenhouse:spektrum:5007423101",
+   "last_seen": "2026-10-16",
+   "level_via": "description",
+   "locations": [
+    "The Hague, Netherlands"
+   ],
+   "min_years": 1,
+   "posted": "2026-10-15",
+   "region": "Netherlands",
+   "slug": "spektrum",
+   "status": "open",
+   "title": "Data Engineering Specialist",
+   "updated": "2026-10-15T10:30:09-04:00",
+   "url": "https://spektrum-group.com/jobs?gh_jid=5007423101"
+  },
   "greenhouse:squarepointcapital:6380892": {
    "ats": "greenhouse",
    "closed_on": null,
@@ -7000,7 +7112,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:squarepointcapital:6380892",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "New York, London, Singapore"
@@ -7024,7 +7136,7 @@
     "🔎"
    ],
    "key": "greenhouse:stepstone:8059417",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London"
@@ -7048,7 +7160,7 @@
     "🔎"
    ],
    "key": "greenhouse:stripe:8040825",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Taipei City"
@@ -7072,7 +7184,7 @@
     "🔎"
    ],
    "key": "greenhouse:stripe:8076626",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Dublin, Ireland"
@@ -7094,7 +7206,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:stripe:8130881",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Dublin"
@@ -7116,7 +7228,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:stripe:8130930",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London"
@@ -7138,7 +7250,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:stripe:8157838",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Toronto"
@@ -7160,7 +7272,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:stripe:8160776",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Singapore"
@@ -7184,7 +7296,7 @@
     "🔎"
    ],
    "key": "greenhouse:stripe:8175656",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Dublin"
@@ -7230,7 +7342,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:stripe:8212517",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Toronto"
@@ -7254,7 +7366,7 @@
     "🔎"
    ],
    "key": "greenhouse:stripe:8231439",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, Vancouver, Canada-Remote"
@@ -7276,7 +7388,7 @@
    "first_seen": "2026-10-07",
    "flags": [],
    "key": "greenhouse:stripe:8257892",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Dublin"
@@ -7300,7 +7412,7 @@
     "🔎"
    ],
    "key": "greenhouse:stripe:8260985",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, Canada"
@@ -7349,7 +7461,7 @@
     "🔎"
    ],
    "key": "greenhouse:teampicnic:8185415",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Amsterdam, North Holland, Netherlands"
@@ -7375,7 +7487,7 @@
     "🔎"
    ],
    "key": "greenhouse:teampicnic:8195273",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Amsterdam, North Holland, Netherlands"
@@ -7391,7 +7503,7 @@
   },
   "greenhouse:telnyx54:7989641003": {
    "ats": "greenhouse",
-   "closed_on": null,
+   "closed_on": "2026-10-16",
    "company": "Telnyx",
    "employment_type": "",
    "first_seen": "2026-09-29",
@@ -7408,7 +7520,7 @@
    "posted": "2026-09-09",
    "region": "Canada",
    "slug": "telnyx54",
-   "status": "open",
+   "status": "closed",
    "title": "Software Engineer, AI - Python",
    "updated": "2026-09-11T12:46:09-04:00",
    "url": "https://job-boards.greenhouse.io/telnyx54/jobs/7989641003"
@@ -7423,7 +7535,7 @@
     "🔎"
    ],
    "key": "greenhouse:toast:8038744",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Dublin, Ireland"
@@ -7471,7 +7583,7 @@
     "🔎"
    ],
    "key": "greenhouse:tripactions:8174884",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Berlin, Germany"
@@ -7493,7 +7605,7 @@
    "first_seen": "2026-10-13",
    "flags": [],
    "key": "greenhouse:tripadvisor:8221273",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Reykjavik, Iceland"
@@ -7515,7 +7627,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:tripadvisor:8239945",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London, UK"
@@ -7607,7 +7719,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "greenhouse:winton:4986765101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London, United Kingdom"
@@ -7631,7 +7743,7 @@
     "🔎"
    ],
    "key": "greenhouse:winton:5003627101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London, United Kingdom"
@@ -7655,7 +7767,7 @@
     "🔎"
    ],
    "key": "greenhouse:worldquant:4701096006",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Singapore"
@@ -7679,7 +7791,7 @@
     "🔎"
    ],
    "key": "greenhouse:wpp:8551651002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Copenhagen, Capital, Denmark"
@@ -7703,7 +7815,7 @@
     "🔎"
    ],
    "key": "greenhouse:wpp:8642402002",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Copenhagen, Denmark"
@@ -7797,7 +7909,7 @@
     "🔎"
    ],
    "key": "greenhouse:yext:8160649",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London, UK"
@@ -7821,7 +7933,7 @@
     "🔎"
    ],
    "key": "greenhouse:zetaglobal:6189408004",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Copenhagen, Denmark"
@@ -7845,7 +7957,7 @@
     "🔎"
    ],
    "key": "greenhouse:zetaglobal:6210511004",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London, UK"
@@ -7869,7 +7981,7 @@
     "🔎"
    ],
    "key": "greenhouse:zetaglobal:6210648004",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Berlin, Germany"
@@ -7893,7 +8005,7 @@
     "🔎"
    ],
    "key": "greenhouse:zonecompanysoftwareconsultingllc:5415714008",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "United Kingdom"
@@ -7918,7 +8030,7 @@
     "🔎"
    ],
    "key": "lever:arbitalhealth:609c9994-ccdc-4a2e-b34d-c25cfdccb0c6",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco OR Remote"
@@ -7942,7 +8054,7 @@
     "🔎"
    ],
    "key": "lever:aviyatech:13d0fc94-b878-42ce-99e0-32063c3427e9",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Mississauga, Ontario"
@@ -7966,7 +8078,7 @@
     "🔎"
    ],
    "key": "lever:aviyatech:5cde8391-df30-42fe-8671-e1a1fdddb3a3",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Longueuil, Quebec"
@@ -8021,7 +8133,7 @@
     "🔎"
    ],
    "key": "lever:binance:0e95f863-3dd6-4ffe-a01d-4a3c2b473aff",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Asia",
@@ -8037,57 +8149,6 @@
    "updated": "1790300671971",
    "url": "https://jobs.lever.co/binance/0e95f863-3dd6-4ffe-a01d-4a3c2b473aff"
   },
-  "lever:binance:10e9173b-7cef-402b-9223-ac61599f005c": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Binance",
-   "employment_type": "Binance Accelerator Program",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:binance:10e9173b-7cef-402b-9223-ac61599f005c",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Asia",
-    "Taiwan, Taipei",
-    "Hong Kong"
-   ],
-   "min_years": null,
-   "posted": "2026-07-07",
-   "region": "Hong Kong",
-   "slug": "binance",
-   "status": "closed",
-   "title": "Binance Accelerator Program -AI Agent Observability Engineer",
-   "updated": "1783438202736",
-   "url": "https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c"
-  },
-  "lever:binance:3a2ca7e0-e2c9-4248-b8fe-0de5d05dee1c": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Binance",
-   "employment_type": "Full-time Onsite or Remote",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:binance:3a2ca7e0-e2c9-4248-b8fe-0de5d05dee1c",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Asia",
-    "Taiwan, Taipei"
-   ],
-   "min_years": 1,
-   "posted": "2026-08-18",
-   "region": "Taiwan",
-   "slug": "binance",
-   "status": "closed",
-   "title": "AI Agent Engineer",
-   "updated": "1787051161163",
-   "url": "https://jobs.lever.co/binance/3a2ca7e0-e2c9-4248-b8fe-0de5d05dee1c"
-  },
   "lever:binance:439d6f0a-bf27-45b5-8cd2-0783d105bb7b": {
    "ats": "lever",
    "closed_on": null,
@@ -8098,7 +8159,7 @@
     "🔎"
    ],
    "key": "lever:binance:439d6f0a-bf27-45b5-8cd2-0783d105bb7b",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Asia",
@@ -8114,32 +8175,6 @@
    "updated": "1783992404817",
    "url": "https://jobs.lever.co/binance/439d6f0a-bf27-45b5-8cd2-0783d105bb7b"
   },
-  "lever:binance:43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Binance",
-   "employment_type": "Binance Accelerator Program",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:binance:43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Asia",
-    "Taiwan, Taipei",
-    "Hong Kong"
-   ],
-   "min_years": null,
-   "posted": "2026-07-22",
-   "region": "Hong Kong",
-   "slug": "binance",
-   "status": "closed",
-   "title": "Binance Accelerator Program - Full Stack Engineer (AI)",
-   "updated": "1784698160234",
-   "url": "https://jobs.lever.co/binance/43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac"
-  },
   "lever:binance:46a73996-5e3c-4746-928a-148b754cac5c": {
    "ats": "lever",
    "closed_on": null,
@@ -8150,7 +8185,7 @@
     "🔎"
    ],
    "key": "lever:binance:46a73996-5e3c-4746-928a-148b754cac5c",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Asia",
@@ -8175,7 +8210,7 @@
     "🔎"
    ],
    "key": "lever:binance:53f4727b-89a8-4b19-8b1a-65781808c5dd",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Asia",
@@ -8201,7 +8236,7 @@
     "🔎"
    ],
    "key": "lever:binance:6d2c2e8e-1211-42c6-ab97-9a88879ea2b9",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Asia",
@@ -8225,7 +8260,7 @@
    "first_seen": "2026-09-30",
    "flags": [],
    "key": "lever:binance:88fe7933-859b-47e7-a1a0-29c5e14de573",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Asia",
@@ -8241,35 +8276,6 @@
    "updated": "1787219240845",
    "url": "https://jobs.lever.co/binance/88fe7933-859b-47e7-a1a0-29c5e14de573"
   },
-  "lever:binance:990a9661-c72f-4d91-a69d-c0ada1de40b0": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Binance",
-   "employment_type": "Pioneer Talent Program",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:binance:990a9661-c72f-4d91-a69d-c0ada1de40b0",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Asia",
-    "Hong Kong",
-    "Taiwan, Taipei",
-    "Kuala Lumpur",
-    "Thailand, Bangkok",
-    "UAE, Dubai"
-   ],
-   "min_years": 1,
-   "posted": "2026-07-22",
-   "region": "Hong Kong",
-   "slug": "binance",
-   "status": "closed",
-   "title": "Pioneer Talent Program - Full Stack Engineer (Front-end Oriented)",
-   "updated": "1784693160494",
-   "url": "https://jobs.lever.co/binance/990a9661-c72f-4d91-a69d-c0ada1de40b0"
-  },
   "lever:binance:a6651f27-4e58-4841-91ae-5c79e2296d36": {
    "ats": "lever",
    "closed_on": null,
@@ -8280,7 +8286,7 @@
     "🔎"
    ],
    "key": "lever:binance:a6651f27-4e58-4841-91ae-5c79e2296d36",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Asia",
@@ -8306,7 +8312,7 @@
     "🔎"
    ],
    "key": "lever:binance:aecc4a9f-a131-4eaa-8771-d482168c8ca8",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Taiwan, Taipei",
@@ -8322,93 +8328,6 @@
    "updated": "1788441106060",
    "url": "https://jobs.lever.co/binance/aecc4a9f-a131-4eaa-8771-d482168c8ca8"
   },
-  "lever:binance:c0c39e9b-8795-4622-b1c5-0e93ac87c67d": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Binance",
-   "employment_type": "Binance Accelerator Program",
-   "first_seen": "2026-10-02",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:binance:c0c39e9b-8795-4622-b1c5-0e93ac87c67d",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Asia",
-    "Australia, Brisbane",
-    "Australia, Melbourne",
-    "Australia, Sydney",
-    "Thailand, Bangkok",
-    "Taiwan, Taipei"
-   ],
-   "min_years": null,
-   "posted": "2026-10-02",
-   "region": "Taiwan",
-   "slug": "binance",
-   "status": "closed",
-   "title": "Binance Accelerator Program - Backend Engineer, Pay & Card",
-   "updated": "1790911670670",
-   "url": "https://jobs.lever.co/binance/c0c39e9b-8795-4622-b1c5-0e93ac87c67d"
-  },
-  "lever:binance:da981b97-477a-4cd6-af88-797c6a7c0ea3": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Binance",
-   "employment_type": "Full-time: Remote",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:binance:da981b97-477a-4cd6-af88-797c6a7c0ea3",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Hong Kong",
-    "Taiwan, Taipei",
-    "Asia"
-   ],
-   "min_years": 1,
-   "posted": "2026-07-06",
-   "region": "Hong Kong",
-   "slug": "binance",
-   "status": "closed",
-   "title": "Web/App Test Engineer",
-   "updated": "1783310650234",
-   "url": "https://jobs.lever.co/binance/da981b97-477a-4cd6-af88-797c6a7c0ea3"
-  },
-  "lever:binance:dc0c742c-847c-4b86-88df-ddac253399a8": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Binance",
-   "employment_type": "Binance Accelerator Program",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:binance:dc0c742c-847c-4b86-88df-ddac253399a8",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Asia",
-    "Taiwan, Taipei",
-    "New Zealand, Auckland",
-    "New Zealand, Wellington",
-    "Australia, Brisbane",
-    "Australia, Melbourne",
-    "Australia, Sydney",
-    "Kuala Lumpur",
-    "Hong Kong"
-   ],
-   "min_years": null,
-   "posted": "2026-07-28",
-   "region": "Hong Kong",
-   "slug": "binance",
-   "status": "closed",
-   "title": "Binance Accelerator Program - Full Stack Engineer (Backend Oriented) Fully Remote",
-   "updated": "1785219151724",
-   "url": "https://jobs.lever.co/binance/dc0c742c-847c-4b86-88df-ddac253399a8"
-  },
   "lever:binance:deb28ea3-d0de-4fa4-ba31-f6f9ead74838": {
    "ats": "lever",
    "closed_on": null,
@@ -8419,7 +8338,7 @@
     "🔎"
    ],
    "key": "lever:binance:deb28ea3-d0de-4fa4-ba31-f6f9ead74838",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Taiwan, Taipei",
@@ -8445,7 +8364,7 @@
     "🔎"
    ],
    "key": "lever:binance:f1aa0f91-9dac-4eba-bfd7-b39fc4f98cb2",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Taiwan, Taipei",
@@ -8461,58 +8380,29 @@
    "updated": "1788936500811",
    "url": "https://jobs.lever.co/binance/f1aa0f91-9dac-4eba-bfd7-b39fc4f98cb2"
   },
-  "lever:binance:fdee019b-d17e-4655-99c4-b8d31d8e61c5": {
+  "lever:celerion:ef541240-2739-4313-bdfd-7d2cb2779309": {
    "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Binance",
-   "employment_type": "Pioneer Talent Program",
-   "first_seen": "2026-09-30",
+   "closed_on": null,
+   "company": "Celerion",
+   "employment_type": "Full-Time",
+   "first_seen": "2026-10-16",
    "flags": [
     "🔎"
    ],
-   "key": "lever:binance:fdee019b-d17e-4655-99c4-b8d31d8e61c5",
-   "last_seen": "2026-10-07",
+   "key": "lever:celerion:ef541240-2739-4313-bdfd-7d2cb2779309",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
-    "Asia",
-    "Hong Kong",
-    "Taiwan, Taipei",
-    "Kuala Lumpur",
-    "Thailand, Bangkok",
-    "UAE, Dubai"
+    "Belfast, Northern Ireland"
    ],
    "min_years": 1,
-   "posted": "2026-07-22",
-   "region": "Hong Kong",
-   "slug": "binance",
-   "status": "closed",
-   "title": "Pioneer Talent Program - Full Stack Engineer (Back-end Oriented)",
-   "updated": "1784694849082",
-   "url": "https://jobs.lever.co/binance/fdee019b-d17e-4655-99c4-b8d31d8e61c5"
-  },
-  "lever:bis:c67cbc4c-45c0-4e93-9c48-f9e5bd6e6779": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Bis",
-   "employment_type": "Full-time",
-   "first_seen": "2026-09-29",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:bis:c67cbc4c-45c0-4e93-9c48-f9e5bd6e6779",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Toronto, Ontario"
-   ],
-   "min_years": 2,
-   "posted": "2026-07-09",
-   "region": "Canada",
-   "slug": "bis",
-   "status": "closed",
-   "title": "Software Support Representative",
-   "updated": "1783632707034",
-   "url": "https://jobs.lever.co/bis/c67cbc4c-45c0-4e93-9c48-f9e5bd6e6779"
+   "posted": "2026-08-06",
+   "region": "United Kingdom",
+   "slug": "celerion",
+   "status": "open",
+   "title": "Data Programmer (UK - Hybrid)",
+   "updated": "1786004869537",
+   "url": "https://jobs.lever.co/celerion/ef541240-2739-4313-bdfd-7d2cb2779309"
   },
   "lever:coins:8dbde7d6-b2e1-46f3-bd98-b7da70a97ffe": {
    "ats": "lever",
@@ -8551,7 +8441,7 @@
     "🔎"
    ],
    "key": "lever:crypto:47509c3a-b034-470b-903a-b8e0441d5d28",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Hong Kong"
@@ -8575,7 +8465,7 @@
     "🔎"
    ],
    "key": "lever:crypto:fb6b34a5-34ed-4c8e-b185-2cfdabde023b",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Taipei"
@@ -8599,7 +8489,7 @@
     "🔎"
    ],
    "key": "lever:dailywire:af3a6f98-0446-4604-84d3-a49310d84edb",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Nashville, TN"
@@ -8623,7 +8513,7 @@
     "🗣️ Cantonese"
    ],
    "key": "lever:ekimetrics:d741727e-f25f-452a-8e40-e6d04c3395ea",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Hong Kong"
@@ -8667,7 +8557,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "lever:fehrandpeers:8b74bc9b-191a-4a83-b1e6-93090f4c7b98",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Roseville, California"
@@ -8689,7 +8579,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "lever:fehrandpeers:918675df-6eca-46b2-b3e8-b7eedc601b55",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "San Francisco, California",
@@ -8715,7 +8605,7 @@
     "🔎"
    ],
    "key": "lever:gauntlet:4fa821d9-324f-465e-bf6a-b6f5eb9fa1f3",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "New York City / San Francisco / Los Angeles / Remote"
@@ -8739,7 +8629,7 @@
     "🔎"
    ],
    "key": "lever:glsllc:3d894d1e-7cbf-4583-afc3-f644b1e40c72",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Greenville, South Carolina"
@@ -8763,7 +8653,7 @@
     "🔎"
    ],
    "key": "lever:glsllc:6fe04362-4ef7-46f2-acc7-4a72355ed90c",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Greenville, South Carolina"
@@ -8787,7 +8677,7 @@
     "🔎"
    ],
    "key": "lever:glsllc:bf8d09cd-8858-4ce4-98c1-5b685b5bf238",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Greenville, South Carolina"
@@ -8811,7 +8701,7 @@
     "🔎"
    ],
    "key": "lever:gridware:8ab11519-d906-4917-99fd-5d7210f1593a",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA"
@@ -8835,7 +8725,7 @@
     "🔎"
    ],
    "key": "lever:healx:45a2d4fc-c975-43a8-a4f0-9d74233e18b6",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Cambridge"
@@ -8849,53 +8739,29 @@
    "updated": "1787836701598",
    "url": "https://jobs.lever.co/healx/45a2d4fc-c975-43a8-a4f0-9d74233e18b6"
   },
-  "lever:jobgether:003ad2c8-a294-4aa5-bed3-6e35a2652e8c": {
+  "lever:jobgether:053c102c-a853-4c8d-aade-96a08ee59697": {
    "ats": "lever",
-   "closed_on": "2026-10-08",
+   "closed_on": null,
    "company": "Jobgether",
    "employment_type": "Full-time",
-   "first_seen": "2026-09-30",
+   "first_seen": "2026-10-16",
    "flags": [
     "🔎"
    ],
-   "key": "lever:jobgether:003ad2c8-a294-4aa5-bed3-6e35a2652e8c",
-   "last_seen": "2026-10-07",
+   "key": "lever:jobgether:053c102c-a853-4c8d-aade-96a08ee59697",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
-    "Germany"
+    "Canada"
    ],
    "min_years": 1,
-   "posted": "2026-09-30",
-   "region": "Germany",
+   "posted": "2026-10-16",
+   "region": "Canada",
    "slug": "jobgether",
-   "status": "closed",
-   "title": "Python Automation Test Engineer",
-   "updated": "1790753543086",
-   "url": "https://jobs.lever.co/jobgether/003ad2c8-a294-4aa5-bed3-6e35a2652e8c"
-  },
-  "lever:jobgether:206eceee-e53c-44b1-860c-1b9da7fca42f": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Jobgether",
-   "employment_type": "Full-time",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:jobgether:206eceee-e53c-44b1-860c-1b9da7fca42f",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Ireland"
-   ],
-   "min_years": 1,
-   "posted": "2026-09-30",
-   "region": "Ireland",
-   "slug": "jobgether",
-   "status": "closed",
-   "title": "Python Automation Test Engineer",
-   "updated": "1790753596374",
-   "url": "https://jobs.lever.co/jobgether/206eceee-e53c-44b1-860c-1b9da7fca42f"
+   "status": "open",
+   "title": "Data Developer",
+   "updated": "1792141113354",
+   "url": "https://jobs.lever.co/jobgether/053c102c-a853-4c8d-aade-96a08ee59697"
   },
   "lever:jobgether:23d15cf2-744b-49f0-8f48-c23ef8b21653": {
    "ats": "lever",
@@ -8923,7 +8789,7 @@
   },
   "lever:jobgether:3791d43d-a25e-4da5-8734-8aa22c377fb2": {
    "ats": "lever",
-   "closed_on": null,
+   "closed_on": "2026-10-16",
    "company": "Jobgether",
    "employment_type": "Full-time",
    "first_seen": "2026-10-08",
@@ -8940,80 +8806,10 @@
    "posted": "2026-10-08",
    "region": "Ireland",
    "slug": "jobgether",
-   "status": "open",
+   "status": "closed",
    "title": "Product Engineer",
    "updated": "1791420270235",
    "url": "https://jobs.lever.co/jobgether/3791d43d-a25e-4da5-8734-8aa22c377fb2"
-  },
-  "lever:jobgether:4dbd6488-3e1f-42b7-a888-44ccb78c7dbc": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Jobgether",
-   "employment_type": "Full-time",
-   "first_seen": "2026-09-30",
-   "flags": [],
-   "key": "lever:jobgether:4dbd6488-3e1f-42b7-a888-44ccb78c7dbc",
-   "last_seen": "2026-10-07",
-   "level_via": "title",
-   "locations": [
-    "Canada"
-   ],
-   "min_years": 0,
-   "posted": "2026-09-30",
-   "region": "Canada",
-   "slug": "jobgether",
-   "status": "closed",
-   "title": "Junior Developer (Finance Systems)",
-   "updated": "1790734372655",
-   "url": "https://jobs.lever.co/jobgether/4dbd6488-3e1f-42b7-a888-44ccb78c7dbc"
-  },
-  "lever:jobgether:4f0594d5-4366-47a7-9d98-367221a9b890": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Jobgether",
-   "employment_type": "Full-time",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:jobgether:4f0594d5-4366-47a7-9d98-367221a9b890",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Netherlands"
-   ],
-   "min_years": 1,
-   "posted": "2026-09-30",
-   "region": "Netherlands",
-   "slug": "jobgether",
-   "status": "closed",
-   "title": "Python Automation Test Engineer",
-   "updated": "1790753617118",
-   "url": "https://jobs.lever.co/jobgether/4f0594d5-4366-47a7-9d98-367221a9b890"
-  },
-  "lever:jobgether:69330a15-d156-4531-b9a6-068c7dafdfe6": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Jobgether",
-   "employment_type": "Full-time",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:jobgether:69330a15-d156-4531-b9a6-068c7dafdfe6",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Switzerland"
-   ],
-   "min_years": 1,
-   "posted": "2026-09-30",
-   "region": "Switzerland",
-   "slug": "jobgether",
-   "status": "closed",
-   "title": "Python Automation Test Engineer",
-   "updated": "1790753580029",
-   "url": "https://jobs.lever.co/jobgether/69330a15-d156-4531-b9a6-068c7dafdfe6"
   },
   "lever:jobgether:6e50c2fa-4d28-422a-8d31-2db73f98b3e8": {
    "ats": "lever",
@@ -9041,7 +8837,7 @@
   },
   "lever:jobgether:79fca57d-e5bb-4bf8-a9a3-8561835529d0": {
    "ats": "lever",
-   "closed_on": null,
+   "closed_on": "2026-10-16",
    "company": "Jobgether",
    "employment_type": "Full-time",
    "first_seen": "2026-10-08",
@@ -9058,62 +8854,14 @@
    "posted": "2026-10-08",
    "region": "Netherlands",
    "slug": "jobgether",
-   "status": "open",
+   "status": "closed",
    "title": "Product Engineer",
    "updated": "1791420234134",
    "url": "https://jobs.lever.co/jobgether/79fca57d-e5bb-4bf8-a9a3-8561835529d0"
   },
-  "lever:jobgether:a0228ac6-9779-4374-8eaf-d8aa33cf5d28": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Jobgether",
-   "employment_type": "Full-time",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:jobgether:a0228ac6-9779-4374-8eaf-d8aa33cf5d28",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "Canada"
-   ],
-   "min_years": 1,
-   "posted": "2026-09-30",
-   "region": "Canada",
-   "slug": "jobgether",
-   "status": "closed",
-   "title": "Python Automation Test Engineer",
-   "updated": "1790753680396",
-   "url": "https://jobs.lever.co/jobgether/a0228ac6-9779-4374-8eaf-d8aa33cf5d28"
-  },
-  "lever:jobgether:b1faccc4-475c-4816-9e7d-28cee0e32817": {
-   "ats": "lever",
-   "closed_on": "2026-10-08",
-   "company": "Jobgether",
-   "employment_type": "Full-time",
-   "first_seen": "2026-09-30",
-   "flags": [
-    "🔎"
-   ],
-   "key": "lever:jobgether:b1faccc4-475c-4816-9e7d-28cee0e32817",
-   "last_seen": "2026-10-07",
-   "level_via": "description",
-   "locations": [
-    "UK"
-   ],
-   "min_years": 1,
-   "posted": "2026-09-30",
-   "region": "United Kingdom",
-   "slug": "jobgether",
-   "status": "closed",
-   "title": "Python Automation Test Engineer",
-   "updated": "1790753496762",
-   "url": "https://jobs.lever.co/jobgether/b1faccc4-475c-4816-9e7d-28cee0e32817"
-  },
   "lever:jobgether:be1b3260-ee2a-4632-8627-ec3b26b39063": {
    "ats": "lever",
-   "closed_on": null,
+   "closed_on": "2026-10-16",
    "company": "Jobgether",
    "employment_type": "Full-time",
    "first_seen": "2026-10-08",
@@ -9130,7 +8878,7 @@
    "posted": "2026-10-08",
    "region": "Germany",
    "slug": "jobgether",
-   "status": "open",
+   "status": "closed",
    "title": "Product Engineer",
    "updated": "1791420342539",
    "url": "https://jobs.lever.co/jobgether/be1b3260-ee2a-4632-8627-ec3b26b39063"
@@ -9145,7 +8893,7 @@
     "🔎"
    ],
    "key": "lever:jobgether:c3c9900f-f98d-4e7b-8d2c-29d28c0ff501",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Canada"
@@ -9159,9 +8907,33 @@
    "updated": "1792045442250",
    "url": "https://jobs.lever.co/jobgether/c3c9900f-f98d-4e7b-8d2c-29d28c0ff501"
   },
-  "lever:jobgether:fc6de8c7-1a77-45ce-be44-88b3eeacce63": {
+  "lever:jobgether:c62eca08-360c-47ab-9b1a-6d199660a3c6": {
    "ats": "lever",
    "closed_on": null,
+   "company": "Jobgether",
+   "employment_type": "Full-time",
+   "first_seen": "2026-10-16",
+   "flags": [
+    "🔎"
+   ],
+   "key": "lever:jobgether:c62eca08-360c-47ab-9b1a-6d199660a3c6",
+   "last_seen": "2026-10-16",
+   "level_via": "description",
+   "locations": [
+    "Canada"
+   ],
+   "min_years": 2,
+   "posted": "2026-10-16",
+   "region": "Canada",
+   "slug": "jobgether",
+   "status": "open",
+   "title": "Software Quality Assurance Engineer",
+   "updated": "1792116765383",
+   "url": "https://jobs.lever.co/jobgether/c62eca08-360c-47ab-9b1a-6d199660a3c6"
+  },
+  "lever:jobgether:fc6de8c7-1a77-45ce-be44-88b3eeacce63": {
+   "ats": "lever",
+   "closed_on": "2026-10-16",
    "company": "Jobgether",
    "employment_type": "Full-time",
    "first_seen": "2026-10-08",
@@ -9178,7 +8950,7 @@
    "posted": "2026-10-08",
    "region": "Switzerland",
    "slug": "jobgether",
-   "status": "open",
+   "status": "closed",
    "title": "Product Engineer",
    "updated": "1791420293155",
    "url": "https://jobs.lever.co/jobgether/fc6de8c7-1a77-45ce-be44-88b3eeacce63"
@@ -9193,7 +8965,7 @@
     "🔎"
    ],
    "key": "lever:kpler:06747d49-ea1e-458c-93e6-1489a1a9c612",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "United Kingdom"
@@ -9217,7 +8989,7 @@
     "🔎"
    ],
    "key": "lever:kpler:10105b9b-ed9c-4ebe-8f3b-76b18edeccb8",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Paris"
@@ -9241,7 +9013,7 @@
     "🔎"
    ],
    "key": "lever:kpler:23e9e7db-ca92-4663-8b60-eed96c3859f1",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "United Kingdom"
@@ -9265,7 +9037,7 @@
     "🔎"
    ],
    "key": "lever:lalamove:7f067783-edaa-4672-9eb1-cd489c44ab22",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Hong Kong SAR"
@@ -9289,7 +9061,7 @@
     "🔎"
    ],
    "key": "lever:lalamove:9a2de1d3-5994-4507-a988-1ec34e629e14",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Hong Kong SAR"
@@ -9314,7 +9086,7 @@
     "🔎"
    ],
    "key": "lever:loftorbital:fcc29575-a827-4cc2-b7d0-a81672ebebf4",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Francisco, CA"
@@ -9338,7 +9110,7 @@
     "🔎"
    ],
    "key": "lever:magnetforensics:7cfeada6-21d6-44e6-be7d-81afbee2b502",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Waterloo, Ontario",
@@ -9363,7 +9135,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "lever:mendix:f3e656f5-cb47-4c35-9e7a-00bce29c6a2d",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Rotterdam"
@@ -9387,7 +9159,7 @@
     "🔎"
    ],
    "key": "lever:nahc:6a43ec81-8230-49fd-aa4d-daa51db33831",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Hong Kong"
@@ -9411,7 +9183,7 @@
     "🔎"
    ],
    "key": "lever:octoenergy:0903dae1-3885-4fa0-b5c9-f336d75d64d9",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London (GB)"
@@ -9459,7 +9231,7 @@
     "🔎"
    ],
    "key": "lever:olo:335fcd0d-e95d-4373-92a0-c6acc3d87275",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Belfast, Northern Ireland, Remote"
@@ -9505,7 +9277,7 @@
    "first_seen": "2026-10-14",
    "flags": [],
    "key": "lever:otilumionics:9b13354b-35de-4e13-96c0-36d8f28a0fa2",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Mississauga, ON"
@@ -9529,7 +9301,7 @@
     "🇺🇸"
    ],
    "key": "lever:palantir:cadc0eb2-2703-43e4-8e4f-41edf5b071c6",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "London, United Kingdom"
@@ -9551,7 +9323,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "lever:penumbrainc:850a8b56-f1f1-409e-a735-ac41aeec8501",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Roseville, CA"
@@ -9573,7 +9345,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "lever:penumbrainc:ab31be4e-c272-475d-91c5-aa64946747c6",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Roseville, CA"
@@ -9597,7 +9369,7 @@
     "🔎"
    ],
    "key": "lever:pointclickcare:6b7f5c7a-372b-4a4a-8187-b2c347157e14",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Mississauga"
@@ -9619,7 +9391,7 @@
    "first_seen": "2026-09-29",
    "flags": [],
    "key": "lever:pointclickcare:e56d6df3-16fb-4652-9d97-c6140700d2e0",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Remote or Mississauga"
@@ -9668,7 +9440,7 @@
     "🔎"
    ],
    "key": "lever:promiserobotics:120b526a-2491-4df5-a77a-6ca0ccb7e35a",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Calgary, AB",
@@ -9693,7 +9465,7 @@
     "🔎"
    ],
    "key": "lever:scality:50b3d620-51bd-4a15-93e5-c96d2d47b621",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Paris, France"
@@ -9709,7 +9481,7 @@
   },
   "lever:sonarsource:93c7af86-a563-47ce-8072-443b9a4762bf": {
    "ats": "lever",
-   "closed_on": null,
+   "closed_on": "2026-10-16",
    "company": "Sonarsource",
    "employment_type": "Employee / Full-Time",
    "first_seen": "2026-10-13",
@@ -9726,7 +9498,7 @@
    "posted": "2026-10-13",
    "region": "Switzerland",
    "slug": "sonarsource",
-   "status": "open",
+   "status": "closed",
    "title": "Software Engineer (Java)",
    "updated": "1791901651466",
    "url": "https://jobs.lever.co/sonarsource/93c7af86-a563-47ce-8072-443b9a4762bf"
@@ -9741,7 +9513,7 @@
     "🔎"
    ],
    "key": "lever:sonarsource:cea00267-a79c-486b-8e6d-e67b89917101",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Geneva"
@@ -9765,7 +9537,7 @@
     "🔎"
    ],
    "key": "lever:sonarsource:e503ad3d-13bc-4e9c-a141-228df320e010",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "San Mateo, CA",
@@ -9806,7 +9578,7 @@
   },
   "lever:trailappliances:adcd10ac-7e06-420f-8995-bf9c4df3c4cb": {
    "ats": "lever",
-   "closed_on": null,
+   "closed_on": "2026-10-16",
    "company": "Trailappliances",
    "employment_type": "Permanent",
    "first_seen": "2026-10-06",
@@ -9823,7 +9595,7 @@
    "posted": "2026-10-05",
    "region": "Canada",
    "slug": "trailappliances",
-   "status": "open",
+   "status": "closed",
    "title": "Delivery Driver - Class 5 - Kelowna (1026)",
    "updated": "1791226017376",
    "url": "https://jobs.lever.co/trailappliances/adcd10ac-7e06-420f-8995-bf9c4df3c4cb"
@@ -9836,7 +9608,7 @@
    "first_seen": "2026-10-03",
    "flags": [],
    "key": "lever:veeva:fecaef42-b5c1-4fb2-b819-058171174ed1",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "title",
    "locations": [
     "Canada - Toronto"
@@ -9860,7 +9632,7 @@
     "🔎"
    ],
    "key": "lever:waabi:6bcfed90-b577-4b09-a893-5c07186a1e0f",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "Toronto, ON"
@@ -9884,7 +9656,7 @@
     "🔎"
    ],
    "key": "lever:woven-by-toyota:e1cec56f-71b8-42d5-9ffe-7572b193b54a",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "level_via": "description",
    "locations": [
     "London"
@@ -9899,5 +9671,5 @@
    "url": "https://jobs.lever.co/woven-by-toyota/e1cec56f-71b8-42d5-9ffe-7572b193b54a"
   }
  },
- "updated": "2026-10-15"
+ "updated": "2026-10-16"
 }
